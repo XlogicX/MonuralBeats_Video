@@ -1,0 +1,3297 @@
+time: 0.0 - "Intro"
+time: 0.0 - "ixi_techno Effect"
+time: 0.0 - "bd_tek.flac"
+time: 0.32 - "drum_snare_hard.flac"
+time: 0.8 - "bd_tek.flac"
+time: 0.96 - "drum_snare_hard.flac"
+time: 1.28 - "bd_tek.flac"
+time: 1.6 - "drum_snare_hard.flac"
+time: 2.08 - "bd_tek.flac"
+time: 2.24 - "drum_snare_hard.flac"
+time: 2.56 - "bd_tek.flac"
+time: 2.88 - "drum_snare_hard.flac"
+time: 3.36 - "bd_tek.flac"
+time: 3.52 - "drum_snare_hard.flac"
+time: 3.84 - "bd_tek.flac"
+time: 3.96 - "drum_cymbal_closed.flac"
+time: 4.0 - "bd_tek.flac"
+time: 4.12 - "drum_cymbal_closed.flac"
+time: 4.16 - "drum_snare_hard.flac"
+time: 4.28 - "drum_cymbal_closed.flac"
+time: 4.6 - "drum_cymbal_closed.flac"
+time: 4.64 - "bd_tek.flac"
+time: 4.76 - "drum_cymbal_closed.flac"
+time: 4.8 - "drum_snare_hard.flac"
+time: 4.92 - "drum_cymbal_closed.flac"
+time: 5.08 - "drum_cymbal_closed.flac"
+time: 5.12 - "tanh Effect"
+time: 5.12 - "bd_tek.flac"
+time: 5.44 - "drum_snare_hard.flac"
+time: 5.92 - "bd_tek.flac"
+time: 6.08 - "drum_snare_hard.flac"
+time: 6.4 - "bd_tek.flac"
+time: 6.72 - "drum_snare_hard.flac"
+time: 7.2 - "bd_tek.flac"
+time: 7.36 - "drum_snare_hard.flac"
+time: 7.68 - "bd_tek.flac"
+time: 8.0 - "drum_snare_hard.flac"
+time: 8.48 - "bd_tek.flac"
+time: 8.64 - "drum_snare_hard.flac"
+time: 8.96 - "bd_tek.flac"
+time: 9.08 - "drum_cymbal_closed.flac"
+time: 9.12 - "bd_tek.flac"
+time: 9.24 - "drum_cymbal_closed.flac"
+time: 9.28 - "drum_snare_hard.flac"
+time: 9.32 - "drum_cymbal_closed.flac", {amp: 0.5}
+time: 9.4 - "drum_cymbal_closed.flac"
+time: 9.44 - "drum_snare_hard.flac"
+time: 9.68 - "drum_snare_hard.flac"
+time: 9.72 - "drum_cymbal_closed.flac"
+time: 9.76 - "bd_tek.flac"
+time: 9.88 - "drum_cymbal_closed.flac"
+time: 9.92 - "drum_snare_hard.flac"
+time: 10.04 - "drum_cymbal_closed.flac"
+time: 10.12 - "drum_cymbal_closed.flac", {amp: 0.5}
+time: 10.2 - "drum_cymbal_closed.flac"
+time: 10.24 - "bd_tek.flac"
+time: 10.36 - "drum_cymbal_closed.flac"
+time: 10.52 - "drum_cymbal_closed.flac"
+time: 10.56 - "drum_snare_hard.flac"
+time: 10.68 - "drum_cymbal_closed.flac"
+time: 11.0 - "drum_cymbal_closed.flac"
+time: 11.04 - "bd_tek.flac"
+time: 11.16 - "drum_cymbal_closed.flac"
+time: 11.2 - "drum_snare_hard.flac"
+time: 11.32 - "drum_cymbal_closed.flac"
+time: 11.48 - "drum_cymbal_closed.flac"
+time: 11.52 - "bd_tek.flac"
+time: 11.64 - "drum_cymbal_closed.flac"
+time: 11.8 - "drum_cymbal_closed.flac"
+time: 11.84 - "drum_snare_hard.flac"
+time: 11.96 - "drum_cymbal_closed.flac"
+time: 12.28 - "drum_cymbal_closed.flac"
+time: 12.32 - "bd_tek.flac"
+time: 12.48 - "drum_snare_hard.flac"
+time: 12.6 - "drum_cymbal_closed.flac"
+time: 12.76 - "drum_cymbal_closed.flac"
+time: 12.8 - "bd_tek.flac"
+time: 12.92 - "drum_cymbal_closed.flac"
+time: 13.12 - "drum_snare_hard.flac"
+time: 13.56 - "drum_cymbal_closed.flac"
+time: 13.6 - "bd_tek.flac"
+time: 13.72 - "drum_cymbal_closed.flac"
+time: 13.76 - "drum_snare_hard.flac"
+time: 13.88 - "drum_cymbal_closed.flac"
+time: 14.04 - "drum_cymbal_closed.flac"
+time: 14.08 - "bd_tek.flac"
+time: 14.2 - "drum_cymbal_closed.flac"
+time: 14.24 - "bd_tek.flac"
+time: 14.28 - "drum_cymbal_closed.flac", {amp: 0.5}
+time: 14.36 - "drum_cymbal_closed.flac"
+time: 14.4 - "drum_snare_hard.flac"
+time: 14.52 - "drum_cymbal_closed.flac"
+time: 14.56 - "drum_snare_hard.flac"
+time: 14.84 - "drum_cymbal_closed.flac"
+time: 14.88 - "bd_tek.flac"
+time: 15.0 - "drum_cymbal_closed.flac"
+time: 15.04 - "drum_snare_hard.flac"
+time: 15.16 - "drum_cymbal_closed.flac"
+time: 15.2 - "drum_snare_hard.flac"
+time: 15.24 - "drum_cymbal_closed.flac", {amp: 0.5}
+time: 15.28 - "drum_snare_hard.flac"
+time: 15.32 - "drum_cymbal_closed.flac"
+time: 15.36 - "bd_tek.flac"
+time: 15.48 - "drum_cymbal_closed.flac"
+time: 15.64 - "drum_cymbal_closed.flac"
+time: 15.68 - "drum_snare_hard.flac"
+time: 15.8 - "drum_cymbal_closed.flac"
+time: 16.12 - "drum_cymbal_closed.flac"
+time: 16.16 - "bd_tek.flac"
+time: 16.28 - "drum_cymbal_closed.flac"
+time: 16.32 - "drum_snare_hard.flac"
+time: 16.64 - "bd_tek.flac"
+time: 16.76 - "drum_cymbal_closed.flac"
+time: 16.8 - "bd_tek.flac"
+time: 16.92 - "drum_cymbal_closed.flac"
+time: 16.96 - "drum_snare_hard.flac"
+time: 17.08 - "drum_cymbal_closed.flac"
+time: 17.4 - "drum_cymbal_closed.flac"
+time: 17.44 - "bd_tek.flac"
+time: 17.6 - "drum_snare_hard.flac"
+time: 17.72 - "drum_cymbal_closed.flac"
+time: 17.88 - "drum_cymbal_closed.flac"
+time: 17.92 - "bd_tek.flac"
+time: 18.04 - "drum_cymbal_closed.flac"
+time: 18.08 - "bd_tek.flac"
+time: 18.2 - "drum_cymbal_closed.flac"
+time: 18.24 - "drum_snare_hard.flac"
+time: 18.36 - "drum_cymbal_closed.flac"
+time: 18.68 - "drum_cymbal_closed.flac"
+time: 18.72 - "bd_tek.flac"
+time: 18.84 - "drum_cymbal_closed.flac"
+time: 18.88 - "drum_snare_hard.flac"
+time: 19.0 - "drum_cymbal_closed.flac"
+time: 19.16 - "drum_cymbal_closed.flac"
+time: 19.2 - "bd_tek.flac"
+time: 19.24 - "drum_cymbal_closed.flac", {amp: 0.5}
+time: 19.28 - "drum_tom_mid_soft.flac", {amp: 0.7}
+time: 19.32 - "drum_cymbal_closed.flac"
+time: 19.48 - "drum_cymbal_soft.flac"
+time: 19.52 - "drum_snare_hard.flac"
+time: 19.56 - "drum_cymbal_soft.flac", {amp: 0.5}
+time: 19.6 - "drum_tom_mid_soft.flac", {amp: 0.7}
+time: 19.64 - "drum_cymbal_soft.flac"
+time: 19.68 - "drum_snare_hard.flac"
+time: 19.72 - "drum_cymbal_soft.flac", {amp: 0.5}
+time: 19.88 - "drum_cymbal_closed.flac", {amp: 0.5}
+time: 19.96 - "drum_cymbal_closed.flac"
+time: 20.0 - "bd_tek.flac"
+time: 20.12 - "drum_cymbal_closed.flac"
+time: 20.16 - "drum_snare_hard.flac"
+time: 20.28 - "drum_cymbal_closed.flac"
+time: 20.36 - "drum_cymbal_soft.flac", {amp: 0.5}
+time: 20.4 - "drum_snare_hard.flac"
+time: 20.44 - "drum_cymbal_closed.flac"
+time: 20.48 - "bd_tek.flac"
+time: 20.6 - "drum_cymbal_closed.flac"
+time: 20.64 - "bd_tek.flac"
+time: 20.76 - "drum_cymbal_closed.flac"
+time: 20.8 - "drum_snare_hard.flac"
+time: 20.92 - "drum_cymbal_closed.flac"
+time: 21.24 - "drum_cymbal_closed.flac"
+time: 21.28 - "bd_tek.flac"
+time: 21.4 - "drum_cymbal_closed.flac"
+time: 21.44 - "drum_snare_hard.flac"
+time: 21.56 - "drum_cymbal_closed.flac"
+time: 21.6 - "drum_snare_hard.flac"
+time: 21.72 - "drum_cymbal_closed.flac"
+time: 21.76 - "bd_tek.flac"
+time: 21.88 - "drum_cymbal_closed.flac"
+time: 22.04 - "drum_cymbal_closed.flac"
+time: 22.08 - "drum_snare_hard.flac"
+time: 22.2 - "drum_cymbal_closed.flac"
+time: 22.52 - "drum_cymbal_closed.flac"
+time: 22.56 - "bd_tek.flac"
+time: 22.68 - "drum_cymbal_closed.flac"
+time: 22.72 - "drum_snare_hard.flac"
+time: 22.84 - "drum_cymbal_closed.flac"
+time: 23.0 - "drum_cymbal_closed.flac"
+time: 23.04 - "bd_tek.flac"
+time: 23.16 - "drum_cymbal_closed.flac"
+time: 23.2 - "bd_tek.flac"
+time: 23.32 - "drum_cymbal_closed.flac"
+time: 23.36 - "drum_snare_hard.flac"
+time: 23.48 - "drum_cymbal_closed.flac"
+time: 23.8 - "drum_cymbal_closed.flac"
+time: 23.84 - "bd_tek.flac"
+time: 23.96 - "drum_cymbal_closed.flac"
+time: 24.0 - "drum_snare_hard.flac"
+time: 24.16 - "drum_snare_hard.flac"
+time: 24.28 - "drum_cymbal_closed.flac"
+time: 24.32 - "bd_tek.flac"
+time: 24.36 - "drum_cymbal_closed.flac", {amp: 0.5}
+time: 24.44 - "drum_cymbal_closed.flac"
+time: 24.48 - "bd_tek.flac"
+time: 24.52 - "drum_cymbal_closed.flac", {amp: 0.5}
+time: 24.6 - "drum_cymbal_soft.flac"
+time: 24.64 - "drum_snare_hard.flac"
+time: 24.68 - "drum_cymbal_closed.flac", {amp: 0.5}
+time: 24.76 - "drum_cymbal_closed.flac"
+time: 25.08 - "drum_cymbal_soft.flac"
+time: 25.12 - "bd_tek.flac"
+time: 25.24 - "drum_cymbal_closed.flac"
+time: 25.28 - "drum_snare_hard.flac"
+time: 25.4 - "drum_cymbal_closed.flac"
+time: 25.44 - "drum_snare_hard.flac"
+time: 25.48 - "drum_cymbal_closed.flac", {amp: 0.5}
+time: 25.56 - "drum_cymbal_soft.flac"
+time: 25.6 - "bd_tek.flac"
+time: 25.72 - "drum_cymbal_closed.flac"
+time: 25.76 - "bd_tek.flac"
+time: 25.88 - "drum_cymbal_closed.flac"
+time: 25.92 - "drum_snare_hard.flac"
+time: 25.96 - "drum_cymbal_closed.flac", {amp: 0.5}
+time: 26.04 - "drum_cymbal_closed.flac"
+time: 26.12 - "drum_cymbal_closed.flac", {amp: 0.5}
+time: 26.28 - "drum_cymbal_closed.flac", {amp: 0.5}
+time: 26.36 - "drum_cymbal_closed.flac"
+time: 26.4 - "bd_tek.flac"
+time: 26.52 - "drum_cymbal_closed.flac"
+time: 26.56 - "drum_snare_hard.flac"
+time: 26.68 - "drum_cymbal_closed.flac"
+time: 26.72 - "drum_snare_hard.flac"
+time: 26.76 - "drum_cymbal_closed.flac", {amp: 0.5}
+time: 26.84 - "drum_cymbal_closed.flac"
+time: 26.88 - "bd_tek.flac"
+time: 27.0 - "drum_cymbal_closed.flac"
+time: 27.04 - "bd_ada.flac"
+time: 27.08 - "drum_cymbal_closed.flac", {amp: 0.5}
+time: 27.16 - "drum_cymbal_closed.flac"
+time: 27.2 - "drum_snare_hard.flac"
+time: 27.32 - "drum_cymbal_closed.flac"
+time: 27.36 - "drum_snare_hard.flac"
+time: 27.4 - "drum_cymbal_closed.flac", {amp: 0.5}
+time: 27.64 - "drum_cymbal_closed.flac"
+time: 27.68 - "bd_tek.flac"
+time: 27.72 - "drum_cymbal_closed.flac", {amp: 0.5}
+time: 27.8 - "drum_cymbal_closed.flac"
+time: 27.84 - "drum_snare_hard.flac"
+time: 27.88 - "drum_cymbal_closed.flac", {amp: 0.5}
+time: 27.96 - "drum_cymbal_closed.flac"
+time: 28.0 - "drum_snare_hard.flac"
+time: 28.12 - "drum_cymbal_closed.flac"
+time: 28.16 - "bd_tek.flac"
+time: 28.28 - "drum_cymbal_closed.flac"
+time: 28.44 - "drum_cymbal_closed.flac"
+time: 28.48 - "drum_snare_hard.flac"
+time: 28.52 - "drum_cymbal_closed.flac", {amp: 0.5}
+time: 28.68 - "drum_cymbal_closed.flac", {amp: 0.5}
+time: 28.84 - "drum_cymbal_closed.flac", {amp: 0.5}
+time: 28.92 - "drum_cymbal_closed.flac"
+time: 28.96 - "bd_tek.flac"
+time: 29.0 - "drum_cymbal_closed.flac", {amp: 0.5}
+time: 29.08 - "drum_cymbal_closed.flac"
+time: 29.12 - "drum_snare_hard.flac"
+time: 29.24 - "drum_cymbal_closed.flac"
+time: 29.32 - "drum_cymbal_closed.flac", {amp: 0.5}
+time: 29.4 - "drum_cymbal_closed.flac"
+time: 29.44 - "bd_tek.flac"
+time: 29.48 - "drum_cymbal_closed.flac", {amp: 0.5}
+time: 29.52 - "drum_tom_lo_soft.flac", {amp: 0.7}
+time: 29.56 - "drum_cymbal_closed.flac"
+time: 29.6 - "bd_tek.flac"
+time: 29.64 - "drum_cymbal_soft.flac", {amp: 0.5}
+time: 29.68 - "drum_tom_hi_soft.flac", {amp: 0.7}
+time: 29.72 - "drum_cymbal_soft.flac"
+time: 29.76 - "drum_snare_hard.flac"
+time: 29.8 - "drum_cymbal_soft.flac", {amp: 0.5}
+time: 29.88 - "drum_cymbal_soft.flac"
+time: 30.08 - "drum_tom_hi_soft.flac", {amp: 0.7}
+time: 30.12 - "drum_cymbal_closed.flac", {amp: 0.5}
+time: 30.16 - "drum_snare_hard.flac"
+time: 30.2 - "drum_cymbal_soft.flac"
+time: 30.24 - "bd_tek.flac"
+time: 30.36 - "drum_cymbal_soft.flac"
+time: 30.4 - "drum_snare_hard.flac"
+time: 30.48 - "drum_tom_mid_soft.flac", {amp: 0.7}
+time: 30.52 - "drum_cymbal_closed.flac"
+time: 30.56 - "drum_snare_hard.flac"
+time: 30.6 - "drum_cymbal_closed.flac", {amp: 0.5}
+time: 30.68 - "drum_cymbal_soft.flac"
+time: 30.72 - "bd_tek.flac"
+time: 30.84 - "drum_cymbal_closed.flac"
+time: 31.0 - "drum_cymbal_closed.flac"
+time: 31.04 - "drum_snare_hard.flac"
+time: 31.2 - "drum_snare_hard.flac"
+time: 31.4 - "drum_cymbal_closed.flac", {amp: 0.5}
+time: 31.44 - "drum_snare_hard.flac"
+time: 31.48 - "drum_cymbal_closed.flac"
+time: 31.52 - "bd_tek.flac"
+time: 31.64 - "drum_cymbal_closed.flac"
+time: 31.68 - "drum_snare_hard.flac"
+time: 31.8 - "drum_cymbal_closed.flac"
+time: 31.84 - "drum_snare_hard.flac"
+time: 31.92 - "drum_snare_hard.flac"
+time: 31.96 - "drum_cymbal_closed.flac"
+time: 32.0 - "bd_tek.flac"
+time: 32.12 - "drum_cymbal_closed.flac"
+time: 32.16 - "bd_tek.flac"
+time: 32.28 - "drum_cymbal_closed.flac"
+time: 32.32 - "drum_snare_hard.flac"
+time: 32.44 - "drum_cymbal_closed.flac"
+time: 32.48 - "drum_snare_hard.flac"
+time: 32.52 - "drum_cymbal_closed.flac", {amp: 0.5}
+time: 32.72 - "drum_snare_hard.flac"
+time: 32.76 - "drum_cymbal_closed.flac"
+time: 32.8 - "bd_tek.flac"
+time: 32.84 - "drum_cymbal_closed.flac", {amp: 0.5}
+time: 32.92 - "drum_cymbal_closed.flac"
+time: 32.96 - "drum_snare_hard.flac"
+time: 33.08 - "drum_cymbal_closed.flac"
+time: 33.12 - "drum_snare_hard.flac"
+time: 33.16 - "drum_cymbal_closed.flac", {amp: 0.5}
+time: 33.2 - "drum_snare_hard.flac"
+time: 33.24 - "drum_cymbal_closed.flac"
+time: 33.28 - "bd_tek.flac"
+time: 33.32 - "drum_cymbal_closed.flac", {amp: 0.5}
+time: 33.4 - "drum_cymbal_closed.flac"
+time: 33.48 - "drum_cymbal_closed.flac", {amp: 0.5}
+time: 33.56 - "drum_cymbal_closed.flac"
+time: 33.6 - "drum_snare_hard.flac"
+time: 33.64 - "drum_cymbal_closed.flac", {amp: 0.5}
+time: 33.72 - "drum_cymbal_closed.flac"
+time: 34.04 - "drum_cymbal_closed.flac"
+time: 34.08 - "bd_tek.flac"
+time: 34.12 - "drum_cymbal_closed.flac", {amp: 0.5}
+time: 34.2 - "drum_cymbal_closed.flac"
+time: 34.24 - "drum_snare_hard.flac"
+time: 34.36 - "drum_cymbal_closed.flac"
+time: 34.4 - "drum_snare_hard.flac"
+time: 34.48 - "drum_snare_hard.flac"
+time: 34.52 - "drum_cymbal_closed.flac"
+time: 34.56 - "bd_tek.flac"
+time: 34.6 - "drum_cymbal_soft.flac", {amp: 0.5}
+time: 34.68 - "drum_cymbal_soft.flac"
+time: 34.72 - "bd_boom.flac"
+time: 34.84 - "drum_cymbal_soft.flac"
+time: 34.88 - "drum_snare_hard.flac"
+time: 34.96 - "elec_fuzz_tom.flac"
+time: 35.04 - "elec_hi_snare.flac"
+time: 35.12 - "elec_fuzz_tom.flac"
+time: 35.24 - "drum_cymbal_soft.flac", {amp: 0.5}
+time: 35.28 - "sn_zome.flac"
+time: 35.32 - "drum_cymbal_closed.flac"
+time: 35.36 - "bd_tek.flac"
+time: 35.4 - "drum_cymbal_soft.flac", {amp: 0.5}
+time: 35.44 - "drum_tom_hi_soft.flac", {amp: 0.7}
+time: 35.48 - "drum_cymbal_closed.flac"
+time: 35.52 - "drum_snare_hard.flac"
+time: 35.56 - "drum_cymbal_closed.flac", {amp: 0.5}
+time: 35.68 - "drum_snare_hard.flac"
+time: 35.8 - "drum_splash_soft.flac"
+time: 35.84 - "bd_tek.flac"
+time: 35.88 - "drum_cymbal_closed.flac", {amp: 0.5}
+time: 35.96 - "drum_cymbal_closed.flac"
+time: 36.0 - "bd_zum.flac"
+time: 36.12 - "drum_cymbal_closed.flac"
+time: 36.16 - "drum_snare_hard.flac"
+time: 36.2 - "drum_cymbal_closed.flac", {amp: 0.5}
+time: 36.28 - "drum_cymbal_closed.flac"
+time: 36.36 - "drum_cymbal_closed.flac", {amp: 0.5}
+time: 36.56 - "drum_snare_hard.flac"
+time: 36.6 - "drum_cymbal_closed.flac"
+time: 36.64 - "bd_tek.flac"
+time: 36.76 - "drum_cymbal_closed.flac"
+time: 36.8 - "drum_snare_hard.flac"
+time: 36.92 - "drum_cymbal_soft.flac"
+time: 36.96 - "drum_snare_hard.flac"
+time: 37.0 - "drum_cymbal_closed.flac", {amp: 0.5}
+time: 37.08 - "drum_cymbal_closed.flac"
+time: 37.12 - "bd_tek.flac"
+time: 37.2 - "drum_tom_mid_soft.flac", {amp: 0.7}
+time: 37.24 - "drum_cymbal_closed.flac"
+time: 37.28 - "bd_tek.flac"
+time: 37.32 - "drum_cymbal_closed.flac", {amp: 0.5}
+time: 37.4 - "drum_cymbal_closed.flac"
+time: 37.44 - "drum_snare_hard.flac"
+time: 37.56 - "drum_cymbal_closed.flac"
+time: 37.64 - "drum_cymbal_soft.flac", {amp: 0.5}
+time: 37.8 - "drum_cymbal_soft.flac", {amp: 0.5}
+time: 37.88 - "drum_cymbal_soft.flac"
+time: 37.92 - "bd_tek.flac"
+time: 37.96 - "drum_cymbal_soft.flac", {amp: 0.5}
+time: 38.04 - "drum_cymbal_closed.flac"
+time: 38.08 - "drum_snare_hard.flac"
+time: 38.12 - "drum_cymbal_soft.flac", {amp: 0.5}
+time: 38.16 - "drum_tom_mid_soft.flac", {amp: 0.7}
+time: 38.2 - "drum_cymbal_closed.flac"
+time: 38.32 - "drum_snare_hard.flac"
+time: 38.36 - "drum_cymbal_soft.flac"
+time: 38.4 - "bd_tek.flac"
+time: 38.44 - "drum_cymbal_closed.flac", {amp: 0.5}
+time: 38.52 - "drum_cymbal_closed.flac"
+time: 38.56 - "bd_zum.flac"
+time: 38.68 - "drum_cymbal_closed.flac"
+time: 38.72 - "drum_snare_hard.flac"
+time: 38.76 - "drum_cymbal_soft.flac", {amp: 0.5}
+time: 38.84 - "drum_cymbal_closed.flac"
+time: 38.88 - "drum_snare_hard.flac"
+time: 38.92 - "drum_cymbal_closed.flac", {amp: 0.5}
+time: 39.08 - "drum_cymbal_closed.flac", {amp: 0.5}
+time: 39.12 - "drum_snare_hard.flac"
+time: 39.16 - "drum_cymbal_closed.flac"
+time: 39.2 - "bd_tek.flac"
+time: 39.24 - "drum_cymbal_closed.flac", {amp: 0.5}
+time: 39.32 - "drum_cymbal_closed.flac"
+time: 39.36 - "drum_snare_hard.flac"
+time: 39.4 - "drum_cymbal_closed.flac", {amp: 0.5}
+time: 39.48 - "drum_cymbal_closed.flac"
+time: 39.52 - "drum_snare_hard.flac"
+time: 39.56 - "drum_cymbal_closed.flac", {amp: 0.5}
+time: 39.64 - "drum_cymbal_closed.flac"
+time: 39.68 - "bd_tek.flac"
+time: 39.72 - "drum_cymbal_soft.flac", {amp: 0.5}
+time: 39.8 - "drum_cymbal_closed.flac"
+time: 39.88 - "drum_cymbal_soft.flac", {amp: 0.5}
+time: 39.92 - "drum_tom_hi_soft.flac", {amp: 0.7}
+time: 39.96 - "drum_cymbal_closed.flac"
+time: 40.0 - "drum_snare_hard.flac"
+time: 40.04 - "drum_cymbal_soft.flac", {amp: 0.5}
+time: 40.12 - "drum_cymbal_closed.flac"
+time: 40.16 - "drum_snare_hard.flac"
+time: 40.24 - "elec_tick.flac"
+time: 40.4 - "sn_generic.flac"
+time: 40.44 - "drum_cymbal_closed.flac"
+time: 40.48 - "bd_tek.flac"
+time: 40.6 - "drum_cymbal_soft.flac"
+time: 40.64 - "drum_snare_hard.flac"
+time: 40.72 - "drum_tom_lo_soft.flac", {amp: 0.7}
+time: 40.8 - "drum_snare_hard.flac"
+time: 40.84 - "drum_cymbal_pedal.flac", {amp: 0.5}
+time: 40.92 - "drum_cymbal_closed.flac"
+time: 40.96 - "bd_tek.flac"
+time: 41.0 - "drum_cymbal_closed.flac", {amp: 0.5}
+time: 41.08 - "drum_cymbal_closed.flac"
+time: 41.12 - "bd_tek.flac"
+time: 41.24 - "drum_cymbal_closed.flac"
+time: 41.28 - "drum_snare_hard.flac"
+time: 41.4 - "drum_cymbal_soft.flac"
+time: 41.48 - "drum_cymbal_closed.flac", {amp: 0.5}
+time: 41.64 - "drum_cymbal_closed.flac", {amp: 0.5}
+time: 41.68 - "elec_hi_snare.flac"
+time: 41.72 - "drum_cymbal_closed.flac"
+time: 41.76 - "bd_tek.flac"
+time: 41.8 - "drum_cymbal_closed.flac", {amp: 0.5}
+time: 41.88 - "drum_cymbal_soft.flac"
+time: 41.92 - "drum_snare_hard.flac"
+time: 42.0 - "drum_tom_mid_soft.flac", {amp: 0.7}
+time: 42.04 - "drum_cymbal_closed.flac"
+time: 42.12 - "drum_cymbal_soft.flac", {amp: 0.5}
+time: 42.2 - "drum_cymbal_closed.flac"
+time: 42.24 - "bd_tek.flac"
+time: 42.28 - "drum_cymbal_closed.flac", {amp: 0.5}
+time: 42.36 - "drum_cymbal_closed.flac"
+time: 42.4 - "bd_klub.flac"
+time: 42.52 - "drum_cymbal_closed.flac"
+time: 42.56 - "drum_snare_hard.flac"
+time: 42.6 - "drum_cymbal_closed.flac", {amp: 0.5}
+time: 42.68 - "drum_cymbal_closed.flac"
+time: 42.72 - "elec_hi_snare.flac"
+time: 42.92 - "drum_cymbal_soft.flac", {amp: 0.5}
+time: 43.0 - "drum_cymbal_closed.flac"
+time: 43.04 - "bd_tek.flac"
+time: 43.08 - "drum_cymbal_closed.flac", {amp: 0.5}
+time: 43.16 - "drum_cymbal_closed.flac"
+time: 43.2 - "drum_snare_hard.flac"
+time: 43.24 - "drum_cymbal_soft.flac", {amp: 0.5}
+time: 43.28 - "drum_tom_mid_soft.flac", {amp: 0.7}
+time: 43.32 - "drum_cymbal_soft.flac"
+time: 43.48 - "drum_cymbal_closed.flac"
+time: 43.52 - "bd_tek.flac"
+time: 43.64 - "drum_cymbal_closed.flac"
+time: 43.72 - "drum_cymbal_closed.flac", {amp: 0.5}
+time: 43.8 - "drum_cymbal_closed.flac"
+time: 43.84 - "drum_snare_hard.flac"
+time: 43.88 - "drum_cymbal_soft.flac", {amp: 0.5}
+time: 43.96 - "drum_cymbal_soft.flac"
+time: 44.2 - "drum_cymbal_soft.flac", {amp: 0.5}
+time: 44.28 - "drum_cymbal_soft.flac"
+time: 44.32 - "bd_tek.flac"
+time: 44.44 - "drum_cymbal_closed.flac"
+time: 44.48 - "drum_snare_hard.flac"
+time: 44.52 - "drum_cymbal_closed.flac", {amp: 0.5}
+time: 44.6 - "drum_cymbal_soft.flac"
+time: 44.72 - "elec_hi_snare.flac"
+time: 44.76 - "drum_cymbal_soft.flac"
+time: 44.8 - "bd_tek.flac"
+time: 44.88 - "drum_tom_mid_soft.flac", {amp: 0.7}
+time: 44.92 - "drum_cymbal_soft.flac"
+time: 44.96 - "bd_boom.flac"
+time: 45.0 - "drum_cymbal_closed.flac", {amp: 0.5}
+time: 45.04 - "elec_tick.flac"
+time: 45.08 - "drum_cymbal_soft.flac"
+time: 45.12 - "drum_snare_hard.flac"
+time: 45.2 - "drum_tom_lo_soft.flac", {amp: 0.7}
+time: 45.24 - "drum_cymbal_closed.flac"
+time: 45.36 - "elec_tick.flac"
+time: 45.44 - "elec_fuzz_tom.flac"
+time: 45.48 - "drum_cymbal_closed.flac", {amp: 0.5}
+time: 45.56 - "drum_cymbal_soft.flac"
+time: 45.6 - "bd_tek.flac"
+time: 45.64 - "drum_cymbal_soft.flac", {amp: 0.5}
+time: 45.72 - "drum_cymbal_pedal.flac"
+time: 45.76 - "drum_snare_hard.flac"
+time: 45.8 - "drum_cymbal_pedal.flac", {amp: 0.5}
+time: 45.92 - "drum_snare_hard.flac"
+time: 45.96 - "drum_cymbal_closed.flac", {amp: 0.5}
+time: 46.04 - "drum_cymbal_soft.flac"
+time: 46.08 - "bd_tek.flac"
+time: 46.2 - "drum_cymbal_soft.flac"
+time: 46.36 - "drum_cymbal_closed.flac"
+time: 46.4 - "drum_snare_hard.flac"
+time: 46.52 - "drum_cymbal_closed.flac"
+time: 46.56 - "drum_snare_hard.flac"
+time: 46.64 - "drum_tom_lo_soft.flac", {amp: 0.7}
+time: 46.8 - "sn_generic.flac"
+time: 46.84 - "drum_cymbal_closed.flac"
+time: 46.88 - "bd_tek.flac"
+time: 47.0 - "drum_cymbal_closed.flac"
+time: 47.04 - "drum_snare_hard.flac"
+time: 47.08 - "drum_cymbal_closed.flac", {amp: 0.5}
+time: 47.16 - "drum_cymbal_soft.flac"
+time: 47.2 - "drum_snare_hard.flac"
+time: 47.24 - "drum_cymbal_closed.flac", {amp: 0.5}
+time: 47.28 - "drum_snare_hard.flac"
+time: 47.32 - "drum_cymbal_closed.flac"
+time: 47.36 - "bd_tek.flac"
+time: 47.48 - "drum_cymbal_closed.flac"
+time: 47.52 - "bd_boom.flac"
+time: 47.56 - "drum_cymbal_soft.flac", {amp: 0.5}
+time: 47.6 - "drum_tom_lo_soft.flac", {amp: 0.7}
+time: 47.64 - "drum_cymbal_closed.flac"
+time: 47.68 - "drum_snare_hard.flac"
+time: 47.72 - "drum_cymbal_closed.flac", {amp: 0.5}
+time: 47.8 - "drum_cymbal_closed.flac"
+time: 47.88 - "drum_cymbal_closed.flac", {amp: 0.5}
+time: 48.08 - "drum_snare_hard.flac"
+time: 48.12 - "drum_cymbal_soft.flac"
+time: 48.16 - "bd_tek.flac"
+time: 48.28 - "drum_cymbal_closed.flac"
+time: 48.32 - "drum_snare_hard.flac"
+time: 48.36 - "drum_cymbal_closed.flac", {amp: 0.5}
+time: 48.44 - "drum_cymbal_closed.flac"
+time: 48.48 - "drum_snare_hard.flac"
+time: 48.56 - "sn_generic.flac"
+time: 48.6 - "drum_cymbal_closed.flac"
+time: 48.64 - "bd_tek.flac"
+time: 48.72 - "drum_tom_hi_soft.flac", {amp: 0.7}
+time: 48.76 - "drum_cymbal_closed.flac"
+time: 48.88 - "drum_tom_hi_soft.flac", {amp: 0.7}
+time: 48.96 - "drum_snare_hard.flac"
+time: 49.0 - "drum_cymbal_soft.flac", {amp: 0.5}
+time: 49.08 - "drum_cymbal_closed.flac"
+time: 49.2 - "drum_tom_hi_soft.flac", {amp: 0.7}
+time: 49.32 - "drum_cymbal_soft.flac", {amp: 0.5}
+time: 49.4 - "drum_cymbal_closed.flac"
+time: 49.44 - "bd_tek.flac"
+time: 49.52 - "drum_tom_hi_soft.flac", {amp: 0.7}
+time: 49.56 - "drum_cymbal_closed.flac"
+time: 49.6 - "drum_snare_hard.flac"
+time: 49.64 - "drum_cymbal_closed.flac", {amp: 0.5}
+time: 49.68 - "drum_tom_hi_soft.flac", {amp: 0.7}
+time: 49.72 - "drum_cymbal_closed.flac"
+time: 49.88 - "drum_cymbal_closed.flac"
+time: 49.92 - "bd_tek.flac"
+time: 49.96 - "drum_cymbal_closed.flac", {amp: 0.5}
+time: 50.04 - "drum_cymbal_closed.flac"
+time: 50.08 - "bd_fat.flac"
+time: 50.12 - "drum_cymbal_pedal.flac", {amp: 0.5}
+time: 50.2 - "drum_cymbal_pedal.flac"
+time: 50.24 - "drum_snare_hard.flac"
+time: 50.32 - "elec_tick.flac"
+time: 50.36 - "drum_cymbal_soft.flac"
+time: 50.4 - "drum_snare_soft.flac"
+time: 50.56 - "elec_fuzz_tom.flac"
+time: 50.68 - "drum_cymbal_soft.flac"
+time: 50.72 - "bd_tek.flac"
+time: 50.76 - "drum_cymbal_soft.flac", {amp: 0.5}
+time: 50.84 - "drum_cymbal_pedal.flac"
+time: 50.88 - "drum_snare_hard.flac"
+time: 50.92 - "drum_cymbal_closed.flac", {amp: 0.5}
+time: 51.04 - "drum_snare_hard.flac"
+time: 51.08 - "drum_cymbal_closed.flac", {amp: 0.5}
+time: 51.12 - "drum_snare_soft.flac"
+time: 51.16 - "drum_cymbal_closed.flac"
+time: 51.2 - "bd_tek.flac"
+time: 51.24 - "drum_cymbal_closed.flac", {amp: 0.5}
+time: 51.32 - "drum_cymbal_closed.flac"
+time: 51.36 - "bd_klub.flac"
+time: 51.48 - "drum_cymbal_closed.flac"
+time: 51.52 - "drum_snare_hard.flac"
+time: 51.56 - "drum_cymbal_soft.flac", {amp: 0.5}
+time: 51.6 - "elec_fuzz_tom.flac"
+time: 51.68 - "sn_zome.flac"
+time: 51.72 - "drum_cymbal_soft.flac", {amp: 0.5}
+time: 51.84 - "drum_tom_mid_soft.flac", {amp: 0.7}
+time: 51.92 - "sn_zome.flac"
+time: 51.96 - "drum_cymbal_soft.flac"
+time: 52.0 - "bd_tek.flac"
+time: 52.12 - "drum_cymbal_closed.flac"
+time: 52.16 - "drum_snare_hard.flac"
+time: 52.2 - "drum_cymbal_soft.flac", {amp: 0.5}
+time: 52.24 - "elec_fuzz_tom.flac"
+time: 52.28 - "drum_cymbal_soft.flac"
+time: 52.44 - "drum_cymbal_closed.flac"
+time: 52.48 - "bd_tek.flac"
+time: 52.52 - "drum_cymbal_soft.flac", {amp: 0.5}
+time: 52.6 - "drum_cymbal_closed.flac"
+time: 52.64 - "bd_tek.flac"
+time: 52.68 - "drum_cymbal_soft.flac", {amp: 0.5}
+time: 52.72 - "drum_tom_hi_soft.flac", {amp: 0.7}
+time: 52.8 - "drum_snare_hard.flac"
+time: 52.92 - "drum_cymbal_closed.flac"
+time: 53.0 - "drum_cymbal_soft.flac", {amp: 0.5}
+time: 53.04 - "drum_tom_lo_soft.flac", {amp: 0.7}
+time: 53.12 - "drum_tom_lo_soft.flac", {amp: 0.7}
+time: 53.16 - "drum_cymbal_closed.flac", {amp: 0.5}
+time: 53.2 - "elec_hi_snare.flac"
+time: 53.28 - "bd_tek.flac"
+time: 53.32 - "drum_cymbal_soft.flac", {amp: 0.5}
+time: 53.44 - "drum_snare_hard.flac"
+time: 53.52 - "drum_tom_hi_soft.flac", {amp: 0.7}
+time: 53.6 - "drum_snare_hard.flac"
+time: 53.72 - "drum_splash_soft.flac"
+time: 53.76 - "bd_tek.flac"
+time: 53.8 - "drum_cymbal_closed.flac", {amp: 0.5}
+time: 53.84 - "drum_tom_mid_soft.flac", {amp: 0.7}
+time: 53.88 - "drum_cymbal_closed.flac"
+time: 53.92 - "bd_boom.flac"
+time: 53.96 - "drum_cymbal_closed.flac", {amp: 0.5}
+time: 54.04 - "drum_cymbal_closed.flac"
+time: 54.08 - "drum_snare_hard.flac"
+time: 54.12 - "drum_cymbal_soft.flac", {amp: 0.5}
+time: 54.16 - "elec_fuzz_tom.flac"
+time: 54.2 - "drum_cymbal_closed.flac"
+time: 54.28 - "drum_cymbal_closed.flac", {amp: 0.5}
+time: 54.32 - "drum_tom_hi_soft.flac", {amp: 0.7}
+time: 54.48 - "elec_hi_snare.flac"
+time: 54.56 - "bd_tek.flac"
+time: 54.64 - "drum_tom_hi_soft.flac", {amp: 0.7}
+time: 54.68 - "drum_cymbal_closed.flac"
+time: 54.72 - "drum_snare_hard.flac"
+time: 54.76 - "drum_cymbal_soft.flac", {amp: 0.5}
+time: 54.8 - "drum_tom_lo_soft.flac", {amp: 0.7}
+time: 54.84 - "drum_cymbal_soft.flac"
+time: 54.88 - "drum_snare_hard.flac"
+time: 54.96 - "elec_hi_snare.flac"
+time: 55.0 - "drum_cymbal_soft.flac"
+time: 55.04 - "bd_tek.flac"
+time: 55.08 - "drum_cymbal_pedal.flac", {amp: 0.5}
+time: 55.16 - "drum_cymbal_closed.flac"
+time: 55.2 - "bd_sone.flac"
+time: 55.24 - "drum_cymbal_closed.flac", {amp: 0.5}
+time: 55.32 - "drum_cymbal_pedal.flac"
+time: 55.36 - "drum_snare_hard.flac"
+time: 55.4 - "drum_cymbal_closed.flac", {amp: 0.5}
+time: 55.44 - "perc_swash.flac"
+time: 55.48 - "drum_cymbal_closed.flac"
+time: 55.72 - "drum_cymbal_soft.flac", {amp: 0.5}
+time: 55.76 - "drum_snare_soft.flac"
+time: 55.8 - "drum_cymbal_closed.flac"
+time: 55.84 - "bd_tek.flac"
+time: 55.96 - "drum_cymbal_pedal.flac"
+time: 56.0 - "drum_snare_hard.flac"
+time: 56.12 - "drum_cymbal_closed.flac"
+time: 56.16 - "drum_snare_hard.flac"
+time: 56.24 - "elec_hi_snare.flac"
+time: 56.28 - "drum_cymbal_closed.flac"
+time: 56.32 - "bd_tek.flac"
+time: 56.36 - "drum_cymbal_closed.flac", {amp: 0.5}
+time: 56.4 - "elec_fuzz_tom.flac"
+time: 56.44 - "drum_cymbal_pedal.flac"
+time: 56.48 - "bd_tek.flac"
+time: 56.52 - "drum_cymbal_soft.flac", {amp: 0.5}
+time: 56.56 - "elec_tick.flac"
+time: 56.6 - "drum_cymbal_closed.flac"
+time: 56.64 - "drum_snare_hard.flac"
+time: 56.68 - "drum_cymbal_closed.flac", {amp: 0.5}
+time: 56.76 - "drum_cymbal_soft.flac"
+time: 56.84 - "drum_cymbal_closed.flac", {amp: 0.5}
+time: 56.88 - "drum_tom_hi_soft.flac", {amp: 0.7}
+time: 56.96 - "drum_tom_mid_soft.flac", {amp: 0.7}
+time: 57.08 - "drum_cymbal_closed.flac"
+time: 57.12 - "bd_tek.flac"
+time: 57.16 - "drum_cymbal_closed.flac", {amp: 0.5}
+time: 57.2 - "elec_fuzz_tom.flac"
+time: 57.28 - "drum_snare_hard.flac"
+time: 57.4 - "drum_cymbal_closed.flac"
+time: 57.44 - "drum_snare_hard.flac"
+time: 57.56 - "drum_cymbal_soft.flac"
+time: 57.6 - "bd_tek.flac"
+time: 57.64 - "drum_cymbal_closed.flac", {amp: 0.5}
+time: 57.68 - "elec_fuzz_tom.flac"
+time: 57.72 - "drum_cymbal_closed.flac"
+time: 57.76 - "bd_tek.flac"
+time: 57.8 - "drum_cymbal_closed.flac", {amp: 0.5}
+time: 57.88 - "drum_cymbal_closed.flac"
+time: 57.92 - "drum_snare_hard.flac"
+time: 58.0 - "drum_tom_hi_soft.flac", {amp: 0.7}
+time: 58.04 - "drum_cymbal_pedal.flac"
+time: 58.08 - "drum_snare_hard.flac"
+time: 58.32 - "elec_hi_snare.flac"
+time: 58.36 - "drum_cymbal_soft.flac"
+time: 58.4 - "bd_tek.flac"
+time: 58.48 - "drum_tom_hi_soft.flac", {amp: 0.7}
+time: 58.52 - "drum_cymbal_closed.flac"
+time: 58.56 - "drum_snare_hard.flac"
+time: 58.64 - "drum_tom_lo_soft.flac", {amp: 0.7}
+time: 58.72 - "drum_snare_hard.flac"
+time: 58.8 - "elec_hi_snare.flac"
+time: 58.84 - "drum_cymbal_soft.flac"
+time: 58.88 - "bd_tek.flac"
+time: 58.92 - "drum_cymbal_soft.flac", {amp: 0.5}
+time: 59.0 - "drum_cymbal_closed.flac"
+time: 59.04 - "bd_klub.flac"
+time: 59.16 - "drum_cymbal_closed.flac"
+time: 59.2 - "drum_snare_hard.flac"
+time: 59.36 - "elec_hi_snare.flac"
+time: 59.4 - "drum_cymbal_closed.flac", {amp: 0.5}
+time: 59.64 - "drum_cymbal_closed.flac"
+time: 59.68 - "bd_tek.flac"
+time: 59.72 - "drum_cymbal_closed.flac", {amp: 0.5}
+time: 59.84 - "drum_snare_hard.flac"
+time: 59.92 - "drum_tom_hi_soft.flac", {amp: 0.7}
+time: 59.96 - "drum_cymbal_soft.flac"
+time: 60.0 - "drum_snare_hard.flac"
+time: 60.08 - "sn_generic.flac"
+time: 60.12 - "drum_cymbal_closed.flac"
+time: 60.16 - "bd_tek.flac"
+time: 60.2 - "drum_cymbal_pedal.flac", {amp: 0.5}
+time: 60.24 - "perc_swash.flac"
+time: 60.28 - "drum_cymbal_closed.flac"
+time: 60.32 - "bd_fat.flac"
+time: 60.4 - "elec_fuzz_tom.flac"
+time: 60.44 - "drum_cymbal_pedal.flac"
+time: 60.48 - "drum_snare_hard.flac"
+time: 60.52 - "drum_cymbal_pedal.flac", {amp: 0.5}
+time: 60.6 - "drum_cymbal_pedal.flac"
+time: 60.64 - "drum_snare_soft.flac"
+time: 60.68 - "drum_cymbal_pedal.flac", {amp: 0.5}
+time: 60.72 - "elec_tick.flac"
+time: 60.84 - "drum_cymbal_pedal.flac", {amp: 0.5}
+time: 60.92 - "drum_cymbal_closed.flac"
+time: 60.96 - "bd_tek.flac"
+time: 61.08 - "drum_cymbal_closed.flac"
+time: 61.12 - "drum_snare_hard.flac"
+time: 61.2 - "perc_swash.flac"
+time: 61.24 - "drum_cymbal_soft.flac"
+time: 61.28 - "drum_snare_hard.flac"
+time: 61.36 - "sn_zome.flac"
+time: 61.4 - "drum_cymbal_open.flac"
+time: 61.44 - "bd_tek.flac"
+time: 61.52 - "drum_tom_mid_soft.flac", {amp: 0.7}
+time: 61.6 - "bd_klub.flac"
+time: 61.64 - "drum_cymbal_closed.flac", {amp: 0.5}
+time: 61.72 - "drum_cymbal_pedal.flac"
+time: 61.76 - "drum_snare_hard.flac"
+time: 61.84 - "drum_tom_hi_soft.flac", {amp: 0.7}
+time: 61.92 - "drum_snare_hard.flac"
+time: 61.96 - "drum_cymbal_soft.flac", {amp: 0.5}
+time: 62.16 - "drum_snare_hard.flac"
+time: 62.2 - "drum_cymbal_soft.flac"
+time: 62.24 - "bd_tek.flac"
+time: 62.28 - "drum_cymbal_pedal.flac", {amp: 0.5}
+time: 62.32 - "drum_tom_mid_soft.flac", {amp: 0.7}
+time: 62.36 - "drum_cymbal_closed.flac"
+time: 62.4 - "drum_snare_hard.flac"
+time: 62.44 - "drum_cymbal_soft.flac", {amp: 0.5}
+time: 62.52 - "drum_cymbal_soft.flac"
+time: 62.56 - "drum_snare_hard.flac"
+time: 62.64 - "elec_hi_snare.flac"
+time: 62.68 - "drum_cymbal_pedal.flac"
+time: 62.72 - "bd_tek.flac"
+time: 62.76 - "drum_cymbal_closed.flac", {amp: 0.5}
+time: 62.8 - "perc_swash.flac"
+time: 63.0 - "drum_cymbal_soft.flac"
+time: 63.04 - "drum_snare_hard.flac"
+time: 63.08 - "drum_cymbal_soft.flac", {amp: 0.5}
+time: 63.12 - "drum_tom_lo_soft.flac", {amp: 0.7}
+time: 63.16 - "drum_cymbal_closed.flac"
+time: 63.28 - "drum_tom_lo_soft.flac", {amp: 0.7}
+time: 63.4 - "drum_cymbal_closed.flac", {amp: 0.5}
+time: 63.48 - "drum_cymbal_closed.flac"
+time: 63.52 - "bd_tek.flac"
+time: 63.6 - "elec_tick.flac"
+time: 63.64 - "drum_cymbal_closed.flac"
+time: 63.68 - "drum_snare_hard.flac"
+time: 63.72 - "drum_cymbal_soft.flac", {amp: 0.5}
+time: 63.76 - "drum_tom_hi_soft.flac", {amp: 0.7}
+time: 63.8 - "drum_cymbal_closed.flac"
+time: 63.88 - "drum_cymbal_soft.flac", {amp: 0.5}
+time: 63.92 - "sn_zome.flac"
+time: 64.0 - "bd_tek.flac"
+time: 64.08 - "drum_tom_hi_soft.flac", {amp: 0.7}
+time: 64.12 - "drum_cymbal_pedal.flac"
+time: 64.16 - "bd_boom.flac"
+time: 64.28 - "drum_cymbal_pedal.flac"
+time: 64.32 - "drum_snare_hard.flac"
+time: 64.36 - "drum_cymbal_closed.flac", {amp: 0.5}
+time: 64.4 - "drum_tom_mid_soft.flac", {amp: 0.7}
+time: 64.48 - "drum_snare_hard.flac"
+time: 64.56 - "drum_tom_hi_soft.flac", {amp: 0.7}
+time: 64.64 - "drum_tom_lo_soft.flac", {amp: 0.7}
+time: 64.72 - "elec_hi_snare.flac"
+time: 64.76 - "drum_cymbal_closed.flac"
+time: 64.8 - "bd_tek.flac"
+time: 64.84 - "drum_cymbal_closed.flac", {amp: 0.5}
+time: 64.88 - "elec_tick.flac"
+time: 64.92 - "drum_cymbal_pedal.flac"
+time: 64.96 - "drum_snare_hard.flac"
+time: 65.04 - "drum_tom_mid_soft.flac", {amp: 0.7}
+time: 65.08 - "drum_cymbal_pedal.flac"
+time: 65.12 - "drum_snare_hard.flac"
+time: 65.24 - "drum_cymbal_closed.flac"
+time: 65.28 - "bd_tek.flac"
+time: 65.36 - "perc_swash.flac"
+time: 65.44 - "bd_ada.flac"
+time: 65.48 - "drum_cymbal_pedal.flac", {amp: 0.5}
+time: 65.52 - "elec_fuzz_tom.flac"
+time: 65.56 - "drum_cymbal_pedal.flac"
+time: 65.6 - "drum_snare_hard.flac"
+time: 65.64 - "drum_cymbal_pedal.flac", {amp: 0.5}
+time: 65.68 - "drum_tom_lo_soft.flac", {amp: 0.7}
+time: 65.72 - "drum_cymbal_pedal.flac"
+time: 65.76 - "drum_snare_soft.flac"
+time: 65.8 - "drum_cymbal_soft.flac", {amp: 0.5}
+time: 65.84 - "perc_swash.flac"
+time: 65.92 - "drum_tom_lo_soft.flac", {amp: 0.7}
+time: 65.96 - "drum_cymbal_pedal.flac", {amp: 0.5}
+time: 66.0 - "drum_snare_soft.flac"
+time: 66.04 - "drum_cymbal_pedal.flac"
+time: 66.08 - "bd_tek.flac"
+time: 66.12 - "drum_cymbal_pedal.flac", {amp: 0.5}
+time: 66.16 - "elec_tick.flac"
+time: 66.2 - "drum_cymbal_pedal.flac"
+time: 66.24 - "drum_snare_hard.flac"
+time: 66.28 - "drum_cymbal_soft.flac", {amp: 0.5}
+time: 66.32 - "drum_tom_lo_soft.flac", {amp: 0.7}
+time: 66.36 - "drum_cymbal_pedal.flac"
+time: 66.4 - "drum_snare_hard.flac"
+time: 66.44 - "drum_cymbal_pedal.flac", {amp: 0.5}
+time: 66.52 - "drum_cymbal_closed.flac"
+time: 66.56 - "bitcrusher Effect"
+time: 66.56 - "bd_tek.flac"
+time: 66.64 - "drum_tom_lo_soft.flac", {amp: 0.7}
+time: 66.68 - "drum_cymbal_closed.flac"
+time: 66.72 - "bd_boom.flac"
+time: 66.76 - "drum_cymbal_closed.flac", {amp: 0.5}
+time: 66.84 - "drum_cymbal_closed.flac"
+time: 66.88 - "drum_snare_hard.flac"
+time: 66.92 - "drum_cymbal_closed.flac", {amp: 0.5}
+time: 66.96 - "drum_tom_mid_soft.flac", {amp: 0.7}
+time: 67.0 - "drum_cymbal_closed.flac"
+time: 67.04 - "elec_hi_snare.flac"
+time: 67.28 - "drum_snare_hard.flac"
+time: 67.32 - "drum_cymbal_soft.flac"
+time: 67.36 - "bd_tek.flac"
+time: 67.4 - "drum_cymbal_closed.flac", {amp: 0.5}
+time: 67.48 - "drum_cymbal_closed.flac"
+time: 67.52 - "drum_snare_hard.flac"
+time: 67.56 - "drum_cymbal_soft.flac", {amp: 0.5}
+time: 67.64 - "drum_cymbal_soft.flac"
+time: 67.68 - "drum_snare_hard.flac"
+time: 67.8 - "drum_cymbal_soft.flac"
+time: 67.84 - "bd_tek.flac"
+time: 68.0 - "bd_tek.flac"
+time: 68.04 - "drum_cymbal_closed.flac", {amp: 0.5}
+time: 68.12 - "drum_cymbal_closed.flac"
+time: 68.16 - "drum_snare_hard.flac"
+time: 68.2 - "drum_cymbal_closed.flac", {amp: 0.5}
+time: 68.28 - "drum_cymbal_closed.flac"
+time: 68.32 - "drum_snare_hard.flac"
+time: 68.52 - "drum_cymbal_closed.flac", {amp: 0.5}
+time: 68.56 - "drum_snare_hard.flac"
+time: 68.64 - "bd_tek.flac"
+time: 68.68 - "drum_cymbal_closed.flac", {amp: 0.5}
+time: 68.76 - "drum_cymbal_soft.flac"
+time: 68.8 - "drum_snare_hard.flac"
+time: 68.92 - "drum_cymbal_closed.flac"
+time: 68.96 - "drum_snare_hard.flac"
+time: 69.04 - "drum_snare_hard.flac"
+time: 69.08 - "drum_splash_soft.flac"
+time: 69.12 - "bd_tek.flac"
+time: 69.2 - "drum_tom_lo_soft.flac", {amp: 0.7}
+time: 69.24 - "drum_cymbal_closed.flac"
+time: 69.28 - "bd_klub.flac"
+time: 69.32 - "drum_cymbal_closed.flac", {amp: 0.5}
+time: 69.36 - "drum_tom_mid_soft.flac", {amp: 0.7}
+time: 69.4 - "drum_cymbal_soft.flac"
+time: 69.44 - "drum_snare_hard.flac"
+time: 69.48 - "drum_cymbal_soft.flac", {amp: 0.5}
+time: 69.56 - "drum_cymbal_closed.flac"
+time: 69.6 - "drum_snare_hard.flac"
+time: 69.8 - "drum_cymbal_closed.flac", {amp: 0.5}
+time: 69.84 - "elec_hi_snare.flac"
+time: 69.88 - "drum_cymbal_closed.flac"
+time: 69.92 - "bd_tek.flac"
+time: 70.0 - "drum_tom_hi_soft.flac", {amp: 0.7}
+time: 70.04 - "drum_cymbal_soft.flac"
+time: 70.08 - "drum_snare_hard.flac"
+time: 70.16 - "drum_tom_hi_soft.flac", {amp: 0.7}
+time: 70.2 - "drum_cymbal_soft.flac"
+time: 70.24 - "drum_snare_hard.flac"
+time: 70.36 - "drum_cymbal_closed.flac"
+time: 70.4 - "bd_tek.flac"
+time: 70.48 - "drum_tom_hi_soft.flac", {amp: 0.7}
+time: 70.52 - "drum_cymbal_pedal.flac"
+time: 70.56 - "bd_zum.flac"
+time: 70.68 - "drum_cymbal_pedal.flac"
+time: 70.72 - "drum_snare_hard.flac"
+time: 70.76 - "drum_cymbal_closed.flac", {amp: 0.5}
+time: 70.8 - "drum_tom_mid_soft.flac", {amp: 0.7}
+time: 70.88 - "sn_zome.flac"
+time: 70.92 - "drum_cymbal_soft.flac", {amp: 0.5}
+time: 70.96 - "perc_swash.flac"
+time: 71.08 - "drum_cymbal_closed.flac", {amp: 0.5}
+time: 71.16 - "drum_cymbal_pedal.flac"
+time: 71.2 - "bd_tek.flac"
+time: 71.24 - "drum_cymbal_closed.flac", {amp: 0.5}
+time: 71.28 - "elec_fuzz_tom.flac"
+time: 71.32 - "drum_cymbal_closed.flac"
+time: 71.36 - "drum_snare_hard.flac"
+time: 71.4 - "drum_cymbal_pedal.flac", {amp: 0.5}
+time: 71.52 - "drum_snare_hard.flac"
+time: 71.56 - "drum_cymbal_pedal.flac", {amp: 0.5}
+time: 71.64 - "drum_cymbal_pedal.flac"
+time: 71.68 - "bd_tek.flac"
+time: 71.72 - "drum_cymbal_closed.flac", {amp: 0.5}
+time: 71.8 - "drum_cymbal_soft.flac"
+time: 71.84 - "bd_klub.flac"
+time: 71.92 - "drum_tom_mid_soft.flac", {amp: 0.7}
+time: 71.96 - "drum_cymbal_soft.flac"
+time: 72.0 - "drum_snare_hard.flac"
+time: 72.04 - "drum_cymbal_closed.flac", {amp: 0.5}
+time: 72.08 - "drum_tom_mid_soft.flac", {amp: 0.7}
+time: 72.24 - "drum_tom_mid_soft.flac", {amp: 0.7}
+time: 72.36 - "drum_cymbal_closed.flac", {amp: 0.5}
+time: 72.44 - "drum_cymbal_closed.flac"
+time: 72.48 - "bd_tek.flac"
+time: 72.56 - "drum_tom_hi_soft.flac", {amp: 0.7}
+time: 72.64 - "drum_snare_hard.flac"
+time: 72.72 - "drum_tom_lo_soft.flac", {amp: 0.7}
+time: 72.76 - "drum_cymbal_closed.flac"
+time: 72.8 - "drum_snare_hard.flac"
+time: 72.88 - "drum_snare_hard.flac"
+time: 72.92 - "drum_splash_soft.flac"
+time: 72.96 - "bd_tek.flac"
+time: 73.08 - "drum_cymbal_closed.flac"
+time: 73.12 - "bd_boom.flac"
+time: 73.2 - "elec_fuzz_tom.flac"
+time: 73.24 - "drum_cymbal_closed.flac"
+time: 73.28 - "drum_snare_hard.flac"
+time: 73.4 - "drum_cymbal_closed.flac"
+time: 73.52 - "drum_tom_mid_soft.flac", {amp: 0.7}
+time: 73.64 - "drum_cymbal_soft.flac", {amp: 0.5}
+time: 73.68 - "drum_snare_hard.flac"
+time: 73.72 - "drum_cymbal_closed.flac"
+time: 73.76 - "bd_tek.flac"
+time: 73.88 - "drum_cymbal_closed.flac"
+time: 73.92 - "drum_snare_hard.flac"
+time: 73.96 - "drum_cymbal_soft.flac", {amp: 0.5}
+time: 74.04 - "drum_cymbal_closed.flac"
+time: 74.12 - "drum_cymbal_closed.flac", {amp: 0.5}
+time: 74.2 - "drum_cymbal_soft.flac"
+time: 74.24 - "bd_tek.flac"
+time: 74.28 - "drum_cymbal_closed.flac", {amp: 0.5}
+time: 74.32 - "drum_tom_mid_soft.flac", {amp: 0.7}
+time: 74.36 - "drum_cymbal_closed.flac"
+time: 74.44 - "drum_cymbal_closed.flac", {amp: 0.5}
+time: 74.56 - "drum_snare_hard.flac"
+time: 74.68 - "drum_cymbal_closed.flac"
+time: 74.76 - "drum_cymbal_closed.flac", {amp: 0.5}
+time: 75.0 - "drum_cymbal_soft.flac"
+time: 75.04 - "bd_tek.flac"
+time: 75.08 - "drum_cymbal_closed.flac", {amp: 0.5}
+time: 75.16 - "drum_cymbal_closed.flac"
+time: 75.2 - "drum_snare_hard.flac"
+time: 75.28 - "drum_tom_hi_soft.flac", {amp: 0.7}
+time: 75.36 - "drum_snare_hard.flac"
+time: 75.44 - "sn_zome.flac"
+time: 75.48 - "drum_cymbal_closed.flac"
+time: 75.52 - "bd_tek.flac"
+time: 75.56 - "drum_cymbal_closed.flac", {amp: 0.5}
+time: 75.68 - "bd_ada.flac"
+time: 75.72 - "drum_cymbal_soft.flac", {amp: 0.5}
+time: 75.76 - "drum_tom_lo_soft.flac", {amp: 0.7}
+time: 75.8 - "drum_cymbal_pedal.flac"
+time: 75.84 - "drum_snare_hard.flac"
+time: 75.92 - "drum_tom_hi_soft.flac", {amp: 0.7}
+time: 75.96 - "drum_cymbal_closed.flac"
+time: 76.0 - "sn_zome.flac"
+time: 76.04 - "drum_cymbal_soft.flac", {amp: 0.5}
+time: 76.08 - "perc_swash.flac"
+time: 76.16 - "perc_swash.flac"
+time: 76.2 - "drum_cymbal_closed.flac", {amp: 0.5}
+time: 76.24 - "drum_snare_hard.flac"
+time: 76.28 - "drum_cymbal_soft.flac"
+time: 76.32 - "bd_tek.flac"
+time: 76.36 - "drum_cymbal_closed.flac", {amp: 0.5}
+time: 76.4 - "drum_tom_hi_soft.flac", {amp: 0.7}
+time: 76.48 - "drum_snare_hard.flac"
+time: 76.52 - "drum_cymbal_closed.flac", {amp: 0.5}
+time: 76.56 - "drum_tom_mid_soft.flac", {amp: 0.7}
+time: 76.6 - "drum_cymbal_closed.flac"
+time: 76.64 - "drum_snare_hard.flac"
+time: 76.68 - "drum_cymbal_closed.flac", {amp: 0.5}
+time: 76.72 - "drum_snare_soft.flac"
+time: 76.76 - "drum_cymbal_closed.flac"
+time: 76.8 - "bd_tek.flac"
+time: 76.88 - "drum_tom_mid_soft.flac", {amp: 0.7}
+time: 76.96 - "bd_fat.flac"
+time: 77.0 - "drum_cymbal_soft.flac", {amp: 0.5}
+time: 77.12 - "drum_snare_hard.flac"
+time: 77.16 - "drum_cymbal_closed.flac", {amp: 0.5}
+time: 77.28 - "sn_generic.flac"
+time: 77.32 - "drum_cymbal_closed.flac", {amp: 0.5}
+time: 77.48 - "drum_cymbal_soft.flac", {amp: 0.5}
+time: 77.52 - "sn_generic.flac"
+time: 77.56 - "drum_cymbal_closed.flac"
+time: 77.6 - "bd_tek.flac"
+time: 77.68 - "elec_fuzz_tom.flac"
+time: 77.72 - "drum_cymbal_closed.flac"
+time: 77.76 - "drum_snare_hard.flac"
+time: 77.92 - "drum_snare_hard.flac"
+time: 78.0 - "drum_snare_hard.flac"
+time: 78.04 - "drum_cymbal_closed.flac"
+time: 78.08 - "bd_tek.flac"
+time: 78.12 - "drum_cymbal_soft.flac", {amp: 0.5}
+time: 78.2 - "drum_cymbal_closed.flac"
+time: 78.32 - "elec_tick.flac"
+time: 78.36 - "drum_cymbal_closed.flac"
+time: 78.4 - "drum_snare_hard.flac"
+time: 78.44 - "drum_cymbal_pedal.flac", {amp: 0.5}
+time: 78.48 - "elec_tick.flac"
+time: 78.52 - "drum_cymbal_pedal.flac"
+time: 78.64 - "drum_tom_mid_soft.flac", {amp: 0.7}
+time: 78.84 - "drum_cymbal_pedal.flac"
+time: 78.88 - "bd_tek.flac"
+time: 79.0 - "drum_cymbal_soft.flac"
+time: 79.04 - "drum_snare_hard.flac"
+time: 79.16 - "drum_cymbal_closed.flac"
+time: 79.2 - "drum_snare_hard.flac"
+time: 79.24 - "drum_cymbal_soft.flac", {amp: 0.5}
+time: 79.32 - "drum_cymbal_closed.flac"
+time: 79.36 - "bd_tek.flac"
+time: 79.48 - "drum_cymbal_soft.flac"
+time: 79.52 - "bd_klub.flac"
+time: 79.64 - "drum_cymbal_soft.flac"
+time: 79.68 - "drum_snare_hard.flac"
+time: 79.72 - "drum_cymbal_soft.flac", {amp: 0.5}
+time: 79.76 - "drum_tom_lo_soft.flac", {amp: 0.7}
+time: 79.8 - "drum_cymbal_closed.flac"
+time: 79.84 - "sn_generic.flac"
+time: 79.88 - "drum_cymbal_pedal.flac", {amp: 0.5}
+time: 79.92 - "drum_tom_hi_soft.flac", {amp: 0.7}
+time: 80.0 - "elec_fuzz_tom.flac"
+time: 80.04 - "drum_cymbal_pedal.flac", {amp: 0.5}
+time: 80.08 - "elec_hi_snare.flac"
+time: 80.16 - "bd_tek.flac"
+time: 80.2 - "drum_cymbal_closed.flac", {amp: 0.5}
+time: 80.24 - "elec_fuzz_tom.flac"
+time: 80.28 - "drum_cymbal_closed.flac"
+time: 80.32 - "drum_snare_hard.flac"
+time: 80.4 - "elec_tick.flac"
+time: 80.44 - "drum_cymbal_closed.flac"
+time: 80.48 - "drum_snare_hard.flac"
+time: 80.52 - "drum_cymbal_pedal.flac", {amp: 0.5}
+time: 80.6 - "drum_cymbal_closed.flac"
+time: 80.64 - "bd_tek.flac"
+time: 80.68 - "drum_cymbal_pedal.flac", {amp: 0.5}
+time: 80.8 - "bd_tek.flac"
+time: 80.84 - "drum_cymbal_closed.flac", {amp: 0.5}
+time: 80.92 - "drum_cymbal_closed.flac"
+time: 80.96 - "drum_snare_hard.flac"
+time: 81.0 - "drum_cymbal_pedal.flac", {amp: 0.5}
+time: 81.04 - "elec_tick.flac"
+time: 81.08 - "drum_cymbal_pedal.flac"
+time: 81.12 - "drum_snare_soft.flac"
+time: 81.16 - "drum_cymbal_closed.flac", {amp: 0.5}
+time: 81.2 - "elec_fuzz_tom.flac"
+time: 81.32 - "drum_cymbal_soft.flac", {amp: 0.5}
+time: 81.36 - "drum_snare_soft.flac"
+time: 81.4 - "drum_cymbal_closed.flac"
+time: 81.44 - "bd_tek.flac"
+time: 81.48 - "drum_cymbal_soft.flac", {amp: 0.5}
+time: 81.52 - "elec_tick.flac"
+time: 81.56 - "drum_cymbal_pedal.flac"
+time: 81.6 - "drum_snare_hard.flac"
+time: 81.68 - "drum_tom_mid_soft.flac", {amp: 0.7}
+time: 81.76 - "drum_snare_hard.flac"
+time: 81.8 - "drum_cymbal_closed.flac", {amp: 0.5}
+time: 81.84 - "drum_snare_soft.flac"
+time: 81.88 - "drum_cymbal_closed.flac"
+time: 81.92 - "bd_tek.flac"
+time: 82.04 - "drum_cymbal_soft.flac"
+time: 82.08 - "bd_sone.flac"
+time: 82.12 - "drum_cymbal_soft.flac", {amp: 0.5}
+time: 82.16 - "drum_tom_mid_soft.flac", {amp: 0.7}
+time: 82.2 - "drum_cymbal_closed.flac"
+time: 82.24 - "drum_snare_hard.flac"
+time: 82.28 - "drum_cymbal_closed.flac", {amp: 0.5}
+time: 82.36 - "drum_cymbal_closed.flac"
+time: 82.4 - "sn_zome.flac"
+time: 82.44 - "drum_cymbal_closed.flac", {amp: 0.5}
+time: 82.48 - "perc_swash.flac"
+time: 82.56 - "drum_tom_lo_soft.flac", {amp: 0.7}
+time: 82.6 - "drum_cymbal_soft.flac", {amp: 0.5}
+time: 82.64 - "sn_generic.flac"
+time: 82.68 - "drum_cymbal_closed.flac"
+time: 82.72 - "bd_tek.flac"
+time: 82.84 - "drum_cymbal_closed.flac"
+time: 82.88 - "drum_snare_hard.flac"
+time: 83.0 - "drum_cymbal_closed.flac"
+time: 83.12 - "sn_generic.flac"
+time: 83.16 - "drum_cymbal_soft.flac"
+time: 83.2 - "bd_tek.flac"
+time: 83.32 - "drum_cymbal_closed.flac"
+time: 83.36 - "bd_boom.flac"
+time: 83.4 - "drum_cymbal_soft.flac", {amp: 0.5}
+time: 83.44 - "elec_tick.flac"
+time: 83.48 - "drum_cymbal_soft.flac"
+time: 83.52 - "drum_snare_hard.flac"
+time: 83.56 - "drum_cymbal_pedal.flac", {amp: 0.5}
+time: 83.6 - "drum_tom_lo_soft.flac", {amp: 0.7}
+time: 83.64 - "drum_cymbal_pedal.flac"
+time: 83.76 - "drum_tom_mid_soft.flac", {amp: 0.7}
+time: 83.88 - "drum_cymbal_pedal.flac", {amp: 0.5}
+time: 83.92 - "drum_snare_hard.flac"
+time: 83.96 - "drum_cymbal_soft.flac"
+time: 84.0 - "bd_tek.flac"
+time: 84.04 - "drum_cymbal_soft.flac", {amp: 0.5}
+time: 84.12 - "drum_cymbal_soft.flac"
+time: 84.16 - "drum_snare_hard.flac"
+time: 84.2 - "drum_cymbal_soft.flac", {amp: 0.5}
+time: 84.32 - "drum_snare_hard.flac"
+time: 84.36 - "drum_cymbal_closed.flac", {amp: 0.5}
+time: 84.4 - "sn_generic.flac"
+time: 84.44 - "drum_cymbal_closed.flac"
+time: 84.48 - "bd_tek.flac"
+time: 84.6 - "drum_cymbal_closed.flac"
+time: 84.64 - "bd_fat.flac"
+time: 84.72 - "perc_swash.flac"
+time: 84.76 - "drum_cymbal_pedal.flac"
+time: 84.8 - "drum_snare_hard.flac"
+time: 84.84 - "drum_cymbal_closed.flac", {amp: 0.5}
+time: 84.92 - "drum_cymbal_soft.flac"
+time: 84.96 - "drum_snare_hard.flac"
+time: 85.04 - "drum_tom_lo_soft.flac", {amp: 0.7}
+time: 85.2 - "drum_snare_soft.flac"
+time: 85.24 - "drum_cymbal_closed.flac"
+time: 85.28 - "bd_tek.flac"
+time: 85.4 - "drum_cymbal_pedal.flac"
+time: 85.44 - "drum_snare_hard.flac"
+time: 85.6 - "drum_snare_hard.flac"
+time: 85.64 - "drum_cymbal_soft.flac", {amp: 0.5}
+time: 85.72 - "drum_cymbal_soft.flac"
+time: 85.76 - "bd_tek.flac"
+time: 85.8 - "drum_cymbal_pedal.flac", {amp: 0.5}
+time: 85.88 - "drum_cymbal_pedal.flac"
+time: 85.92 - "bd_fat.flac"
+time: 85.96 - "drum_cymbal_soft.flac", {amp: 0.5}
+time: 86.0 - "perc_swash.flac"
+time: 86.04 - "drum_cymbal_pedal.flac"
+time: 86.08 - "drum_snare_hard.flac"
+time: 86.16 - "drum_tom_lo_soft.flac", {amp: 0.7}
+time: 86.2 - "drum_cymbal_closed.flac"
+time: 86.24 - "drum_snare_soft.flac"
+time: 86.32 - "perc_swash.flac"
+time: 86.4 - "elec_tick.flac"
+time: 86.44 - "drum_cymbal_pedal.flac", {amp: 0.5}
+time: 86.48 - "drum_snare_soft.flac"
+time: 86.52 - "drum_cymbal_pedal.flac"
+time: 86.56 - "bd_tek.flac"
+time: 86.68 - "drum_cymbal_pedal.flac"
+time: 86.72 - "drum_snare_hard.flac"
+time: 86.8 - "elec_tick.flac"
+time: 86.88 - "drum_snare_hard.flac"
+time: 86.96 - "drum_snare_soft.flac"
+time: 87.0 - "drum_cymbal_pedal.flac"
+time: 87.04 - "tanh Effect"
+time: 87.04 - "bd_tek.flac"
+time: 87.16 - "drum_cymbal_closed.flac"
+time: 87.24 - "drum_cymbal_closed.flac", {amp: 0.5}
+time: 87.32 - "drum_cymbal_closed.flac"
+time: 87.36 - "drum_snare_hard.flac"
+time: 87.4 - "drum_cymbal_closed.flac", {amp: 0.5}
+time: 87.48 - "drum_cymbal_closed.flac"
+time: 87.56 - "drum_cymbal_closed.flac", {amp: 0.5}
+time: 87.72 - "drum_cymbal_closed.flac", {amp: 0.5}
+time: 87.8 - "drum_cymbal_closed.flac"
+time: 87.84 - "bd_tek.flac"
+time: 87.96 - "drum_cymbal_closed.flac"
+time: 88.0 - "drum_snare_hard.flac"
+time: 88.12 - "drum_cymbal_closed.flac"
+time: 88.16 - "drum_snare_hard.flac"
+time: 88.2 - "drum_cymbal_closed.flac", {amp: 0.5}
+time: 88.28 - "drum_cymbal_closed.flac"
+time: 88.32 - "bd_tek.flac"
+time: 88.36 - "drum_cymbal_closed.flac", {amp: 0.5}
+time: 88.44 - "drum_cymbal_closed.flac"
+time: 88.6 - "drum_cymbal_closed.flac"
+time: 88.64 - "drum_snare_hard.flac"
+time: 88.76 - "drum_cymbal_closed.flac"
+time: 88.8 - "drum_snare_hard.flac"
+time: 89.0 - "drum_cymbal_closed.flac", {amp: 0.5}
+time: 89.04 - "drum_snare_hard.flac"
+time: 89.08 - "drum_cymbal_closed.flac"
+time: 89.12 - "bd_tek.flac"
+time: 89.24 - "drum_cymbal_closed.flac"
+time: 89.28 - "drum_snare_hard.flac"
+time: 89.4 - "drum_cymbal_closed.flac"
+time: 89.44 - "drum_snare_hard.flac"
+time: 89.56 - "drum_cymbal_closed.flac"
+time: 89.6 - "bd_tek.flac"
+time: 89.72 - "drum_cymbal_closed.flac"
+time: 89.76 - "bd_ada.flac"
+time: 89.8 - "drum_cymbal_closed.flac", {amp: 0.5}
+time: 89.88 - "drum_cymbal_closed.flac"
+time: 89.92 - "drum_snare_hard.flac"
+time: 90.04 - "drum_cymbal_closed.flac"
+time: 90.36 - "drum_cymbal_closed.flac"
+time: 90.4 - "bd_tek.flac"
+time: 90.52 - "drum_cymbal_closed.flac"
+time: 90.56 - "drum_snare_hard.flac"
+time: 90.68 - "drum_cymbal_closed.flac"
+time: 90.72 - "drum_snare_hard.flac"
+time: 90.76 - "drum_cymbal_closed.flac", {amp: 0.5}
+time: 90.84 - "drum_cymbal_closed.flac"
+time: 90.88 - "bd_tek.flac"
+time: 90.92 - "drum_cymbal_closed.flac", {amp: 0.5}
+time: 90.96 - "drum_tom_hi_soft.flac", {amp: 0.7}
+time: 91.0 - "drum_cymbal_closed.flac"
+time: 91.08 - "drum_cymbal_soft.flac", {amp: 0.5}
+time: 91.16 - "drum_cymbal_closed.flac"
+time: 91.2 - "drum_snare_hard.flac"
+time: 91.28 - "drum_tom_lo_soft.flac", {amp: 0.7}
+time: 91.32 - "drum_cymbal_soft.flac"
+time: 91.36 - "drum_snare_hard.flac"
+time: 91.44 - "drum_tom_mid_soft.flac", {amp: 0.7}
+time: 91.6 - "drum_snare_hard.flac"
+time: 91.64 - "drum_cymbal_closed.flac"
+time: 91.68 - "bd_tek.flac"
+time: 91.8 - "drum_cymbal_closed.flac"
+time: 91.84 - "drum_snare_hard.flac"
+time: 91.88 - "drum_cymbal_soft.flac", {amp: 0.5}
+time: 91.92 - "drum_tom_mid_soft.flac", {amp: 0.7}
+time: 92.0 - "drum_snare_hard.flac"
+time: 92.04 - "drum_cymbal_closed.flac", {amp: 0.5}
+time: 92.08 - "elec_hi_snare.flac"
+time: 92.12 - "drum_cymbal_closed.flac"
+time: 92.16 - "bd_tek.flac"
+time: 92.28 - "drum_cymbal_closed.flac"
+time: 92.44 - "drum_cymbal_closed.flac"
+time: 92.48 - "drum_snare_hard.flac"
+time: 92.52 - "drum_cymbal_closed.flac", {amp: 0.5}
+time: 92.6 - "drum_cymbal_closed.flac"
+time: 92.68 - "drum_cymbal_closed.flac", {amp: 0.5}
+time: 92.92 - "drum_cymbal_closed.flac"
+time: 92.96 - "bd_tek.flac"
+time: 93.08 - "drum_cymbal_closed.flac"
+time: 93.12 - "drum_snare_hard.flac"
+time: 93.24 - "drum_cymbal_closed.flac"
+time: 93.32 - "drum_cymbal_closed.flac", {amp: 0.5}
+time: 93.4 - "drum_cymbal_closed.flac"
+time: 93.44 - "bd_tek.flac"
+time: 93.56 - "drum_cymbal_closed.flac"
+time: 93.6 - "bd_ada.flac"
+time: 93.72 - "drum_cymbal_closed.flac"
+time: 93.76 - "drum_snare_hard.flac"
+time: 93.88 - "drum_cymbal_closed.flac"
+time: 93.92 - "drum_snare_hard.flac"
+time: 93.96 - "drum_cymbal_closed.flac", {amp: 0.5}
+time: 94.12 - "drum_cymbal_closed.flac", {amp: 0.5}
+time: 94.2 - "drum_cymbal_closed.flac"
+time: 94.24 - "bd_tek.flac"
+time: 94.28 - "drum_cymbal_closed.flac", {amp: 0.5}
+time: 94.36 - "drum_cymbal_closed.flac"
+time: 94.4 - "drum_snare_hard.flac"
+time: 94.52 - "drum_cymbal_closed.flac"
+time: 94.56 - "drum_snare_hard.flac"
+time: 94.64 - "drum_snare_hard.flac"
+time: 94.68 - "drum_cymbal_closed.flac"
+time: 94.72 - "bd_tek.flac"
+time: 94.84 - "drum_cymbal_closed.flac"
+time: 94.88 - "bd_ada.flac"
+time: 95.0 - "drum_cymbal_closed.flac"
+time: 95.04 - "drum_snare_hard.flac"
+time: 95.16 - "drum_cymbal_closed.flac"
+time: 95.2 - "drum_snare_hard.flac"
+time: 95.24 - "drum_cymbal_closed.flac", {amp: 0.5}
+time: 95.4 - "drum_cymbal_closed.flac", {amp: 0.5}
+time: 95.44 - "drum_snare_hard.flac"
+time: 95.48 - "drum_cymbal_closed.flac"
+time: 95.52 - "bd_tek.flac"
+time: 95.56 - "drum_cymbal_closed.flac", {amp: 0.5}
+time: 95.64 - "drum_cymbal_closed.flac"
+time: 95.68 - "drum_snare_hard.flac"
+time: 95.8 - "drum_cymbal_closed.flac"
+time: 95.84 - "drum_snare_hard.flac"
+time: 95.88 - "drum_cymbal_closed.flac", {amp: 0.5}
+time: 95.96 - "drum_cymbal_closed.flac"
+time: 96.0 - "bd_tek.flac"
+time: 96.12 - "drum_cymbal_closed.flac"
+time: 96.16 - "bd_ada.flac"
+time: 96.2 - "drum_cymbal_closed.flac", {amp: 0.5}
+time: 96.24 - "drum_tom_hi_soft.flac", {amp: 0.7}
+time: 96.28 - "drum_cymbal_closed.flac"
+time: 96.32 - "drum_snare_hard.flac"
+time: 96.36 - "drum_cymbal_closed.flac", {amp: 0.5}
+time: 96.44 - "drum_cymbal_closed.flac"
+time: 96.48 - "drum_snare_hard.flac"
+time: 96.52 - "drum_cymbal_closed.flac", {amp: 0.5}
+time: 96.56 - "drum_tom_mid_soft.flac", {amp: 0.7}
+time: 96.68 - "drum_cymbal_soft.flac", {amp: 0.5}
+time: 96.76 - "drum_cymbal_closed.flac"
+time: 96.8 - "bd_tek.flac"
+time: 96.84 - "drum_cymbal_closed.flac", {amp: 0.5}
+time: 96.92 - "drum_cymbal_soft.flac"
+time: 96.96 - "drum_snare_hard.flac"
+time: 97.0 - "drum_cymbal_closed.flac", {amp: 0.5}
+time: 97.08 - "drum_cymbal_soft.flac"
+time: 97.12 - "drum_snare_hard.flac"
+time: 97.2 - "sn_generic.flac"
+time: 97.24 - "drum_cymbal_open.flac"
+time: 97.28 - "bd_tek.flac"
+time: 97.4 - "drum_cymbal_closed.flac"
+time: 97.56 - "drum_cymbal_soft.flac"
+time: 97.6 - "drum_snare_hard.flac"
+time: 97.64 - "drum_cymbal_closed.flac", {amp: 0.5}
+time: 97.72 - "drum_cymbal_closed.flac"
+time: 97.96 - "drum_cymbal_soft.flac", {amp: 0.5}
+time: 98.0 - "drum_snare_hard.flac"
+time: 98.04 - "drum_cymbal_closed.flac"
+time: 98.08 - "bd_tek.flac"
+time: 98.12 - "drum_cymbal_closed.flac", {amp: 0.5}
+time: 98.2 - "drum_cymbal_closed.flac"
+time: 98.24 - "drum_snare_hard.flac"
+time: 98.36 - "drum_cymbal_closed.flac"
+time: 98.4 - "drum_snare_hard.flac"
+time: 98.44 - "drum_cymbal_closed.flac", {amp: 0.5}
+time: 98.52 - "drum_cymbal_closed.flac"
+time: 98.56 - "bd_tek.flac"
+time: 98.68 - "drum_cymbal_closed.flac"
+time: 98.76 - "drum_cymbal_closed.flac", {amp: 0.5}
+time: 98.84 - "drum_cymbal_closed.flac"
+time: 98.88 - "drum_snare_hard.flac"
+time: 98.92 - "drum_cymbal_soft.flac", {amp: 0.5}
+time: 99.0 - "drum_cymbal_soft.flac"
+time: 99.04 - "drum_snare_hard.flac"
+time: 99.2 - "drum_tom_mid_soft.flac", {amp: 0.7}
+time: 99.32 - "drum_cymbal_closed.flac"
+time: 99.36 - "bd_tek.flac"
+time: 99.44 - "drum_tom_mid_soft.flac", {amp: 0.7}
+time: 99.48 - "drum_cymbal_closed.flac"
+time: 99.52 - "drum_snare_hard.flac"
+time: 99.64 - "drum_cymbal_closed.flac"
+time: 99.68 - "drum_snare_hard.flac"
+time: 99.72 - "drum_cymbal_closed.flac", {amp: 0.5}
+time: 99.76 - "drum_snare_hard.flac"
+time: 99.8 - "drum_cymbal_soft.flac"
+time: 99.84 - "bd_tek.flac"
+time: 99.88 - "drum_cymbal_closed.flac", {amp: 0.5}
+time: 99.96 - "drum_cymbal_soft.flac"
+time: 100.0 - "bd_ada.flac"
+time: 100.12 - "drum_cymbal_closed.flac"
+time: 100.16 - "drum_snare_hard.flac"
+time: 100.28 - "drum_cymbal_closed.flac"
+time: 100.36 - "drum_cymbal_soft.flac", {amp: 0.5}
+time: 100.56 - "drum_snare_hard.flac"
+time: 100.6 - "drum_cymbal_closed.flac"
+time: 100.64 - "bd_tek.flac"
+time: 100.76 - "drum_cymbal_closed.flac"
+time: 100.8 - "drum_snare_hard.flac"
+time: 100.84 - "drum_cymbal_closed.flac", {amp: 0.5}
+time: 101.08 - "drum_cymbal_soft.flac"
+time: 101.12 - "bd_tek.flac"
+time: 101.2 - "elec_tick.flac"
+time: 101.24 - "drum_cymbal_closed.flac"
+time: 101.28 - "bd_ada.flac"
+time: 101.32 - "drum_cymbal_soft.flac", {amp: 0.5}
+time: 101.4 - "drum_cymbal_soft.flac"
+time: 101.44 - "drum_snare_hard.flac"
+time: 101.48 - "drum_cymbal_soft.flac", {amp: 0.5}
+time: 101.52 - "elec_tick.flac"
+time: 101.56 - "drum_cymbal_closed.flac"
+time: 101.64 - "drum_cymbal_pedal.flac", {amp: 0.5}
+time: 101.68 - "drum_tom_lo_soft.flac", {amp: 0.7}
+time: 101.76 - "drum_tom_hi_soft.flac", {amp: 0.7}
+time: 101.84 - "elec_hi_snare.flac"
+time: 101.88 - "drum_cymbal_soft.flac"
+time: 101.92 - "bd_tek.flac"
+time: 101.96 - "drum_cymbal_closed.flac", {amp: 0.5}
+time: 102.0 - "elec_fuzz_tom.flac"
+time: 102.08 - "drum_snare_hard.flac"
+time: 102.12 - "drum_cymbal_closed.flac", {amp: 0.5}
+time: 102.2 - "drum_cymbal_soft.flac"
+time: 102.24 - "drum_snare_hard.flac"
+time: 102.32 - "drum_snare_hard.flac"
+time: 102.36 - "drum_cymbal_closed.flac"
+time: 102.4 - "bd_tek.flac"
+time: 102.48 - "drum_tom_lo_soft.flac", {amp: 0.7}
+time: 102.52 - "drum_cymbal_closed.flac"
+time: 102.68 - "drum_cymbal_closed.flac"
+time: 102.72 - "drum_snare_hard.flac"
+time: 102.84 - "drum_cymbal_soft.flac"
+time: 102.88 - "drum_snare_hard.flac"
+time: 102.92 - "drum_cymbal_closed.flac", {amp: 0.5}
+time: 102.96 - "drum_tom_lo_soft.flac", {amp: 0.7}
+time: 103.04 - "drum_tom_lo_soft.flac", {amp: 0.7}
+time: 103.08 - "drum_cymbal_soft.flac", {amp: 0.5}
+time: 103.12 - "drum_snare_hard.flac"
+time: 103.16 - "drum_cymbal_soft.flac"
+time: 103.2 - "bd_tek.flac"
+time: 103.24 - "drum_cymbal_closed.flac", {amp: 0.5}
+time: 103.28 - "drum_tom_mid_soft.flac", {amp: 0.7}
+time: 103.32 - "drum_cymbal_closed.flac"
+time: 103.36 - "drum_snare_hard.flac"
+time: 103.4 - "drum_cymbal_soft.flac", {amp: 0.5}
+time: 103.44 - "drum_tom_mid_soft.flac", {amp: 0.7}
+time: 103.48 - "drum_cymbal_closed.flac"
+time: 103.52 - "drum_snare_hard.flac"
+time: 103.56 - "drum_cymbal_soft.flac", {amp: 0.5}
+time: 103.6 - "elec_hi_snare.flac"
+time: 103.64 - "drum_cymbal_soft.flac"
+time: 103.68 - "bd_tek.flac"
+time: 103.8 - "drum_cymbal_closed.flac"
+time: 103.84 - "bd_sone.flac"
+time: 103.88 - "drum_cymbal_soft.flac", {amp: 0.5}
+time: 103.92 - "drum_tom_mid_soft.flac", {amp: 0.7}
+time: 103.96 - "drum_cymbal_closed.flac"
+time: 104.0 - "drum_snare_hard.flac"
+time: 104.04 - "drum_cymbal_soft.flac", {amp: 0.5}
+time: 104.12 - "drum_cymbal_soft.flac"
+time: 104.2 - "drum_cymbal_soft.flac", {amp: 0.5}
+time: 104.36 - "drum_cymbal_closed.flac", {amp: 0.5}
+time: 104.4 - "elec_hi_snare.flac"
+time: 104.44 - "drum_cymbal_closed.flac"
+time: 104.48 - "bd_tek.flac"
+time: 104.6 - "drum_cymbal_closed.flac"
+time: 104.64 - "drum_snare_hard.flac"
+time: 104.68 - "drum_cymbal_closed.flac", {amp: 0.5}
+time: 104.76 - "drum_cymbal_soft.flac"
+time: 104.8 - "drum_snare_hard.flac"
+time: 104.84 - "drum_cymbal_soft.flac", {amp: 0.5}
+time: 104.92 - "drum_cymbal_closed.flac"
+time: 104.96 - "bd_tek.flac"
+time: 105.08 - "drum_cymbal_soft.flac"
+time: 105.12 - "bd_klub.flac"
+time: 105.16 - "drum_cymbal_closed.flac", {amp: 0.5}
+time: 105.2 - "drum_tom_lo_soft.flac", {amp: 0.7}
+time: 105.24 - "drum_cymbal_closed.flac"
+time: 105.28 - "drum_snare_hard.flac"
+time: 105.32 - "drum_cymbal_closed.flac", {amp: 0.5}
+time: 105.36 - "drum_tom_lo_soft.flac", {amp: 0.7}
+time: 105.4 - "drum_cymbal_closed.flac"
+time: 105.48 - "drum_cymbal_closed.flac", {amp: 0.5}
+time: 105.72 - "drum_cymbal_closed.flac"
+time: 105.76 - "bd_tek.flac"
+time: 105.8 - "drum_cymbal_closed.flac", {amp: 0.5}
+time: 105.88 - "drum_cymbal_closed.flac"
+time: 105.92 - "drum_snare_hard.flac"
+time: 106.08 - "drum_snare_hard.flac"
+time: 106.12 - "drum_cymbal_closed.flac", {amp: 0.5}
+time: 106.2 - "drum_cymbal_closed.flac"
+time: 106.24 - "bd_tek.flac"
+time: 106.28 - "drum_cymbal_pedal.flac", {amp: 0.5}
+time: 106.36 - "drum_cymbal_pedal.flac"
+time: 106.4 - "bd_fat.flac"
+time: 106.52 - "drum_cymbal_soft.flac"
+time: 106.56 - "drum_snare_hard.flac"
+time: 106.68 - "drum_cymbal_soft.flac"
+time: 106.72 - "elec_hi_snare.flac"
+time: 106.88 - "perc_swash.flac"
+time: 106.92 - "drum_cymbal_closed.flac", {amp: 0.5}
+time: 107.0 - "drum_cymbal_closed.flac"
+time: 107.04 - "bd_tek.flac"
+time: 107.08 - "drum_cymbal_pedal.flac", {amp: 0.5}
+time: 107.2 - "drum_snare_hard.flac"
+time: 107.28 - "perc_swash.flac"
+time: 107.32 - "drum_cymbal_soft.flac"
+time: 107.36 - "drum_snare_hard.flac"
+time: 107.44 - "sn_generic.flac"
+time: 107.48 - "drum_cymbal_closed.flac"
+time: 107.52 - "bd_tek.flac"
+time: 107.64 - "drum_cymbal_soft.flac"
+time: 107.68 - "bd_klub.flac"
+time: 107.72 - "drum_cymbal_closed.flac", {amp: 0.5}
+time: 107.8 - "drum_cymbal_closed.flac"
+time: 107.84 - "drum_snare_hard.flac"
+time: 107.88 - "drum_cymbal_closed.flac", {amp: 0.5}
+time: 107.96 - "drum_cymbal_closed.flac"
+time: 108.04 - "drum_cymbal_soft.flac", {amp: 0.5}
+time: 108.16 - "drum_tom_hi_soft.flac", {amp: 0.7}
+time: 108.28 - "drum_cymbal_closed.flac"
+time: 108.32 - "bd_tek.flac"
+time: 108.36 - "drum_cymbal_closed.flac", {amp: 0.5}
+time: 108.44 - "drum_cymbal_soft.flac"
+time: 108.48 - "drum_snare_hard.flac"
+time: 108.56 - "drum_tom_lo_soft.flac", {amp: 0.7}
+time: 108.68 - "drum_cymbal_closed.flac", {amp: 0.5}
+time: 108.76 - "drum_cymbal_closed.flac"
+time: 108.8 - "bd_tek.flac"
+time: 108.84 - "drum_cymbal_closed.flac", {amp: 0.5}
+time: 108.92 - "drum_cymbal_closed.flac"
+time: 108.96 - "bd_tek.flac"
+time: 109.0 - "drum_cymbal_closed.flac", {amp: 0.5}
+time: 109.08 - "drum_cymbal_closed.flac"
+time: 109.12 - "drum_snare_hard.flac"
+time: 109.2 - "drum_tom_lo_soft.flac", {amp: 0.7}
+time: 109.24 - "drum_cymbal_closed.flac"
+time: 109.28 - "elec_hi_snare.flac"
+time: 109.36 - "drum_tom_mid_soft.flac", {amp: 0.7}
+time: 109.48 - "drum_cymbal_soft.flac", {amp: 0.5}
+time: 109.56 - "drum_cymbal_closed.flac"
+time: 109.6 - "bd_tek.flac"
+time: 109.64 - "drum_cymbal_closed.flac", {amp: 0.5}
+time: 109.68 - "drum_tom_hi_soft.flac", {amp: 0.7}
+time: 109.72 - "drum_cymbal_closed.flac"
+time: 109.76 - "drum_snare_hard.flac"
+time: 109.8 - "drum_cymbal_soft.flac", {amp: 0.5}
+time: 109.84 - "drum_tom_hi_soft.flac", {amp: 0.7}
+time: 109.88 - "drum_cymbal_closed.flac"
+time: 109.92 - "drum_snare_hard.flac"
+time: 110.0 - "sn_generic.flac"
+time: 110.04 - "drum_cymbal_closed.flac"
+time: 110.08 - "bd_tek.flac"
+time: 110.2 - "drum_cymbal_closed.flac"
+time: 110.24 - "bd_klub.flac"
+time: 110.36 - "drum_cymbal_closed.flac"
+time: 110.4 - "drum_snare_hard.flac"
+time: 110.44 - "drum_cymbal_soft.flac", {amp: 0.5}
+time: 110.52 - "drum_cymbal_soft.flac"
+time: 110.56 - "drum_snare_hard.flac"
+time: 110.64 - "drum_tom_mid_soft.flac", {amp: 0.7}
+time: 110.76 - "drum_cymbal_closed.flac", {amp: 0.5}
+time: 110.84 - "drum_cymbal_soft.flac"
+time: 110.88 - "bd_tek.flac"
+time: 110.92 - "drum_cymbal_soft.flac", {amp: 0.5}
+time: 111.0 - "drum_cymbal_soft.flac"
+time: 111.04 - "drum_snare_hard.flac"
+time: 111.08 - "drum_cymbal_soft.flac", {amp: 0.5}
+time: 111.12 - "drum_tom_lo_soft.flac", {amp: 0.7}
+time: 111.16 - "drum_cymbal_closed.flac"
+time: 111.32 - "drum_cymbal_closed.flac"
+time: 111.36 - "bd_tek.flac"
+time: 111.4 - "drum_cymbal_closed.flac", {amp: 0.5}
+time: 111.44 - "drum_tom_mid_soft.flac", {amp: 0.7}
+time: 111.48 - "drum_cymbal_pedal.flac"
+time: 111.52 - "bd_boom.flac"
+time: 111.64 - "drum_cymbal_soft.flac"
+time: 111.68 - "drum_snare_hard.flac"
+time: 111.72 - "drum_cymbal_soft.flac", {amp: 0.5}
+time: 111.88 - "drum_cymbal_soft.flac", {amp: 0.5}
+time: 111.92 - "elec_fuzz_tom.flac"
+time: 112.0 - "perc_swash.flac"
+time: 112.04 - "drum_cymbal_soft.flac", {amp: 0.5}
+time: 112.12 - "drum_cymbal_closed.flac"
+time: 112.16 - "bd_tek.flac"
+time: 112.2 - "drum_cymbal_pedal.flac", {amp: 0.5}
+time: 112.24 - "elec_fuzz_tom.flac"
+time: 112.28 - "drum_cymbal_closed.flac"
+time: 112.32 - "drum_snare_hard.flac"
+time: 112.4 - "drum_tom_hi_soft.flac", {amp: 0.7}
+time: 112.44 - "drum_cymbal_soft.flac"
+time: 112.48 - "drum_snare_hard.flac"
+time: 112.52 - "drum_cymbal_pedal.flac", {amp: 0.5}
+time: 112.56 - "drum_snare_hard.flac"
+time: 112.6 - "drum_cymbal_pedal.flac"
+time: 112.64 - "bd_tek.flac"
+time: 112.68 - "drum_cymbal_soft.flac", {amp: 0.5}
+time: 112.8 - "bd_tek.flac"
+time: 112.84 - "drum_cymbal_soft.flac", {amp: 0.5}
+time: 112.88 - "drum_tom_lo_soft.flac", {amp: 0.7}
+time: 112.96 - "drum_snare_hard.flac"
+time: 113.08 - "drum_cymbal_closed.flac"
+time: 113.16 - "drum_cymbal_soft.flac", {amp: 0.5}
+time: 113.2 - "drum_tom_mid_soft.flac", {amp: 0.7}
+time: 113.32 - "drum_cymbal_closed.flac", {amp: 0.5}
+time: 113.4 - "drum_cymbal_closed.flac"
+time: 113.44 - "bd_tek.flac"
+time: 113.48 - "drum_cymbal_closed.flac", {amp: 0.5}
+time: 113.52 - "drum_tom_lo_soft.flac", {amp: 0.7}
+time: 113.56 - "drum_cymbal_soft.flac"
+time: 113.6 - "drum_snare_hard.flac"
+time: 113.68 - "elec_fuzz_tom.flac"
+time: 113.72 - "drum_cymbal_closed.flac"
+time: 113.8 - "drum_cymbal_closed.flac", {amp: 0.5}
+time: 113.84 - "drum_snare_hard.flac"
+time: 113.88 - "drum_cymbal_soft.flac"
+time: 113.92 - "bd_tek.flac"
+time: 114.04 - "drum_cymbal_closed.flac"
+time: 114.08 - "bd_boom.flac"
+time: 114.2 - "drum_cymbal_closed.flac"
+time: 114.24 - "drum_snare_hard.flac"
+time: 114.36 - "drum_cymbal_closed.flac"
+time: 114.4 - "sn_zome.flac"
+time: 114.48 - "drum_tom_hi_soft.flac", {amp: 0.7}
+time: 114.56 - "drum_tom_hi_soft.flac", {amp: 0.7}
+time: 114.64 - "elec_hi_snare.flac"
+time: 114.72 - "bd_tek.flac"
+time: 114.88 - "drum_snare_hard.flac"
+time: 115.04 - "drum_snare_hard.flac"
+time: 115.16 - "drum_cymbal_open.flac"
+time: 115.2 - "bd_tek.flac"
+time: 115.24 - "drum_cymbal_soft.flac", {amp: 0.5}
+time: 115.28 - "drum_tom_lo_soft.flac", {amp: 0.7}
+time: 115.32 - "drum_cymbal_soft.flac"
+time: 115.36 - "bd_zum.flac"
+time: 115.44 - "drum_tom_hi_soft.flac", {amp: 0.7}
+time: 115.48 - "drum_cymbal_soft.flac"
+time: 115.52 - "drum_snare_hard.flac"
+time: 115.56 - "drum_cymbal_soft.flac", {amp: 0.5}
+time: 115.6 - "elec_fuzz_tom.flac"
+time: 115.64 - "drum_cymbal_soft.flac"
+time: 115.84 - "drum_tom_hi_soft.flac", {amp: 0.7}
+time: 115.88 - "drum_cymbal_soft.flac", {amp: 0.5}
+time: 115.92 - "elec_hi_snare.flac"
+time: 115.96 - "drum_cymbal_closed.flac"
+time: 116.0 - "bd_tek.flac"
+time: 116.04 - "drum_cymbal_closed.flac", {amp: 0.5}
+time: 116.12 - "drum_cymbal_closed.flac"
+time: 116.16 - "drum_snare_hard.flac"
+time: 116.28 - "drum_cymbal_soft.flac"
+time: 116.44 - "drum_cymbal_open.flac"
+time: 116.48 - "bd_tek.flac"
+time: 116.52 - "drum_cymbal_pedal.flac", {amp: 0.5}
+time: 116.6 - "drum_cymbal_pedal.flac"
+time: 116.64 - "bd_fat.flac"
+time: 116.72 - "perc_swash.flac"
+time: 116.76 - "drum_cymbal_closed.flac"
+time: 116.8 - "drum_snare_hard.flac"
+time: 116.84 - "drum_cymbal_pedal.flac", {amp: 0.5}
+time: 116.92 - "drum_cymbal_pedal.flac"
+time: 116.96 - "drum_snare_hard.flac"
+time: 117.0 - "drum_cymbal_closed.flac", {amp: 0.5}
+time: 117.2 - "drum_snare_hard.flac"
+time: 117.28 - "bd_tek.flac"
+time: 117.32 - "drum_cymbal_closed.flac", {amp: 0.5}
+time: 117.36 - "elec_tick.flac"
+time: 117.4 - "drum_cymbal_soft.flac"
+time: 117.44 - "drum_snare_hard.flac"
+time: 117.52 - "perc_swash.flac"
+time: 117.56 - "drum_cymbal_pedal.flac"
+time: 117.64 - "drum_cymbal_soft.flac", {amp: 0.5}
+time: 117.68 - "elec_hi_snare.flac"
+time: 117.72 - "drum_cymbal_soft.flac"
+time: 117.76 - "bd_tek.flac"
+time: 117.8 - "drum_cymbal_closed.flac", {amp: 0.5}
+time: 117.84 - "elec_tick.flac"
+time: 117.88 - "drum_cymbal_closed.flac"
+time: 117.96 - "drum_cymbal_closed.flac", {amp: 0.5}
+time: 118.0 - "elec_fuzz_tom.flac"
+time: 118.04 - "drum_cymbal_soft.flac"
+time: 118.08 - "drum_snare_hard.flac"
+time: 118.16 - "drum_tom_mid_soft.flac", {amp: 0.7}
+time: 118.2 - "drum_cymbal_closed.flac"
+time: 118.28 - "drum_cymbal_soft.flac", {amp: 0.5}
+time: 118.4 - "drum_tom_lo_soft.flac", {amp: 0.7}
+time: 118.44 - "drum_cymbal_soft.flac", {amp: 0.5}
+time: 118.48 - "sn_generic.flac"
+time: 118.56 - "bd_tek.flac"
+time: 118.6 - "drum_cymbal_soft.flac", {amp: 0.5}
+time: 118.68 - "drum_cymbal_pedal.flac"
+time: 118.72 - "drum_snare_hard.flac"
+time: 118.8 - "drum_tom_mid_soft.flac", {amp: 0.7}
+time: 118.88 - "drum_snare_hard.flac"
+time: 119.0 - "drum_cymbal_soft.flac"
+time: 119.04 - "bd_tek.flac"
+time: 119.12 - "drum_tom_lo_soft.flac", {amp: 0.7}
+time: 119.16 - "drum_cymbal_soft.flac"
+time: 119.2 - "bd_sone.flac"
+time: 119.28 - "drum_tom_hi_soft.flac", {amp: 0.7}
+time: 119.32 - "drum_cymbal_closed.flac"
+time: 119.36 - "drum_snare_hard.flac"
+time: 119.48 - "drum_cymbal_closed.flac"
+time: 119.52 - "drum_snare_hard.flac"
+time: 119.56 - "drum_cymbal_closed.flac", {amp: 0.5}
+time: 119.8 - "drum_cymbal_soft.flac"
+time: 119.84 - "bd_tek.flac"
+time: 119.92 - "elec_fuzz_tom.flac"
+time: 119.96 - "drum_cymbal_pedal.flac"
+time: 120.0 - "drum_snare_hard.flac"
+time: 120.08 - "drum_tom_hi_soft.flac", {amp: 0.7}
+time: 120.12 - "drum_cymbal_closed.flac"
+time: 120.16 - "drum_snare_hard.flac"
+time: 120.28 - "drum_cymbal_closed.flac"
+time: 120.32 - "bd_tek.flac"
+time: 120.36 - "drum_cymbal_closed.flac", {amp: 0.5}
+time: 120.44 - "drum_cymbal_closed.flac"
+time: 120.48 - "bd_klub.flac"
+time: 120.56 - "elec_tick.flac"
+time: 120.64 - "drum_snare_hard.flac"
+time: 120.72 - "drum_tom_lo_soft.flac", {amp: 0.7}
+time: 120.76 - "drum_cymbal_closed.flac"
+time: 120.96 - "drum_tom_hi_soft.flac", {amp: 0.7}
+time: 121.08 - "drum_cymbal_closed.flac"
+time: 121.12 - "bd_tek.flac"
+time: 121.24 - "drum_cymbal_soft.flac"
+time: 121.28 - "drum_snare_hard.flac"
+time: 121.32 - "drum_cymbal_pedal.flac", {amp: 0.5}
+time: 121.4 - "drum_cymbal_closed.flac"
+time: 121.52 - "drum_snare_hard.flac"
+time: 121.56 - "drum_cymbal_open.flac"
+time: 121.6 - "bd_tek.flac"
+time: 121.64 - "drum_cymbal_closed.flac", {amp: 0.5}
+time: 121.68 - "perc_swash.flac"
+time: 121.72 - "drum_cymbal_closed.flac"
+time: 121.76 - "bd_fat.flac"
+time: 121.84 - "elec_tick.flac"
+time: 121.88 - "drum_cymbal_pedal.flac"
+time: 121.92 - "drum_snare_hard.flac"
+time: 121.96 - "drum_cymbal_pedal.flac", {amp: 0.5}
+time: 122.0 - "drum_tom_mid_soft.flac", {amp: 0.7}
+time: 122.04 - "drum_cymbal_pedal.flac"
+time: 122.12 - "drum_cymbal_closed.flac", {amp: 0.5}
+time: 122.24 - "perc_swash.flac"
+time: 122.36 - "drum_cymbal_closed.flac"
+time: 122.4 - "bd_tek.flac"
+time: 122.44 - "drum_cymbal_closed.flac", {amp: 0.5}
+time: 122.48 - "perc_swash.flac"
+time: 122.52 - "drum_cymbal_closed.flac"
+time: 122.56 - "drum_snare_hard.flac"
+time: 122.6 - "drum_cymbal_pedal.flac", {amp: 0.5}
+time: 122.64 - "drum_tom_hi_soft.flac", {amp: 0.7}
+time: 122.68 - "drum_cymbal_pedal.flac"
+time: 122.8 - "drum_snare_hard.flac"
+time: 122.84 - "drum_cymbal_pedal.flac"
+time: 122.88 - "bd_tek.flac"
+time: 122.92 - "drum_cymbal_pedal.flac", {amp: 0.5}
+time: 123.04 - "bd_klub.flac"
+time: 123.08 - "drum_cymbal_closed.flac", {amp: 0.5}
+time: 123.12 - "drum_tom_lo_soft.flac", {amp: 0.7}
+time: 123.16 - "drum_cymbal_closed.flac"
+time: 123.2 - "drum_snare_hard.flac"
+time: 123.24 - "drum_cymbal_pedal.flac", {amp: 0.5}
+time: 123.28 - "drum_tom_lo_soft.flac", {amp: 0.7}
+time: 123.32 - "drum_cymbal_soft.flac"
+time: 123.56 - "drum_cymbal_soft.flac", {amp: 0.5}
+time: 123.64 - "drum_cymbal_soft.flac"
+time: 123.68 - "bd_tek.flac"
+time: 123.84 - "drum_snare_hard.flac"
+time: 123.92 - "drum_tom_mid_soft.flac", {amp: 0.7}
+time: 123.96 - "drum_cymbal_soft.flac"
+time: 124.04 - "drum_cymbal_pedal.flac", {amp: 0.5}
+time: 124.08 - "sn_zome.flac"
+time: 124.12 - "drum_cymbal_closed.flac"
+time: 124.16 - "bd_tek.flac"
+time: 124.28 - "drum_cymbal_closed.flac"
+time: 124.32 - "bd_boom.flac"
+time: 124.36 - "drum_cymbal_pedal.flac", {amp: 0.5}
+time: 124.44 - "drum_cymbal_soft.flac"
+time: 124.48 - "drum_snare_hard.flac"
+time: 124.56 - "elec_tick.flac"
+time: 124.6 - "drum_cymbal_soft.flac"
+time: 124.64 - "sn_zome.flac"
+time: 124.8 - "drum_tom_mid_soft.flac", {amp: 0.7}
+time: 124.88 - "drum_snare_soft.flac"
+time: 124.92 - "drum_cymbal_pedal.flac"
+time: 124.96 - "bd_tek.flac"
+time: 125.08 - "drum_cymbal_closed.flac"
+time: 125.12 - "drum_snare_hard.flac"
+time: 125.2 - "drum_tom_lo_soft.flac", {amp: 0.7}
+time: 125.24 - "drum_cymbal_soft.flac"
+time: 125.28 - "drum_snare_hard.flac"
+time: 125.36 - "drum_snare_hard.flac"
+time: 125.4 - "drum_cymbal_closed.flac"
+time: 125.44 - "bd_tek.flac"
+time: 125.56 - "drum_cymbal_closed.flac"
+time: 125.6 - "bd_fat.flac"
+time: 125.72 - "drum_cymbal_closed.flac"
+time: 125.76 - "drum_snare_hard.flac"
+time: 125.88 - "drum_cymbal_closed.flac"
+time: 125.92 - "drum_snare_soft.flac"
+time: 126.0 - "drum_tom_mid_soft.flac", {amp: 0.7}
+time: 126.08 - "elec_fuzz_tom.flac"
+time: 126.12 - "drum_cymbal_closed.flac", {amp: 0.5}
+time: 126.16 - "drum_snare_hard.flac"
+time: 126.2 - "drum_cymbal_soft.flac"
+time: 126.24 - "bd_tek.flac"
+time: 126.32 - "drum_tom_hi_soft.flac", {amp: 0.7}
+time: 126.4 - "drum_snare_hard.flac"
+time: 126.44 - "drum_cymbal_closed.flac", {amp: 0.5}
+time: 126.48 - "elec_tick.flac"
+time: 126.52 - "drum_cymbal_soft.flac"
+time: 126.56 - "drum_snare_hard.flac"
+time: 126.6 - "drum_cymbal_closed.flac", {amp: 0.5}
+time: 126.68 - "drum_cymbal_closed.flac"
+time: 126.72 - "bd_tek.flac"
+time: 126.76 - "drum_cymbal_pedal.flac", {amp: 0.5}
+time: 126.8 - "perc_swash.flac"
+time: 126.84 - "drum_cymbal_soft.flac"
+time: 126.88 - "bd_sone.flac"
+time: 126.92 - "drum_cymbal_closed.flac", {amp: 0.5}
+time: 126.96 - "perc_swash.flac"
+time: 127.0 - "drum_cymbal_closed.flac"
+time: 127.04 - "drum_snare_hard.flac"
+time: 127.12 - "perc_swash.flac"
+time: 127.16 - "drum_cymbal_closed.flac"
+time: 127.2 - "drum_snare_hard.flac"
+time: 127.24 - "drum_cymbal_soft.flac", {amp: 0.5}
+time: 127.36 - "drum_tom_lo_soft.flac", {amp: 0.7}
+time: 127.4 - "drum_cymbal_pedal.flac", {amp: 0.5}
+time: 127.48 - "drum_cymbal_closed.flac"
+time: 127.52 - "bd_tek.flac"
+time: 127.56 - "drum_cymbal_pedal.flac", {amp: 0.5}
+time: 127.6 - "elec_fuzz_tom.flac"
+time: 127.64 - "drum_cymbal_closed.flac"
+time: 127.68 - "drum_snare_hard.flac"
+time: 127.76 - "drum_tom_hi_soft.flac", {amp: 0.7}
+time: 127.8 - "drum_cymbal_pedal.flac"
+time: 127.84 - "drum_snare_hard.flac"
+time: 127.88 - "drum_cymbal_pedal.flac", {amp: 0.5}
+time: 127.92 - "drum_snare_soft.flac"
+time: 127.96 - "drum_cymbal_pedal.flac"
+time: 128.0 - "nrbpf Effect"
+time: 128.0 - "bd_tek.flac"
+time: 128.32 - "drum_snare_hard.flac"
+time: 128.8 - "bd_tek.flac"
+time: 128.96 - "drum_snare_hard.flac"
+time: 129.28 - "bd_tek.flac"
+time: 129.6 - "drum_snare_hard.flac"
+time: 130.08 - "bd_tek.flac"
+time: 130.24 - "drum_snare_hard.flac"
+time: 130.56 - "bd_tek.flac"
+time: 130.88 - "drum_snare_hard.flac"
+time: 131.36 - "bd_tek.flac"
+time: 131.52 - "drum_snare_hard.flac"
+time: 131.84 - "bd_tek.flac"
+time: 131.96 - "drum_cymbal_closed.flac"
+time: 132.0 - "bd_tek.flac"
+time: 132.12 - "drum_cymbal_closed.flac"
+time: 132.16 - "drum_snare_hard.flac"
+time: 132.28 - "drum_cymbal_closed.flac"
+time: 132.32 - "drum_snare_hard.flac"
+time: 132.64 - "bd_tek.flac"
+time: 132.76 - "drum_cymbal_closed.flac"
+time: 132.8 - "drum_snare_hard.flac"
+time: 132.92 - "drum_cymbal_closed.flac"
+time: 132.96 - "drum_snare_hard.flac"
+time: 133.08 - "drum_cymbal_closed.flac"
+time: 133.12 - "bd_tek.flac"
+time: 133.4 - "drum_cymbal_closed.flac"
+time: 133.44 - "drum_snare_hard.flac"
+time: 133.56 - "drum_cymbal_closed.flac"
+time: 133.88 - "drum_cymbal_closed.flac"
+time: 133.92 - "bd_tek.flac"
+time: 134.04 - "drum_cymbal_closed.flac"
+time: 134.08 - "drum_snare_hard.flac"
+time: 134.2 - "drum_cymbal_closed.flac"
+time: 134.36 - "drum_cymbal_closed.flac"
+time: 134.4 - "bd_tek.flac"
+time: 134.52 - "drum_cymbal_closed.flac"
+time: 134.68 - "drum_cymbal_closed.flac"
+time: 134.72 - "drum_snare_hard.flac"
+time: 134.84 - "drum_cymbal_closed.flac"
+time: 135.16 - "drum_cymbal_closed.flac"
+time: 135.2 - "bd_tek.flac"
+time: 135.32 - "drum_cymbal_closed.flac"
+time: 135.36 - "drum_snare_hard.flac"
+time: 135.48 - "drum_cymbal_closed.flac"
+time: 135.68 - "bd_tek.flac"
+time: 135.8 - "drum_cymbal_closed.flac"
+time: 135.96 - "drum_cymbal_closed.flac"
+time: 136.0 - "drum_snare_hard.flac"
+time: 136.12 - "drum_cymbal_closed.flac"
+time: 136.44 - "drum_cymbal_closed.flac"
+time: 136.48 - "bd_tek.flac"
+time: 136.6 - "drum_cymbal_closed.flac"
+time: 136.64 - "drum_snare_hard.flac"
+time: 136.76 - "drum_cymbal_closed.flac"
+time: 136.92 - "drum_cymbal_closed.flac"
+time: 136.96 - "bd_tek.flac"
+time: 137.0 - "drum_cymbal_closed.flac", {amp: 0.5}
+time: 137.08 - "drum_cymbal_closed.flac"
+time: 137.12 - "bd_tek.flac"
+time: 137.24 - "drum_cymbal_closed.flac"
+time: 137.28 - "drum_snare_hard.flac"
+time: 137.4 - "drum_cymbal_closed.flac"
+time: 137.68 - "drum_snare_hard.flac"
+time: 137.72 - "drum_cymbal_closed.flac"
+time: 137.76 - "bd_tek.flac"
+time: 137.8 - "drum_cymbal_closed.flac", {amp: 0.5}
+time: 137.88 - "drum_cymbal_closed.flac"
+time: 137.92 - "drum_snare_hard.flac"
+time: 138.04 - "drum_cymbal_closed.flac"
+time: 138.2 - "drum_cymbal_closed.flac"
+time: 138.24 - "bd_tek.flac"
+time: 138.36 - "drum_cymbal_closed.flac"
+time: 138.52 - "drum_cymbal_closed.flac"
+time: 138.56 - "drum_snare_hard.flac"
+time: 138.68 - "drum_cymbal_closed.flac"
+time: 139.0 - "drum_cymbal_closed.flac"
+time: 139.04 - "bd_tek.flac"
+time: 139.16 - "drum_cymbal_closed.flac"
+time: 139.2 - "drum_snare_hard.flac"
+time: 139.32 - "drum_cymbal_closed.flac"
+time: 139.48 - "drum_cymbal_closed.flac"
+time: 139.52 - "bd_tek.flac"
+time: 139.64 - "drum_cymbal_closed.flac"
+time: 139.8 - "drum_cymbal_closed.flac"
+time: 139.84 - "drum_snare_hard.flac"
+time: 139.96 - "drum_cymbal_closed.flac"
+time: 140.28 - "drum_cymbal_closed.flac"
+time: 140.32 - "bd_tek.flac"
+time: 140.44 - "drum_cymbal_closed.flac"
+time: 140.48 - "drum_snare_hard.flac"
+time: 140.6 - "drum_cymbal_closed.flac"
+time: 140.76 - "drum_cymbal_closed.flac"
+time: 140.8 - "bd_tek.flac"
+time: 140.92 - "drum_cymbal_closed.flac"
+time: 140.96 - "bd_tek.flac"
+time: 141.08 - "drum_cymbal_closed.flac"
+time: 141.12 - "drum_snare_hard.flac"
+time: 141.24 - "drum_cymbal_closed.flac"
+time: 141.56 - "drum_cymbal_closed.flac"
+time: 141.6 - "bd_tek.flac"
+time: 141.72 - "drum_cymbal_closed.flac"
+time: 141.76 - "drum_snare_hard.flac"
+time: 141.88 - "drum_cymbal_closed.flac"
+time: 142.04 - "drum_cymbal_closed.flac"
+time: 142.08 - "bd_tek.flac"
+time: 142.12 - "drum_cymbal_soft.flac", {amp: 0.5}
+time: 142.16 - "drum_tom_mid_soft.flac", {amp: 0.7}
+time: 142.2 - "drum_cymbal_closed.flac"
+time: 142.24 - "bd_sone.flac"
+time: 142.36 - "drum_cymbal_closed.flac"
+time: 142.4 - "drum_snare_hard.flac"
+time: 142.44 - "drum_cymbal_closed.flac", {amp: 0.5}
+time: 142.52 - "drum_cymbal_closed.flac"
+time: 142.6 - "drum_cymbal_closed.flac", {amp: 0.5}
+time: 142.84 - "drum_cymbal_closed.flac"
+time: 142.88 - "bd_tek.flac"
+time: 143.0 - "drum_cymbal_closed.flac"
+time: 143.04 - "drum_snare_hard.flac"
+time: 143.16 - "drum_cymbal_closed.flac"
+time: 143.2 - "drum_snare_hard.flac"
+time: 143.24 - "drum_cymbal_closed.flac", {amp: 0.5}
+time: 143.32 - "drum_cymbal_closed.flac"
+time: 143.36 - "bd_tek.flac"
+time: 143.64 - "drum_cymbal_closed.flac"
+time: 143.68 - "drum_snare_hard.flac"
+time: 143.8 - "drum_cymbal_closed.flac"
+time: 144.12 - "drum_cymbal_closed.flac"
+time: 144.16 - "bd_tek.flac"
+time: 144.28 - "drum_cymbal_closed.flac"
+time: 144.32 - "drum_snare_hard.flac"
+time: 144.44 - "drum_cymbal_closed.flac"
+time: 144.48 - "drum_snare_hard.flac"
+time: 144.6 - "drum_cymbal_closed.flac"
+time: 144.64 - "bd_tek.flac"
+time: 144.76 - "drum_cymbal_closed.flac"
+time: 144.8 - "bd_tek.flac"
+time: 144.92 - "drum_cymbal_closed.flac"
+time: 144.96 - "drum_snare_hard.flac"
+time: 145.08 - "drum_cymbal_closed.flac"
+time: 145.4 - "drum_cymbal_closed.flac"
+time: 145.44 - "bd_tek.flac"
+time: 145.56 - "drum_cymbal_closed.flac"
+time: 145.6 - "drum_snare_hard.flac"
+time: 145.72 - "drum_cymbal_closed.flac"
+time: 145.88 - "drum_cymbal_closed.flac"
+time: 145.92 - "bd_tek.flac"
+time: 146.04 - "drum_cymbal_closed.flac"
+time: 146.08 - "bd_tek.flac"
+time: 146.2 - "drum_cymbal_closed.flac"
+time: 146.24 - "drum_snare_hard.flac"
+time: 146.36 - "drum_cymbal_closed.flac"
+time: 146.68 - "drum_cymbal_closed.flac"
+time: 146.72 - "bd_tek.flac"
+time: 146.84 - "drum_cymbal_closed.flac"
+time: 146.88 - "drum_snare_hard.flac"
+time: 147.0 - "drum_cymbal_closed.flac"
+time: 147.04 - "drum_snare_hard.flac"
+time: 147.16 - "drum_cymbal_closed.flac"
+time: 147.2 - "bd_tek.flac"
+time: 147.24 - "drum_cymbal_soft.flac", {amp: 0.5}
+time: 147.32 - "drum_cymbal_closed.flac"
+time: 147.36 - "bd_zum.flac"
+time: 147.4 - "drum_cymbal_soft.flac", {amp: 0.5}
+time: 147.48 - "drum_cymbal_soft.flac"
+time: 147.52 - "drum_snare_hard.flac"
+time: 147.56 - "drum_cymbal_soft.flac", {amp: 0.5}
+time: 147.64 - "drum_cymbal_soft.flac"
+time: 147.68 - "elec_hi_snare.flac"
+time: 147.76 - "drum_tom_mid_soft.flac", {amp: 0.7}
+time: 147.96 - "drum_cymbal_closed.flac"
+time: 148.0 - "bd_tek.flac"
+time: 148.04 - "drum_cymbal_soft.flac", {amp: 0.5}
+time: 148.12 - "drum_cymbal_closed.flac"
+time: 148.16 - "drum_snare_hard.flac"
+time: 148.2 - "drum_cymbal_closed.flac", {amp: 0.5}
+time: 148.28 - "drum_cymbal_closed.flac"
+time: 148.4 - "drum_snare_hard.flac"
+time: 148.44 - "drum_cymbal_closed.flac"
+time: 148.48 - "bd_tek.flac"
+time: 148.52 - "drum_cymbal_closed.flac", {amp: 0.5}
+time: 148.6 - "drum_cymbal_closed.flac"
+time: 148.76 - "drum_cymbal_closed.flac"
+time: 148.8 - "drum_snare_hard.flac"
+time: 148.92 - "drum_cymbal_closed.flac"
+time: 149.2 - "drum_snare_hard.flac"
+time: 149.24 - "drum_cymbal_closed.flac"
+time: 149.28 - "bd_tek.flac"
+time: 149.4 - "drum_cymbal_closed.flac"
+time: 149.44 - "drum_snare_hard.flac"
+time: 149.56 - "drum_cymbal_closed.flac"
+time: 149.72 - "drum_cymbal_closed.flac"
+time: 149.76 - "bd_tek.flac"
+time: 149.88 - "drum_cymbal_closed.flac"
+time: 149.92 - "bd_tek.flac"
+time: 150.04 - "drum_cymbal_closed.flac"
+time: 150.08 - "drum_snare_hard.flac"
+time: 150.12 - "drum_cymbal_closed.flac", {amp: 0.5}
+time: 150.2 - "drum_cymbal_closed.flac"
+time: 150.44 - "drum_cymbal_closed.flac", {amp: 0.5}
+time: 150.48 - "drum_snare_hard.flac"
+time: 150.52 - "drum_cymbal_closed.flac"
+time: 150.56 - "bd_tek.flac"
+time: 150.68 - "drum_cymbal_closed.flac"
+time: 150.72 - "drum_snare_hard.flac"
+time: 150.84 - "drum_cymbal_closed.flac"
+time: 151.0 - "drum_cymbal_closed.flac"
+time: 151.04 - "bd_tek.flac"
+time: 151.16 - "drum_cymbal_closed.flac"
+time: 151.32 - "drum_cymbal_closed.flac"
+time: 151.36 - "drum_snare_hard.flac"
+time: 151.48 - "drum_cymbal_closed.flac"
+time: 151.8 - "drum_cymbal_closed.flac"
+time: 151.84 - "bd_tek.flac"
+time: 151.96 - "drum_cymbal_closed.flac"
+time: 152.0 - "drum_snare_hard.flac"
+time: 152.12 - "drum_cymbal_closed.flac"
+time: 152.16 - "drum_snare_hard.flac"
+time: 152.28 - "drum_cymbal_closed.flac"
+time: 152.32 - "bd_tek.flac"
+time: 152.48 - "bd_boom.flac"
+time: 152.52 - "drum_cymbal_soft.flac", {amp: 0.5}
+time: 152.6 - "drum_cymbal_soft.flac"
+time: 152.64 - "drum_snare_hard.flac"
+time: 152.76 - "drum_cymbal_closed.flac"
+time: 152.84 - "drum_cymbal_soft.flac", {amp: 0.5}
+time: 153.0 - "drum_cymbal_soft.flac", {amp: 0.5}
+time: 153.12 - "bd_tek.flac"
+time: 153.16 - "drum_cymbal_soft.flac", {amp: 0.5}
+time: 153.2 - "drum_tom_lo_soft.flac", {amp: 0.7}
+time: 153.24 - "drum_cymbal_closed.flac"
+time: 153.28 - "drum_snare_hard.flac"
+time: 153.32 - "drum_cymbal_closed.flac", {amp: 0.5}
+time: 153.36 - "drum_tom_hi_soft.flac", {amp: 0.7}
+time: 153.4 - "drum_cymbal_closed.flac"
+time: 153.44 - "drum_snare_hard.flac"
+time: 153.56 - "drum_cymbal_closed.flac"
+time: 153.6 - "bd_tek.flac"
+time: 153.72 - "drum_cymbal_closed.flac"
+time: 153.76 - "bd_tek.flac"
+time: 153.88 - "drum_cymbal_closed.flac"
+time: 153.92 - "drum_snare_hard.flac"
+time: 154.04 - "drum_cymbal_closed.flac"
+time: 154.36 - "drum_cymbal_closed.flac"
+time: 154.4 - "bd_tek.flac"
+time: 154.52 - "drum_cymbal_closed.flac"
+time: 154.56 - "drum_snare_hard.flac"
+time: 154.68 - "drum_cymbal_closed.flac"
+time: 154.72 - "drum_snare_hard.flac"
+time: 154.76 - "drum_cymbal_closed.flac", {amp: 0.5}
+time: 154.84 - "drum_cymbal_closed.flac"
+time: 154.88 - "bd_tek.flac"
+time: 154.92 - "drum_cymbal_closed.flac", {amp: 0.5}
+time: 155.0 - "drum_cymbal_closed.flac"
+time: 155.04 - "bd_ada.flac"
+time: 155.08 - "drum_cymbal_closed.flac", {amp: 0.5}
+time: 155.16 - "drum_cymbal_closed.flac"
+time: 155.2 - "drum_snare_hard.flac"
+time: 155.32 - "drum_cymbal_closed.flac"
+time: 155.64 - "drum_cymbal_closed.flac"
+time: 155.68 - "bd_tek.flac"
+time: 155.8 - "drum_cymbal_closed.flac"
+time: 155.84 - "drum_snare_hard.flac"
+time: 155.96 - "drum_cymbal_closed.flac"
+time: 156.08 - "drum_snare_hard.flac"
+time: 156.12 - "drum_cymbal_closed.flac"
+time: 156.16 - "bd_tek.flac"
+time: 156.28 - "drum_cymbal_closed.flac"
+time: 156.32 - "bd_ada.flac"
+time: 156.44 - "drum_cymbal_closed.flac"
+time: 156.48 - "drum_snare_hard.flac"
+time: 156.52 - "drum_cymbal_closed.flac", {amp: 0.5}
+time: 156.6 - "drum_cymbal_closed.flac"
+time: 156.84 - "drum_cymbal_closed.flac", {amp: 0.5}
+time: 156.92 - "drum_cymbal_closed.flac"
+time: 156.96 - "bd_tek.flac"
+time: 157.08 - "drum_cymbal_closed.flac"
+time: 157.12 - "drum_snare_hard.flac"
+time: 157.24 - "drum_cymbal_closed.flac"
+time: 157.32 - "drum_cymbal_closed.flac", {amp: 0.5}
+time: 157.4 - "drum_cymbal_closed.flac"
+time: 157.44 - "bd_tek.flac"
+time: 157.56 - "drum_cymbal_closed.flac"
+time: 157.6 - "bd_ada.flac"
+time: 157.76 - "drum_snare_hard.flac"
+time: 157.8 - "drum_cymbal_soft.flac", {amp: 0.5}
+time: 157.88 - "drum_cymbal_closed.flac"
+time: 157.92 - "elec_hi_snare.flac"
+time: 158.08 - "elec_fuzz_tom.flac"
+time: 158.12 - "drum_cymbal_closed.flac", {amp: 0.5}
+time: 158.2 - "drum_cymbal_closed.flac"
+time: 158.24 - "bd_tek.flac"
+time: 158.28 - "drum_cymbal_soft.flac", {amp: 0.5}
+time: 158.36 - "drum_cymbal_soft.flac"
+time: 158.4 - "drum_snare_hard.flac"
+time: 158.48 - "drum_tom_mid_soft.flac", {amp: 0.7}
+time: 158.52 - "drum_cymbal_closed.flac"
+time: 158.56 - "drum_snare_hard.flac"
+time: 158.6 - "drum_cymbal_closed.flac", {amp: 0.5}
+time: 158.68 - "drum_cymbal_closed.flac"
+time: 158.72 - "bd_tek.flac"
+time: 158.84 - "drum_cymbal_closed.flac"
+time: 158.88 - "bd_sone.flac"
+time: 159.0 - "drum_cymbal_closed.flac"
+time: 159.04 - "drum_snare_hard.flac"
+time: 159.16 - "drum_cymbal_closed.flac"
+time: 159.2 - "drum_snare_hard.flac"
+time: 159.24 - "drum_cymbal_closed.flac", {amp: 0.5}
+time: 159.4 - "drum_cymbal_closed.flac", {amp: 0.5}
+time: 159.48 - "drum_cymbal_closed.flac"
+time: 159.52 - "bd_tek.flac"
+time: 159.56 - "drum_cymbal_soft.flac", {amp: 0.5}
+time: 159.64 - "drum_cymbal_closed.flac"
+time: 159.68 - "drum_snare_hard.flac"
+time: 159.8 - "drum_cymbal_closed.flac"
+time: 159.84 - "drum_snare_hard.flac"
+time: 159.88 - "drum_cymbal_closed.flac", {amp: 0.5}
+time: 159.96 - "drum_cymbal_closed.flac"
+time: 160.0 - "bd_tek.flac"
+time: 160.04 - "drum_cymbal_closed.flac", {amp: 0.5}
+time: 160.12 - "drum_cymbal_closed.flac"
+time: 160.16 - "bd_tek.flac"
+time: 160.28 - "drum_cymbal_closed.flac"
+time: 160.32 - "drum_snare_hard.flac"
+time: 160.44 - "drum_cymbal_soft.flac"
+time: 160.52 - "drum_cymbal_closed.flac", {amp: 0.5}
+time: 160.68 - "drum_cymbal_closed.flac", {amp: 0.5}
+time: 160.76 - "drum_cymbal_closed.flac"
+time: 160.8 - "bd_tek.flac"
+time: 160.92 - "drum_cymbal_closed.flac"
+time: 160.96 - "drum_snare_hard.flac"
+time: 161.08 - "drum_cymbal_soft.flac"
+time: 161.12 - "drum_snare_hard.flac"
+time: 161.16 - "drum_cymbal_closed.flac", {amp: 0.5}
+time: 161.24 - "drum_cymbal_closed.flac"
+time: 161.28 - "bd_tek.flac"
+time: 161.32 - "drum_cymbal_closed.flac", {amp: 0.5}
+time: 161.4 - "drum_cymbal_closed.flac"
+time: 161.44 - "bd_tek.flac"
+time: 161.56 - "drum_cymbal_closed.flac"
+time: 161.6 - "drum_snare_hard.flac"
+time: 161.64 - "drum_cymbal_closed.flac", {amp: 0.5}
+time: 161.72 - "drum_cymbal_closed.flac"
+time: 161.76 - "drum_snare_hard.flac"
+time: 161.8 - "drum_cymbal_soft.flac", {amp: 0.5}
+time: 161.84 - "drum_tom_mid_soft.flac", {amp: 0.7}
+time: 162.0 - "drum_snare_hard.flac"
+time: 162.04 - "drum_cymbal_closed.flac"
+time: 162.08 - "bd_tek.flac"
+time: 162.16 - "drum_tom_mid_soft.flac", {amp: 0.7}
+time: 162.2 - "drum_cymbal_closed.flac"
+time: 162.24 - "drum_snare_hard.flac"
+time: 162.36 - "drum_cymbal_closed.flac"
+time: 162.4 - "drum_snare_hard.flac"
+time: 162.52 - "drum_cymbal_closed.flac"
+time: 162.56 - "bd_tek.flac"
+time: 162.64 - "drum_tom_mid_soft.flac", {amp: 0.7}
+time: 162.68 - "drum_cymbal_soft.flac"
+time: 162.72 - "bd_sone.flac"
+time: 162.84 - "drum_cymbal_closed.flac"
+time: 162.88 - "drum_snare_hard.flac"
+time: 162.96 - "drum_tom_lo_soft.flac", {amp: 0.7}
+time: 163.0 - "drum_cymbal_closed.flac"
+time: 163.04 - "sn_generic.flac"
+time: 163.12 - "drum_tom_hi_soft.flac", {amp: 0.7}
+time: 163.28 - "sn_generic.flac"
+time: 163.32 - "drum_cymbal_closed.flac"
+time: 163.36 - "bd_tek.flac"
+time: 163.48 - "drum_cymbal_closed.flac"
+time: 163.52 - "drum_snare_hard.flac"
+time: 163.56 - "drum_cymbal_closed.flac", {amp: 0.5}
+time: 163.72 - "drum_cymbal_closed.flac", {amp: 0.5}
+time: 163.76 - "elec_hi_snare.flac"
+time: 163.8 - "drum_cymbal_open.flac"
+time: 163.84 - "bd_tek.flac"
+time: 163.88 - "drum_cymbal_soft.flac", {amp: 0.5}
+time: 163.96 - "drum_cymbal_closed.flac"
+time: 164.0 - "bd_zum.flac"
+time: 164.12 - "drum_cymbal_closed.flac"
+time: 164.16 - "drum_snare_hard.flac"
+time: 164.28 - "drum_cymbal_closed.flac"
+time: 164.36 - "drum_cymbal_closed.flac", {amp: 0.5}
+time: 164.4 - "drum_tom_lo_soft.flac", {amp: 0.7}
+time: 164.52 - "drum_cymbal_closed.flac", {amp: 0.5}
+time: 164.56 - "drum_snare_hard.flac"
+time: 164.6 - "drum_cymbal_soft.flac"
+time: 164.64 - "bd_tek.flac"
+time: 164.68 - "drum_cymbal_soft.flac", {amp: 0.5}
+time: 164.76 - "drum_cymbal_soft.flac"
+time: 164.8 - "drum_snare_hard.flac"
+time: 164.84 - "drum_cymbal_soft.flac", {amp: 0.5}
+time: 164.92 - "drum_cymbal_closed.flac"
+time: 164.96 - "drum_snare_hard.flac"
+time: 165.0 - "drum_cymbal_soft.flac", {amp: 0.5}
+time: 165.08 - "drum_cymbal_closed.flac"
+time: 165.12 - "bd_tek.flac"
+time: 165.16 - "drum_cymbal_soft.flac", {amp: 0.5}
+time: 165.24 - "drum_cymbal_closed.flac"
+time: 165.28 - "bd_sone.flac"
+time: 165.32 - "drum_cymbal_soft.flac", {amp: 0.5}
+time: 165.4 - "drum_cymbal_closed.flac"
+time: 165.44 - "drum_snare_hard.flac"
+time: 165.56 - "drum_cymbal_closed.flac"
+time: 165.6 - "elec_hi_snare.flac"
+time: 165.76 - "drum_tom_lo_soft.flac", {amp: 0.7}
+time: 165.84 - "elec_hi_snare.flac"
+time: 165.88 - "drum_cymbal_closed.flac"
+time: 165.92 - "bd_tek.flac"
+time: 165.96 - "drum_cymbal_soft.flac", {amp: 0.5}
+time: 166.04 - "drum_cymbal_closed.flac"
+time: 166.08 - "drum_snare_hard.flac"
+time: 166.12 - "drum_cymbal_closed.flac", {amp: 0.5}
+time: 166.2 - "drum_cymbal_soft.flac"
+time: 166.24 - "drum_snare_hard.flac"
+time: 166.32 - "drum_snare_hard.flac"
+time: 166.36 - "drum_cymbal_closed.flac"
+time: 166.4 - "bd_tek.flac"
+time: 166.44 - "drum_cymbal_soft.flac", {amp: 0.5}
+time: 166.56 - "bd_ada.flac"
+time: 166.68 - "drum_cymbal_soft.flac"
+time: 166.72 - "drum_snare_hard.flac"
+time: 166.84 - "drum_cymbal_closed.flac"
+time: 166.88 - "drum_snare_hard.flac"
+time: 167.16 - "drum_cymbal_closed.flac"
+time: 167.2 - "bd_tek.flac"
+time: 167.24 - "drum_cymbal_closed.flac", {amp: 0.5}
+time: 167.28 - "drum_tom_lo_soft.flac", {amp: 0.7}
+time: 167.32 - "drum_cymbal_closed.flac"
+time: 167.36 - "drum_snare_hard.flac"
+time: 167.4 - "drum_cymbal_soft.flac", {amp: 0.5}
+time: 167.48 - "drum_cymbal_closed.flac"
+time: 167.52 - "drum_snare_hard.flac"
+time: 167.64 - "drum_cymbal_soft.flac"
+time: 167.68 - "bd_tek.flac"
+time: 167.76 - "drum_tom_lo_soft.flac", {amp: 0.7}
+time: 167.8 - "drum_cymbal_closed.flac"
+time: 167.84 - "bd_fat.flac"
+time: 167.88 - "drum_cymbal_closed.flac", {amp: 0.5}
+time: 167.96 - "drum_cymbal_closed.flac"
+time: 168.0 - "drum_snare_hard.flac"
+time: 168.12 - "drum_cymbal_closed.flac"
+time: 168.2 - "drum_cymbal_pedal.flac", {amp: 0.5}
+time: 168.24 - "elec_fuzz_tom.flac"
+time: 168.32 - "drum_tom_lo_soft.flac", {amp: 0.7}
+time: 168.44 - "drum_cymbal_pedal.flac"
+time: 168.48 - "bd_tek.flac"
+time: 168.6 - "drum_cymbal_closed.flac"
+time: 168.64 - "drum_snare_hard.flac"
+time: 168.76 - "drum_cymbal_pedal.flac"
+time: 168.8 - "drum_snare_hard.flac"
+time: 168.84 - "drum_cymbal_pedal.flac", {amp: 0.5}
+time: 168.88 - "sn_generic.flac"
+time: 168.92 - "drum_splash_soft.flac"
+time: 168.96 - "bd_tek.flac"
+time: 169.04 - "drum_tom_hi_soft.flac", {amp: 0.7}
+time: 169.08 - "drum_cymbal_closed.flac"
+time: 169.28 - "drum_snare_hard.flac"
+time: 169.36 - "drum_tom_lo_soft.flac", {amp: 0.7}
+time: 169.4 - "drum_cymbal_closed.flac"
+time: 169.76 - "bd_tek.flac"
+time: 169.8 - "drum_cymbal_soft.flac", {amp: 0.5}
+time: 169.88 - "drum_cymbal_closed.flac"
+time: 169.92 - "drum_snare_hard.flac"
+time: 169.96 - "drum_cymbal_soft.flac", {amp: 0.5}
+time: 170.0 - "drum_tom_mid_soft.flac", {amp: 0.7}
+time: 170.04 - "drum_cymbal_closed.flac"
+time: 170.08 - "drum_snare_hard.flac"
+time: 170.12 - "drum_cymbal_closed.flac", {amp: 0.5}
+time: 170.2 - "drum_splash_soft.flac"
+time: 170.24 - "bd_tek.flac"
+time: 170.28 - "drum_cymbal_closed.flac", {amp: 0.5}
+time: 170.32 - "drum_tom_mid_soft.flac", {amp: 0.7}
+time: 170.36 - "drum_cymbal_closed.flac"
+time: 170.4 - "bd_ada.flac"
+time: 170.44 - "drum_cymbal_closed.flac", {amp: 0.5}
+time: 170.56 - "drum_snare_hard.flac"
+time: 170.6 - "drum_cymbal_soft.flac", {amp: 0.5}
+time: 170.68 - "drum_cymbal_closed.flac"
+time: 170.76 - "drum_cymbal_soft.flac", {amp: 0.5}
+time: 170.8 - "drum_tom_lo_soft.flac", {amp: 0.7}
+time: 170.92 - "drum_cymbal_closed.flac", {amp: 0.5}
+time: 170.96 - "drum_snare_hard.flac"
+time: 171.0 - "drum_cymbal_closed.flac"
+time: 171.04 - "bd_tek.flac"
+time: 171.08 - "drum_cymbal_soft.flac", {amp: 0.5}
+time: 171.2 - "drum_snare_hard.flac"
+time: 171.32 - "drum_cymbal_closed.flac"
+time: 171.36 - "drum_snare_hard.flac"
+time: 171.44 - "drum_snare_hard.flac"
+time: 171.48 - "drum_cymbal_soft.flac"
+time: 171.52 - "bd_tek.flac"
+time: 171.64 - "drum_cymbal_closed.flac"
+time: 171.68 - "bd_klub.flac"
+time: 171.8 - "drum_cymbal_closed.flac"
+time: 171.84 - "drum_snare_hard.flac"
+time: 171.96 - "drum_cymbal_closed.flac"
+time: 172.0 - "sn_generic.flac"
+time: 172.04 - "drum_cymbal_soft.flac", {amp: 0.5}
+time: 172.08 - "drum_tom_hi_soft.flac", {amp: 0.7}
+time: 172.16 - "drum_tom_mid_soft.flac", {amp: 0.7}
+time: 172.2 - "drum_cymbal_soft.flac", {amp: 0.5}
+time: 172.24 - "sn_generic.flac"
+time: 172.32 - "bd_tek.flac"
+time: 172.36 - "drum_cymbal_closed.flac", {amp: 0.5}
+time: 172.4 - "drum_tom_lo_soft.flac", {amp: 0.7}
+time: 172.44 - "drum_cymbal_soft.flac"
+time: 172.48 - "drum_snare_hard.flac"
+time: 172.56 - "drum_tom_hi_soft.flac", {amp: 0.7}
+time: 172.6 - "drum_cymbal_closed.flac"
+time: 172.64 - "drum_snare_hard.flac"
+time: 172.76 - "drum_cymbal_soft.flac"
+time: 172.8 - "bd_tek.flac"
+time: 172.88 - "drum_tom_lo_soft.flac", {amp: 0.7}
+time: 172.92 - "drum_cymbal_pedal.flac"
+time: 173.0 - "drum_cymbal_soft.flac", {amp: 0.5}
+time: 173.04 - "drum_tom_mid_soft.flac", {amp: 0.7}
+time: 173.08 - "drum_cymbal_soft.flac"
+time: 173.12 - "drum_snare_hard.flac"
+time: 173.16 - "drum_cymbal_closed.flac", {amp: 0.5}
+time: 173.24 - "drum_cymbal_pedal.flac"
+time: 173.36 - "drum_tom_hi_soft.flac", {amp: 0.7}
+time: 173.44 - "elec_tick.flac"
+time: 173.48 - "drum_cymbal_soft.flac", {amp: 0.5}
+time: 173.52 - "drum_snare_soft.flac"
+time: 173.56 - "drum_cymbal_closed.flac"
+time: 173.6 - "bd_tek.flac"
+time: 173.68 - "perc_swash.flac"
+time: 173.72 - "drum_cymbal_pedal.flac"
+time: 173.76 - "drum_snare_hard.flac"
+time: 173.8 - "drum_cymbal_soft.flac", {amp: 0.5}
+time: 173.84 - "drum_tom_hi_soft.flac", {amp: 0.7}
+time: 173.88 - "drum_cymbal_closed.flac"
+time: 173.92 - "drum_snare_hard.flac"
+time: 173.96 - "drum_cymbal_pedal.flac", {amp: 0.5}
+time: 174.04 - "drum_cymbal_pedal.flac"
+time: 174.08 - "bd_tek.flac"
+time: 174.12 - "drum_cymbal_closed.flac", {amp: 0.5}
+time: 174.2 - "drum_cymbal_closed.flac"
+time: 174.24 - "bd_zum.flac"
+time: 174.36 - "drum_cymbal_soft.flac"
+time: 174.4 - "drum_snare_hard.flac"
+time: 174.48 - "drum_tom_mid_soft.flac", {amp: 0.7}
+time: 174.52 - "drum_cymbal_soft.flac"
+time: 174.64 - "drum_tom_mid_soft.flac", {amp: 0.7}
+time: 174.8 - "sn_generic.flac"
+time: 174.84 - "drum_cymbal_closed.flac"
+time: 174.88 - "bd_tek.flac"
+time: 174.96 - "drum_tom_mid_soft.flac", {amp: 0.7}
+time: 175.0 - "drum_cymbal_soft.flac"
+time: 175.04 - "drum_snare_hard.flac"
+time: 175.2 - "drum_snare_hard.flac"
+time: 175.24 - "drum_cymbal_closed.flac", {amp: 0.5}
+time: 175.28 - "drum_snare_hard.flac"
+time: 175.32 - "drum_cymbal_soft.flac"
+time: 175.36 - "bd_tek.flac"
+time: 175.4 - "drum_cymbal_closed.flac", {amp: 0.5}
+time: 175.44 - "drum_tom_lo_soft.flac", {amp: 0.7}
+time: 175.48 - "drum_cymbal_closed.flac"
+time: 175.52 - "bd_sone.flac"
+time: 175.56 - "drum_cymbal_soft.flac", {amp: 0.5}
+time: 175.64 - "drum_cymbal_closed.flac"
+time: 175.68 - "drum_snare_hard.flac"
+time: 175.8 - "drum_cymbal_closed.flac"
+time: 175.92 - "drum_tom_lo_soft.flac", {amp: 0.7}
+time: 176.0 - "elec_fuzz_tom.flac"
+time: 176.12 - "drum_cymbal_closed.flac"
+time: 176.16 - "bd_tek.flac"
+time: 176.2 - "drum_cymbal_soft.flac", {amp: 0.5}
+time: 176.28 - "drum_cymbal_closed.flac"
+time: 176.32 - "drum_snare_hard.flac"
+time: 176.44 - "drum_cymbal_closed.flac"
+time: 176.48 - "drum_snare_hard.flac"
+time: 176.52 - "drum_cymbal_closed.flac", {amp: 0.5}
+time: 176.6 - "drum_cymbal_closed.flac"
+time: 176.64 - "bd_tek.flac"
+time: 176.72 - "drum_tom_hi_soft.flac", {amp: 0.7}
+time: 176.8 - "bd_boom.flac"
+time: 176.84 - "drum_cymbal_closed.flac", {amp: 0.5}
+time: 176.96 - "drum_snare_hard.flac"
+time: 177.12 - "sn_zome.flac"
+time: 177.2 - "elec_fuzz_tom.flac"
+time: 177.32 - "drum_cymbal_soft.flac", {amp: 0.5}
+time: 177.4 - "drum_cymbal_closed.flac"
+time: 177.44 - "bd_tek.flac"
+time: 177.52 - "drum_tom_lo_soft.flac", {amp: 0.7}
+time: 177.56 - "drum_cymbal_closed.flac"
+time: 177.6 - "drum_snare_hard.flac"
+time: 177.72 - "drum_cymbal_soft.flac"
+time: 177.76 - "drum_snare_hard.flac"
+time: 177.84 - "elec_hi_snare.flac"
+time: 177.88 - "drum_cymbal_open.flac"
+time: 177.92 - "bd_tek.flac"
+time: 177.96 - "drum_cymbal_closed.flac", {amp: 0.5}
+time: 178.04 - "drum_cymbal_closed.flac"
+time: 178.08 - "bd_klub.flac"
+time: 178.12 - "drum_cymbal_pedal.flac", {amp: 0.5}
+time: 178.16 - "drum_tom_hi_soft.flac", {amp: 0.7}
+time: 178.2 - "drum_cymbal_soft.flac"
+time: 178.24 - "drum_snare_hard.flac"
+time: 178.28 - "drum_cymbal_closed.flac", {amp: 0.5}
+time: 178.36 - "drum_cymbal_pedal.flac"
+time: 178.4 - "sn_generic.flac"
+time: 178.44 - "drum_cymbal_soft.flac", {amp: 0.5}
+time: 178.48 - "elec_tick.flac"
+time: 178.56 - "elec_tick.flac"
+time: 178.6 - "drum_cymbal_pedal.flac", {amp: 0.5}
+time: 178.64 - "drum_snare_hard.flac"
+time: 178.68 - "drum_cymbal_closed.flac"
+time: 178.72 - "bd_tek.flac"
+time: 178.76 - "drum_cymbal_pedal.flac", {amp: 0.5}
+time: 178.8 - "drum_tom_hi_soft.flac", {amp: 0.7}
+time: 178.84 - "drum_cymbal_closed.flac"
+time: 178.88 - "drum_snare_hard.flac"
+time: 178.92 - "drum_cymbal_pedal.flac", {amp: 0.5}
+time: 179.0 - "drum_cymbal_pedal.flac"
+time: 179.04 - "drum_snare_hard.flac"
+time: 179.08 - "drum_cymbal_pedal.flac", {amp: 0.5}
+time: 179.12 - "drum_snare_hard.flac"
+time: 179.16 - "drum_cymbal_soft.flac"
+time: 179.2 - "bd_tek.flac"
+time: 179.24 - "drum_cymbal_closed.flac", {amp: 0.5}
+time: 179.32 - "drum_cymbal_pedal.flac"
+time: 179.36 - "bd_boom.flac"
+time: 179.48 - "drum_cymbal_pedal.flac"
+time: 179.52 - "drum_snare_hard.flac"
+time: 179.56 - "drum_cymbal_soft.flac", {amp: 0.5}
+time: 179.6 - "elec_fuzz_tom.flac"
+time: 179.88 - "drum_cymbal_closed.flac", {amp: 0.5}
+time: 179.92 - "drum_snare_hard.flac"
+time: 179.96 - "drum_cymbal_soft.flac"
+time: 180.0 - "bd_tek.flac"
+time: 180.12 - "drum_cymbal_closed.flac"
+time: 180.16 - "drum_snare_hard.flac"
+time: 180.28 - "drum_cymbal_closed.flac"
+time: 180.32 - "drum_snare_hard.flac"
+time: 180.4 - "elec_hi_snare.flac"
+time: 180.44 - "drum_cymbal_pedal.flac"
+time: 180.48 - "bd_tek.flac"
+time: 180.56 - "elec_tick.flac"
+time: 180.6 - "drum_cymbal_pedal.flac"
+time: 180.64 - "bd_boom.flac"
+time: 180.68 - "drum_cymbal_closed.flac", {amp: 0.5}
+time: 180.76 - "drum_cymbal_pedal.flac"
+time: 180.8 - "drum_snare_hard.flac"
+time: 181.04 - "elec_tick.flac"
+time: 181.12 - "drum_tom_hi_soft.flac", {amp: 0.7}
+time: 181.28 - "bd_tek.flac"
+time: 181.36 - "drum_tom_hi_soft.flac", {amp: 0.7}
+time: 181.4 - "drum_cymbal_pedal.flac"
+time: 181.44 - "drum_snare_hard.flac"
+time: 181.48 - "drum_cymbal_closed.flac", {amp: 0.5}
+time: 181.52 - "drum_tom_hi_soft.flac", {amp: 0.7}
+time: 181.56 - "drum_cymbal_closed.flac"
+time: 181.64 - "drum_cymbal_soft.flac", {amp: 0.5}
+time: 181.68 - "elec_hi_snare.flac"
+time: 181.72 - "drum_cymbal_closed.flac"
+time: 181.76 - "bd_tek.flac"
+time: 181.92 - "bd_boom.flac"
+time: 182.04 - "drum_cymbal_closed.flac"
+time: 182.08 - "drum_snare_hard.flac"
+time: 182.16 - "drum_tom_hi_soft.flac", {amp: 0.7}
+time: 182.2 - "drum_cymbal_closed.flac"
+time: 182.24 - "elec_hi_snare.flac"
+time: 182.28 - "drum_cymbal_soft.flac", {amp: 0.5}
+time: 182.44 - "drum_cymbal_pedal.flac", {amp: 0.5}
+time: 182.56 - "bd_tek.flac"
+time: 182.64 - "elec_fuzz_tom.flac"
+time: 182.68 - "drum_cymbal_closed.flac"
+time: 182.72 - "drum_snare_hard.flac"
+time: 182.8 - "elec_tick.flac"
+time: 182.84 - "drum_cymbal_closed.flac"
+time: 182.88 - "drum_snare_hard.flac"
+time: 182.96 - "elec_hi_snare.flac"
+time: 183.0 - "drum_cymbal_closed.flac"
+time: 183.04 - "bd_tek.flac"
+time: 183.12 - "perc_swash.flac"
+time: 183.16 - "drum_cymbal_soft.flac"
+time: 183.2 - "bd_fat.flac"
+time: 183.24 - "drum_cymbal_pedal.flac", {amp: 0.5}
+time: 183.28 - "perc_swash.flac"
+time: 183.32 - "drum_cymbal_closed.flac"
+time: 183.36 - "drum_snare_hard.flac"
+time: 183.4 - "drum_cymbal_soft.flac", {amp: 0.5}
+time: 183.44 - "perc_swash.flac"
+time: 183.48 - "drum_cymbal_soft.flac"
+time: 183.52 - "sn_generic.flac"
+time: 183.56 - "drum_cymbal_pedal.flac", {amp: 0.5}
+time: 183.6 - "perc_swash.flac"
+time: 183.72 - "drum_cymbal_pedal.flac", {amp: 0.5}
+time: 183.84 - "bd_tek.flac"
+time: 183.88 - "drum_cymbal_closed.flac", {amp: 0.5}
+time: 183.92 - "elec_tick.flac"
+time: 184.0 - "drum_snare_hard.flac"
+time: 184.12 - "drum_cymbal_closed.flac"
+time: 184.16 - "drum_snare_hard.flac"
+time: 184.2 - "drum_cymbal_soft.flac", {amp: 0.5}
+time: 184.24 - "drum_snare_soft.flac"
+time: 184.28 - "drum_cymbal_closed.flac"
+time: 184.32 - "bd_tek.flac"
+time: 184.36 - "drum_cymbal_soft.flac", {amp: 0.5}
+time: 184.4 - "elec_fuzz_tom.flac"
+time: 184.44 - "drum_cymbal_soft.flac"
+time: 184.48 - "bd_boom.flac"
+time: 184.56 - "elec_fuzz_tom.flac"
+time: 184.6 - "drum_cymbal_soft.flac"
+time: 184.64 - "drum_snare_hard.flac"
+time: 184.72 - "drum_tom_hi_soft.flac", {amp: 0.7}
+time: 184.76 - "drum_cymbal_closed.flac"
+time: 184.88 - "perc_swash.flac"
+time: 185.08 - "drum_cymbal_soft.flac"
+time: 185.12 - "bd_tek.flac"
+time: 185.16 - "drum_cymbal_pedal.flac", {amp: 0.5}
+time: 185.24 - "drum_cymbal_pedal.flac"
+time: 185.28 - "drum_snare_hard.flac"
+time: 185.4 - "drum_cymbal_soft.flac"
+time: 185.44 - "drum_snare_hard.flac"
+time: 185.48 - "drum_cymbal_pedal.flac", {amp: 0.5}
+time: 185.52 - "sn_zome.flac"
+time: 185.56 - "drum_cymbal_soft.flac"
+time: 185.6 - "bd_tek.flac"
+time: 185.64 - "drum_cymbal_soft.flac", {amp: 0.5}
+time: 185.68 - "drum_tom_lo_soft.flac", {amp: 0.7}
+time: 185.72 - "drum_cymbal_closed.flac"
+time: 185.76 - "bd_sone.flac"
+time: 185.84 - "drum_tom_hi_soft.flac", {amp: 0.7}
+time: 185.92 - "drum_snare_hard.flac"
+time: 185.96 - "drum_cymbal_closed.flac", {amp: 0.5}
+time: 186.0 - "drum_tom_mid_soft.flac", {amp: 0.7}
+time: 186.04 - "drum_cymbal_pedal.flac"
+time: 186.12 - "drum_cymbal_soft.flac", {amp: 0.5}
+time: 186.16 - "elec_tick.flac"
+time: 186.32 - "sn_generic.flac"
+time: 186.36 - "drum_cymbal_closed.flac"
+time: 186.4 - "bd_tek.flac"
+time: 186.44 - "drum_cymbal_closed.flac", {amp: 0.5}
+time: 186.52 - "drum_cymbal_closed.flac"
+time: 186.56 - "drum_snare_hard.flac"
+time: 186.64 - "drum_tom_mid_soft.flac", {amp: 0.7}
+time: 186.72 - "drum_snare_hard.flac"
+time: 186.84 - "drum_cymbal_pedal.flac"
+time: 186.88 - "bd_tek.flac"
+time: 186.96 - "drum_tom_hi_soft.flac", {amp: 0.7}
+time: 187.0 - "drum_cymbal_closed.flac"
+time: 187.04 - "bd_tek.flac"
+time: 187.12 - "perc_swash.flac"
+time: 187.16 - "drum_cymbal_pedal.flac"
+time: 187.2 - "drum_snare_hard.flac"
+time: 187.24 - "drum_cymbal_soft.flac", {amp: 0.5}
+time: 187.4 - "drum_cymbal_pedal.flac", {amp: 0.5}
+time: 187.52 - "drum_tom_mid_soft.flac", {amp: 0.7}
+time: 187.56 - "drum_cymbal_pedal.flac", {amp: 0.5}
+time: 187.64 - "drum_cymbal_closed.flac"
+time: 187.68 - "bd_tek.flac"
+time: 187.76 - "elec_fuzz_tom.flac"
+time: 187.84 - "drum_snare_hard.flac"
+time: 187.88 - "drum_cymbal_pedal.flac", {amp: 0.5}
+time: 188.0 - "drum_snare_hard.flac"
+time: 188.04 - "drum_cymbal_soft.flac", {amp: 0.5}
+time: 188.08 - "sn_zome.flac"
+time: 188.12 - "drum_cymbal_closed.flac"
+time: 188.16 - "bd_tek.flac"
+time: 188.24 - "perc_swash.flac"
+time: 188.28 - "drum_cymbal_closed.flac"
+time: 188.32 - "bd_zum.flac"
+time: 188.36 - "drum_cymbal_pedal.flac", {amp: 0.5}
+time: 188.44 - "drum_cymbal_pedal.flac"
+time: 188.48 - "drum_snare_hard.flac"
+time: 188.52 - "drum_cymbal_pedal.flac", {amp: 0.5}
+time: 188.6 - "drum_cymbal_pedal.flac"
+time: 188.64 - "sn_zome.flac"
+time: 188.68 - "drum_cymbal_pedal.flac", {amp: 0.5}
+time: 188.72 - "elec_fuzz_tom.flac"
+time: 188.8 - "perc_swash.flac"
+time: 188.84 - "drum_cymbal_soft.flac", {amp: 0.5}
+time: 188.88 - "drum_snare_soft.flac"
+time: 188.92 - "drum_cymbal_closed.flac"
+time: 188.96 - "bd_tek.flac"
+time: 189.0 - "drum_cymbal_pedal.flac", {amp: 0.5}
+time: 189.04 - "elec_fuzz_tom.flac"
+time: 189.08 - "drum_cymbal_pedal.flac"
+time: 189.12 - "drum_snare_hard.flac"
+time: 189.24 - "drum_cymbal_pedal.flac"
+time: 189.28 - "drum_snare_hard.flac"
+time: 189.32 - "drum_cymbal_soft.flac", {amp: 0.5}
+time: 189.4 - "drum_cymbal_pedal.flac"
+time: 189.44 - "tanh Effect"
+time: 189.44 - "bd_tek.flac"
+time: 189.48 - "drum_cymbal_soft.flac", {amp: 0.5}
+time: 189.56 - "drum_cymbal_closed.flac"
+time: 189.6 - "bd_klub.flac"
+time: 189.64 - "drum_cymbal_closed.flac", {amp: 0.5}
+time: 189.72 - "drum_cymbal_soft.flac"
+time: 189.76 - "drum_snare_hard.flac"
+time: 189.84 - "drum_tom_mid_soft.flac", {amp: 0.7}
+time: 189.88 - "drum_cymbal_closed.flac"
+time: 190.0 - "drum_tom_lo_soft.flac", {amp: 0.7}
+time: 190.08 - "drum_tom_lo_soft.flac", {amp: 0.7}
+time: 190.12 - "drum_cymbal_closed.flac", {amp: 0.5}
+time: 190.16 - "sn_zome.flac"
+time: 190.2 - "drum_cymbal_closed.flac"
+time: 190.24 - "bd_tek.flac"
+time: 190.36 - "drum_cymbal_closed.flac"
+time: 190.4 - "drum_snare_hard.flac"
+time: 190.52 - "drum_cymbal_closed.flac"
+time: 190.56 - "drum_snare_hard.flac"
+time: 190.6 - "drum_cymbal_closed.flac", {amp: 0.5}
+time: 190.68 - "drum_cymbal_soft.flac"
+time: 190.72 - "bd_tek.flac"
+time: 190.8 - "elec_fuzz_tom.flac"
+time: 190.84 - "drum_cymbal_closed.flac"
+time: 190.88 - "bd_zum.flac"
+time: 190.92 - "drum_cymbal_pedal.flac", {amp: 0.5}
+time: 191.04 - "drum_snare_hard.flac"
+time: 191.16 - "drum_cymbal_closed.flac"
+time: 191.36 - "drum_tom_mid_soft.flac", {amp: 0.7}
+time: 191.4 - "drum_cymbal_closed.flac", {amp: 0.5}
+time: 191.44 - "drum_snare_hard.flac"
+time: 191.52 - "bd_tek.flac"
+time: 191.64 - "drum_cymbal_soft.flac"
+time: 191.68 - "drum_snare_hard.flac"
+time: 191.72 - "drum_cymbal_soft.flac", {amp: 0.5}
+time: 191.8 - "drum_cymbal_pedal.flac"
+time: 191.84 - "drum_snare_hard.flac"
+time: 191.92 - "sn_generic.flac"
+time: 191.96 - "drum_cymbal_soft.flac"
+time: 192.0 - "bd_tek.flac"
+time: 192.04 - "drum_cymbal_soft.flac", {amp: 0.5}
+time: 192.16 - "bd_ada.flac"
+time: 192.2 - "drum_cymbal_pedal.flac", {amp: 0.5}
+time: 192.24 - "drum_tom_hi_soft.flac", {amp: 0.7}
+time: 192.28 - "drum_cymbal_pedal.flac"
+time: 192.32 - "drum_snare_hard.flac"
+time: 192.4 - "drum_tom_lo_soft.flac", {amp: 0.7}
+time: 192.44 - "drum_cymbal_closed.flac"
+time: 192.68 - "drum_cymbal_soft.flac", {amp: 0.5}
+time: 192.76 - "drum_cymbal_closed.flac"
+time: 192.8 - "bd_tek.flac"
+time: 192.88 - "elec_fuzz_tom.flac"
+time: 192.92 - "drum_cymbal_closed.flac"
+time: 192.96 - "drum_snare_hard.flac"
+time: 193.0 - "drum_cymbal_pedal.flac", {amp: 0.5}
+time: 193.04 - "elec_tick.flac"
+time: 193.08 - "drum_cymbal_soft.flac"
+time: 193.12 - "drum_snare_hard.flac"
+time: 193.16 - "drum_cymbal_soft.flac", {amp: 0.5}
+time: 193.2 - "drum_snare_hard.flac"
+time: 193.24 - "drum_cymbal_soft.flac"
+time: 193.28 - "bd_tek.flac"
+time: 193.32 - "drum_cymbal_closed.flac", {amp: 0.5}
+time: 193.4 - "drum_cymbal_pedal.flac"
+time: 193.44 - "bd_fat.flac"
+time: 193.52 - "perc_swash.flac"
+time: 193.56 - "drum_cymbal_closed.flac"
+time: 193.6 - "drum_snare_hard.flac"
+time: 193.72 - "drum_cymbal_pedal.flac"
+time: 194.0 - "drum_snare_soft.flac"
+time: 194.04 - "drum_cymbal_pedal.flac"
+time: 194.08 - "bd_tek.flac"
+time: 194.16 - "elec_tick.flac"
+time: 194.2 - "drum_cymbal_pedal.flac"
+time: 194.24 - "drum_snare_hard.flac"
+time: 194.36 - "drum_cymbal_closed.flac"
+time: 194.4 - "drum_snare_hard.flac"
+time: 194.48 - "drum_snare_soft.flac"
+time: 194.52 - "drum_cymbal_pedal.flac"
+time: 194.56 - "bd_tek.flac"
+time: 194.64 - "elec_fuzz_tom.flac"
+time: 194.68 - "drum_cymbal_closed.flac"
+time: 194.72 - "bd_fat.flac"
+time: 194.76 - "drum_cymbal_pedal.flac", {amp: 0.5}
+time: 194.8 - "drum_tom_hi_soft.flac", {amp: 0.7}
+time: 194.84 - "drum_cymbal_pedal.flac"
+time: 194.88 - "drum_snare_hard.flac"
+time: 194.92 - "drum_cymbal_pedal.flac", {amp: 0.5}
+time: 194.96 - "drum_tom_mid_soft.flac", {amp: 0.7}
+time: 195.0 - "drum_cymbal_soft.flac"
+time: 195.04 - "drum_snare_hard.flac"
+time: 195.2 - "drum_tom_hi_soft.flac", {amp: 0.7}
+time: 195.32 - "drum_cymbal_closed.flac"
+time: 195.36 - "bd_tek.flac"
+time: 195.48 - "drum_cymbal_closed.flac"
+time: 195.52 - "drum_snare_hard.flac"
+time: 195.64 - "drum_cymbal_closed.flac"
+time: 195.68 - "drum_snare_hard.flac"
+time: 195.72 - "drum_cymbal_closed.flac", {amp: 0.5}
+time: 195.76 - "sn_generic.flac"
+time: 195.8 - "drum_cymbal_pedal.flac"
+time: 195.84 - "bd_tek.flac"
+time: 195.88 - "drum_cymbal_soft.flac", {amp: 0.5}
+time: 195.92 - "drum_tom_lo_soft.flac", {amp: 0.7}
+time: 195.96 - "drum_cymbal_soft.flac"
+time: 196.0 - "bd_zum.flac"
+time: 196.04 - "drum_cymbal_pedal.flac", {amp: 0.5}
+time: 196.12 - "drum_cymbal_pedal.flac"
+time: 196.16 - "drum_snare_hard.flac"
+time: 196.28 - "drum_cymbal_soft.flac"
+time: 196.36 - "drum_cymbal_pedal.flac", {amp: 0.5}
+time: 196.48 - "elec_fuzz_tom.flac"
+time: 196.64 - "bd_tek.flac"
+time: 196.68 - "drum_cymbal_closed.flac", {amp: 0.5}
+time: 196.72 - "perc_swash.flac"
+time: 196.76 - "drum_cymbal_closed.flac"
+time: 196.8 - "drum_snare_hard.flac"
+time: 196.92 - "drum_cymbal_soft.flac"
+time: 196.96 - "drum_snare_hard.flac"
+time: 197.04 - "drum_snare_soft.flac"
+time: 197.08 - "drum_cymbal_closed.flac"
+time: 197.12 - "bd_tek.flac"
+time: 197.16 - "drum_cymbal_pedal.flac", {amp: 0.5}
+time: 197.2 - "drum_tom_mid_soft.flac", {amp: 0.7}
+time: 197.24 - "drum_cymbal_pedal.flac"
+time: 197.4 - "drum_cymbal_closed.flac"
+time: 197.44 - "drum_snare_hard.flac"
+time: 197.48 - "drum_cymbal_pedal.flac", {amp: 0.5}
+time: 197.52 - "drum_tom_hi_soft.flac", {amp: 0.7}
+time: 197.56 - "drum_cymbal_closed.flac"
+time: 197.6 - "sn_zome.flac"
+time: 197.64 - "drum_cymbal_soft.flac", {amp: 0.5}
+time: 197.68 - "elec_fuzz_tom.flac"
+time: 197.8 - "drum_cymbal_pedal.flac", {amp: 0.5}
+time: 197.84 - "drum_snare_hard.flac"
+time: 197.88 - "drum_cymbal_pedal.flac"
+time: 197.92 - "bd_tek.flac"
+time: 198.0 - "elec_tick.flac"
+time: 198.08 - "drum_snare_hard.flac"
+time: 198.12 - "drum_cymbal_closed.flac", {amp: 0.5}
+time: 198.2 - "drum_cymbal_soft.flac"
+time: 198.24 - "drum_snare_hard.flac"
+time: 198.32 - "sn_generic.flac"
+time: 198.36 - "drum_cymbal_soft.flac"
+time: 198.4 - "bd_tek.flac"
+time: 198.56 - "bd_ada.flac"
+time: 198.64 - "elec_fuzz_tom.flac"
+time: 198.68 - "drum_cymbal_closed.flac"
+time: 198.72 - "drum_snare_hard.flac"
+time: 198.8 - "perc_swash.flac"
+time: 198.84 - "drum_cymbal_closed.flac"
+time: 198.88 - "drum_snare_hard.flac"
+time: 199.04 - "perc_swash.flac"
+time: 199.12 - "drum_snare_soft.flac"
+time: 199.16 - "drum_cymbal_pedal.flac"
+time: 199.2 - "bd_tek.flac"
+time: 199.24 - "drum_cymbal_pedal.flac", {amp: 0.5}
+time: 199.28 - "drum_tom_hi_soft.flac", {amp: 0.7}
+time: 199.32 - "drum_cymbal_closed.flac"
+time: 199.36 - "drum_snare_hard.flac"
+time: 199.44 - "perc_swash.flac"
+time: 199.48 - "drum_cymbal_soft.flac"
+time: 199.52 - "drum_snare_hard.flac"
+time: 199.56 - "drum_cymbal_closed.flac", {amp: 0.5}
+time: 199.6 - "drum_snare_hard.flac"
+time: 199.64 - "drum_cymbal_closed.flac"
+time: 199.68 - "tanh Effect"
+time: 199.68 - "bd_tek.flac"
+time: 199.8 - "drum_cymbal_soft.flac"
+time: 199.92 - "drum_tom_mid_soft.flac", {amp: 0.7}
+time: 200.0 - "drum_snare_hard.flac"
+time: 200.04 - "drum_cymbal_closed.flac", {amp: 0.5}
+time: 200.12 - "drum_cymbal_closed.flac"
+time: 200.44 - "drum_cymbal_soft.flac"
+time: 200.48 - "bd_tek.flac"
+time: 200.56 - "drum_tom_hi_soft.flac", {amp: 0.7}
+time: 200.6 - "drum_cymbal_closed.flac"
+time: 200.64 - "drum_snare_hard.flac"
+time: 200.72 - "drum_tom_hi_soft.flac", {amp: 0.7}
+time: 200.76 - "drum_cymbal_pedal.flac"
+time: 200.8 - "drum_snare_hard.flac"
+time: 200.88 - "sn_zome.flac"
+time: 200.92 - "drum_cymbal_pedal.flac"
+time: 200.96 - "bd_tek.flac"
+time: 201.0 - "drum_cymbal_soft.flac", {amp: 0.5}
+time: 201.08 - "drum_cymbal_closed.flac"
+time: 201.12 - "bd_klub.flac"
+time: 201.24 - "drum_cymbal_soft.flac"
+time: 201.28 - "drum_snare_hard.flac"
+time: 201.48 - "drum_cymbal_closed.flac", {amp: 0.5}
+time: 201.52 - "elec_fuzz_tom.flac"
+time: 201.64 - "drum_cymbal_pedal.flac", {amp: 0.5}
+time: 201.72 - "drum_cymbal_pedal.flac"
+time: 201.76 - "bd_tek.flac"
+time: 201.8 - "drum_cymbal_soft.flac", {amp: 0.5}
+time: 201.84 - "elec_fuzz_tom.flac"
+time: 201.88 - "drum_cymbal_pedal.flac"
+time: 201.92 - "drum_snare_hard.flac"
+time: 201.96 - "drum_cymbal_pedal.flac", {amp: 0.5}
+time: 202.0 - "drum_tom_lo_soft.flac", {amp: 0.7}
+time: 202.04 - "drum_cymbal_soft.flac"
+time: 202.08 - "drum_snare_hard.flac"
+time: 202.16 - "sn_zome.flac"
+time: 202.2 - "drum_cymbal_pedal.flac"
+time: 202.24 - "bd_tek.flac"
+time: 202.28 - "drum_cymbal_soft.flac", {amp: 0.5}
+time: 202.4 - "bd_boom.flac"
+time: 202.44 - "drum_cymbal_closed.flac", {amp: 0.5}
+time: 202.48 - "drum_tom_mid_soft.flac", {amp: 0.7}
+time: 202.52 - "drum_cymbal_closed.flac"
+time: 202.56 - "drum_snare_hard.flac"
+time: 202.6 - "drum_cymbal_soft.flac", {amp: 0.5}
+time: 202.64 - "elec_fuzz_tom.flac"
+time: 202.68 - "drum_cymbal_closed.flac"
+time: 202.72 - "sn_generic.flac"
+time: 202.92 - "drum_cymbal_soft.flac", {amp: 0.5}
+time: 203.0 - "drum_cymbal_closed.flac"
+time: 203.04 - "bd_tek.flac"
+time: 203.08 - "drum_cymbal_soft.flac", {amp: 0.5}
+time: 203.16 - "drum_cymbal_closed.flac"
+time: 203.2 - "drum_snare_hard.flac"
+time: 203.28 - "drum_tom_lo_soft.flac", {amp: 0.7}
+time: 203.32 - "drum_cymbal_soft.flac"
+time: 203.36 - "drum_snare_hard.flac"
+time: 203.4 - "drum_cymbal_soft.flac", {amp: 0.5}
+time: 203.48 - "drum_cymbal_pedal.flac"
+time: 203.52 - "bd_tek.flac"
+time: 203.56 - "drum_cymbal_soft.flac", {amp: 0.5}
+time: 203.6 - "drum_tom_hi_soft.flac", {amp: 0.7}
+time: 203.64 - "drum_cymbal_pedal.flac"
+time: 203.68 - "bd_boom.flac"
+time: 203.76 - "drum_tom_hi_soft.flac", {amp: 0.7}
+time: 203.8 - "drum_cymbal_pedal.flac"
+time: 203.84 - "drum_snare_hard.flac"
+time: 203.88 - "drum_cymbal_closed.flac", {amp: 0.5}
+time: 203.92 - "perc_swash.flac"
+time: 204.04 - "drum_cymbal_closed.flac", {amp: 0.5}
+time: 204.08 - "drum_tom_hi_soft.flac", {amp: 0.7}
+time: 204.2 - "drum_cymbal_closed.flac", {amp: 0.5}
+time: 204.28 - "drum_cymbal_pedal.flac"
+time: 204.32 - "bd_tek.flac"
+time: 204.44 - "drum_cymbal_soft.flac"
+time: 204.48 - "drum_snare_hard.flac"
+time: 204.52 - "drum_cymbal_pedal.flac", {amp: 0.5}
+time: 204.64 - "drum_snare_hard.flac"
+time: 204.68 - "drum_cymbal_pedal.flac", {amp: 0.5}
+time: 204.72 - "sn_zome.flac"
+time: 204.76 - "drum_splash_soft.flac"
+time: 204.8 - "bd_tek.flac"
+time: 204.96 - "bd_tek.flac"
+time: 205.08 - "drum_cymbal_soft.flac"
+time: 205.12 - "drum_snare_hard.flac"
+time: 205.16 - "drum_cymbal_closed.flac", {amp: 0.5}
+time: 205.36 - "elec_fuzz_tom.flac"
+time: 205.44 - "elec_tick.flac"
+time: 205.52 - "sn_generic.flac"
+time: 205.56 - "drum_cymbal_closed.flac"
+time: 205.6 - "bd_tek.flac"
+time: 205.72 - "drum_cymbal_soft.flac"
+time: 205.76 - "drum_snare_hard.flac"
+time: 205.8 - "drum_cymbal_pedal.flac", {amp: 0.5}
+time: 205.88 - "drum_cymbal_closed.flac"
+time: 205.96 - "drum_cymbal_soft.flac", {amp: 0.5}
+time: 206.0 - "elec_hi_snare.flac"
+time: 206.04 - "drum_cymbal_open.flac"
+time: 206.08 - "bd_tek.flac"
+time: 206.16 - "elec_tick.flac"
+time: 206.24 - "bd_fat.flac"
+time: 206.28 - "drum_cymbal_pedal.flac", {amp: 0.5}
+time: 206.4 - "drum_snare_hard.flac"
+time: 206.52 - "drum_cymbal_pedal.flac"
+time: 206.56 - "drum_snare_hard.flac"
+time: 206.8 - "elec_hi_snare.flac"
+time: 206.84 - "drum_cymbal_pedal.flac"
+time: 206.88 - "bd_tek.flac"
+time: 206.96 - "elec_fuzz_tom.flac"
+time: 207.0 - "drum_cymbal_closed.flac"
+time: 207.04 - "drum_snare_hard.flac"
+time: 207.08 - "drum_cymbal_pedal.flac", {amp: 0.5}
+time: 207.16 - "drum_cymbal_soft.flac"
+time: 207.2 - "drum_snare_hard.flac"
+time: 207.24 - "drum_cymbal_closed.flac", {amp: 0.5}
+time: 207.28 - "sn_zome.flac"
+time: 207.32 - "drum_cymbal_pedal.flac"
+time: 207.36 - "bd_tek.flac"
+time: 207.44 - "drum_tom_mid_soft.flac", {amp: 0.7}
+time: 207.48 - "drum_cymbal_closed.flac"
+time: 207.52 - "bd_tek.flac"
+time: 207.6 - "perc_swash.flac"
+time: 207.68 - "drum_snare_hard.flac"
+time: 207.8 - "drum_cymbal_pedal.flac"
+time: 207.84 - "drum_snare_hard.flac"
+time: 207.88 - "drum_cymbal_pedal.flac", {amp: 0.5}
+time: 208.0 - "perc_swash.flac"
+time: 208.08 - "sn_zome.flac"
+time: 208.12 - "drum_cymbal_closed.flac"
+time: 208.16 - "bd_tek.flac"
+time: 208.24 - "perc_swash.flac"
+time: 208.32 - "drum_snare_hard.flac"
+time: 208.36 - "drum_cymbal_soft.flac", {amp: 0.5}
+time: 208.4 - "elec_tick.flac"
+time: 208.44 - "drum_cymbal_closed.flac"
+time: 208.48 - "drum_snare_hard.flac"
+time: 208.6 - "drum_cymbal_pedal.flac"
+time: 208.64 - "bd_tek.flac"
+time: 208.68 - "drum_cymbal_pedal.flac", {amp: 0.5}
+time: 208.72 - "elec_fuzz_tom.flac"
+time: 208.8 - "bd_sone.flac"
+time: 208.84 - "drum_cymbal_pedal.flac", {amp: 0.5}
+time: 208.88 - "perc_swash.flac"
+time: 208.92 - "drum_cymbal_pedal.flac"
+time: 208.96 - "drum_snare_hard.flac"
+time: 209.0 - "drum_cymbal_closed.flac", {amp: 0.5}
+time: 209.04 - "perc_swash.flac"
+time: 209.08 - "drum_cymbal_closed.flac"
+time: 209.12 - "drum_snare_soft.flac"
+time: 209.2 - "perc_swash.flac"
+time: 209.28 - "perc_swash.flac"
+time: 209.36 - "elec_hi_snare.flac"
+time: 209.4 - "drum_cymbal_pedal.flac"
+time: 209.44 - "bd_tek.flac"
+time: 209.48 - "drum_cymbal_pedal.flac", {amp: 0.5}
+time: 209.52 - "perc_swash.flac"
+time: 209.6 - "drum_snare_hard.flac"
+time: 209.64 - "drum_cymbal_pedal.flac", {amp: 0.5}
+time: 209.68 - "perc_swash.flac"
+time: 209.72 - "drum_cymbal_pedal.flac"
+time: 209.76 - "drum_snare_hard.flac"
+time: 209.8 - "drum_cymbal_pedal.flac", {amp: 0.5}
+time: 209.84 - "drum_snare_soft.flac"
+time: 209.88 - "drum_cymbal_closed.flac"
+time: 209.92 - "nbpf Effect"
+time: 209.92 - "bd_tek.flac"
+time: 210.04 - "drum_cymbal_closed.flac"
+time: 210.08 - "bd_boom.flac"
+time: 210.12 - "drum_cymbal_soft.flac", {amp: 0.5}
+time: 210.2 - "drum_cymbal_closed.flac"
+time: 210.24 - "drum_snare_hard.flac"
+time: 210.28 - "drum_cymbal_soft.flac", {amp: 0.5}
+time: 210.4 - "drum_snare_hard.flac"
+time: 210.68 - "drum_cymbal_soft.flac"
+time: 210.72 - "bd_tek.flac"
+time: 210.88 - "drum_snare_hard.flac"
+time: 210.92 - "drum_cymbal_closed.flac", {amp: 0.5}
+time: 210.96 - "drum_tom_lo_soft.flac", {amp: 0.7}
+time: 211.08 - "drum_cymbal_pedal.flac", {amp: 0.5}
+time: 211.12 - "sn_zome.flac"
+time: 211.16 - "drum_cymbal_closed.flac"
+time: 211.2 - "bd_tek.flac"
+time: 211.24 - "drum_cymbal_soft.flac", {amp: 0.5}
+time: 211.32 - "drum_cymbal_closed.flac"
+time: 211.36 - "bd_fat.flac"
+time: 211.4 - "drum_cymbal_soft.flac", {amp: 0.5}
+time: 211.44 - "elec_tick.flac"
+time: 211.48 - "drum_cymbal_closed.flac"
+time: 211.52 - "drum_snare_hard.flac"
+time: 211.56 - "drum_cymbal_soft.flac", {amp: 0.5}
+time: 211.6 - "elec_fuzz_tom.flac"
+time: 211.64 - "drum_cymbal_closed.flac"
+time: 211.76 - "drum_tom_lo_soft.flac", {amp: 0.7}
+time: 211.96 - "drum_cymbal_pedal.flac"
+time: 212.0 - "bd_tek.flac"
+time: 212.12 - "drum_cymbal_closed.flac"
+time: 212.16 - "drum_snare_hard.flac"
+time: 212.28 - "drum_cymbal_closed.flac"
+time: 212.32 - "drum_snare_hard.flac"
+time: 212.4 - "sn_generic.flac"
+time: 212.44 - "drum_cymbal_soft.flac"
+time: 212.48 - "bd_tek.flac"
+time: 212.56 - "elec_tick.flac"
+time: 212.6 - "drum_cymbal_closed.flac"
+time: 212.64 - "bd_zum.flac"
+time: 212.68 - "drum_cymbal_pedal.flac", {amp: 0.5}
+time: 212.76 - "drum_cymbal_closed.flac"
+time: 212.8 - "drum_snare_hard.flac"
+time: 212.84 - "drum_cymbal_soft.flac", {amp: 0.5}
+time: 212.92 - "drum_cymbal_soft.flac"
+time: 213.0 - "drum_cymbal_closed.flac", {amp: 0.5}
+time: 213.24 - "drum_cymbal_closed.flac"
+time: 213.28 - "bd_tek.flac"
+time: 213.4 - "drum_cymbal_closed.flac"
+time: 213.44 - "drum_snare_hard.flac"
+time: 213.48 - "drum_cymbal_closed.flac", {amp: 0.5}
+time: 213.56 - "drum_cymbal_closed.flac"
+time: 213.6 - "drum_snare_hard.flac"
+time: 213.64 - "drum_cymbal_soft.flac", {amp: 0.5}
+time: 213.68 - "drum_snare_hard.flac"
+time: 213.72 - "drum_splash_soft.flac"
+time: 213.76 - "bd_tek.flac"
+time: 213.84 - "elec_tick.flac"
+time: 213.88 - "drum_cymbal_closed.flac"
+time: 214.04 - "drum_cymbal_pedal.flac"
+time: 214.08 - "drum_snare_hard.flac"
+time: 214.12 - "drum_cymbal_closed.flac", {amp: 0.5}
+time: 214.16 - "elec_fuzz_tom.flac"
+time: 214.2 - "drum_cymbal_closed.flac"
+time: 214.24 - "drum_snare_soft.flac"
+time: 214.28 - "drum_cymbal_closed.flac", {amp: 0.5}
+time: 214.32 - "drum_tom_hi_soft.flac", {amp: 0.7}
+time: 214.4 - "perc_swash.flac"
+time: 214.48 - "drum_snare_hard.flac"
+time: 214.52 - "drum_cymbal_closed.flac"
+time: 214.56 - "bd_tek.flac"
+time: 214.6 - "drum_cymbal_soft.flac", {amp: 0.5}
+time: 214.64 - "drum_tom_hi_soft.flac", {amp: 0.7}
+time: 214.68 - "drum_cymbal_pedal.flac"
+time: 214.72 - "drum_snare_hard.flac"
+time: 214.76 - "drum_cymbal_soft.flac", {amp: 0.5}
+time: 214.84 - "drum_cymbal_soft.flac"
+time: 214.88 - "drum_snare_hard.flac"
+time: 215.0 - "drum_cymbal_open.flac"
+time: 215.04 - "bd_tek.flac"
+time: 215.12 - "elec_tick.flac"
+time: 215.16 - "drum_cymbal_closed.flac"
+time: 215.2 - "bd_sone.flac"
+time: 215.24 - "drum_cymbal_pedal.flac", {amp: 0.5}
+time: 215.28 - "drum_tom_mid_soft.flac", {amp: 0.7}
+time: 215.32 - "drum_cymbal_soft.flac"
+time: 215.36 - "drum_snare_hard.flac"
+time: 215.4 - "drum_cymbal_pedal.flac", {amp: 0.5}
+time: 215.48 - "drum_cymbal_closed.flac"
+time: 215.76 - "drum_snare_soft.flac"
+time: 215.8 - "drum_cymbal_closed.flac"
+time: 215.84 - "bd_tek.flac"
+time: 215.88 - "drum_cymbal_pedal.flac", {amp: 0.5}
+time: 215.96 - "drum_cymbal_soft.flac"
+time: 216.0 - "drum_snare_hard.flac"
+time: 216.12 - "drum_cymbal_closed.flac"
+time: 216.16 - "drum_snare_hard.flac"
+time: 216.2 - "drum_cymbal_pedal.flac", {amp: 0.5}
+time: 216.28 - "drum_cymbal_soft.flac"
+time: 216.32 - "bd_tek.flac"
+time: 216.36 - "drum_cymbal_closed.flac", {amp: 0.5}
+time: 216.4 - "drum_tom_mid_soft.flac", {amp: 0.7}
+time: 216.44 - "drum_cymbal_soft.flac"
+time: 216.48 - "bd_tek.flac"
+time: 216.56 - "perc_swash.flac"
+time: 216.6 - "drum_cymbal_closed.flac"
+time: 216.64 - "drum_snare_hard.flac"
+time: 216.68 - "drum_cymbal_soft.flac", {amp: 0.5}
+time: 216.76 - "drum_cymbal_closed.flac"
+time: 216.84 - "drum_cymbal_pedal.flac", {amp: 0.5}
+time: 216.88 - "elec_fuzz_tom.flac"
+time: 217.04 - "elec_hi_snare.flac"
+time: 217.08 - "drum_cymbal_closed.flac"
+time: 217.12 - "bd_tek.flac"
+time: 217.24 - "drum_cymbal_pedal.flac"
+time: 217.28 - "drum_snare_hard.flac"
+time: 217.32 - "drum_cymbal_pedal.flac", {amp: 0.5}
+time: 217.4 - "drum_cymbal_pedal.flac"
+time: 217.44 - "drum_snare_hard.flac"
+time: 217.48 - "drum_cymbal_soft.flac", {amp: 0.5}
+time: 217.56 - "drum_cymbal_open.flac"
+time: 217.6 - "bd_tek.flac"
+time: 217.72 - "drum_cymbal_closed.flac"
+time: 217.76 - "bd_klub.flac"
+time: 217.92 - "drum_snare_hard.flac"
+time: 217.96 - "drum_cymbal_pedal.flac", {amp: 0.5}
+time: 218.04 - "drum_cymbal_closed.flac"
+time: 218.24 - "drum_tom_mid_soft.flac", {amp: 0.7}
+time: 218.36 - "drum_cymbal_soft.flac"
+time: 218.4 - "bd_tek.flac"
+time: 218.48 - "perc_swash.flac"
+time: 218.52 - "drum_cymbal_closed.flac"
+time: 218.56 - "drum_snare_hard.flac"
+time: 218.68 - "drum_cymbal_soft.flac"
+time: 218.72 - "drum_snare_hard.flac"
+time: 218.76 - "drum_cymbal_closed.flac", {amp: 0.5}
+time: 218.8 - "elec_hi_snare.flac"
+time: 218.84 - "drum_cymbal_closed.flac"
+time: 218.88 - "bd_tek.flac"
+time: 218.92 - "drum_cymbal_soft.flac", {amp: 0.5}
+time: 218.96 - "drum_tom_lo_soft.flac", {amp: 0.7}
+time: 219.0 - "drum_cymbal_closed.flac"
+time: 219.04 - "bd_ada.flac"
+time: 219.08 - "drum_cymbal_soft.flac", {amp: 0.5}
+time: 219.16 - "drum_cymbal_closed.flac"
+time: 219.2 - "drum_snare_hard.flac"
+time: 219.24 - "drum_cymbal_pedal.flac", {amp: 0.5}
+time: 219.28 - "drum_tom_mid_soft.flac", {amp: 0.7}
+time: 219.32 - "drum_cymbal_closed.flac"
+time: 219.36 - "drum_snare_hard.flac"
+time: 219.52 - "elec_tick.flac"
+time: 219.56 - "drum_cymbal_soft.flac", {amp: 0.5}
+time: 219.6 - "drum_snare_soft.flac"
+time: 219.64 - "drum_cymbal_closed.flac"
+time: 219.68 - "bd_tek.flac"
+time: 219.72 - "drum_cymbal_pedal.flac", {amp: 0.5}
+time: 219.76 - "drum_tom_hi_soft.flac", {amp: 0.7}
+time: 219.84 - "drum_snare_hard.flac"
+time: 219.88 - "drum_cymbal_pedal.flac", {amp: 0.5}
+time: 219.92 - "perc_swash.flac"
+time: 219.96 - "drum_cymbal_soft.flac"
+time: 220.0 - "drum_snare_hard.flac"
+time: 220.04 - "drum_cymbal_soft.flac", {amp: 0.5}
+time: 220.08 - "drum_snare_hard.flac"
+time: 220.12 - "drum_cymbal_open.flac"
+time: 220.16 - "nbpf Effect"
+time: 220.16 - "bd_tek.flac"
+time: 220.2 - "drum_cymbal_pedal.flac", {amp: 0.5}
+time: 220.24 - "drum_tom_mid_soft.flac", {amp: 0.7}
+time: 220.36 - "drum_cymbal_soft.flac", {amp: 0.5}
+time: 220.44 - "drum_cymbal_closed.flac"
+time: 220.48 - "drum_snare_hard.flac"
+time: 220.52 - "drum_cymbal_soft.flac", {amp: 0.5}
+time: 220.6 - "drum_cymbal_closed.flac"
+time: 220.68 - "drum_cymbal_soft.flac", {amp: 0.5}
+time: 220.8 - "drum_tom_lo_soft.flac", {amp: 0.7}
+time: 220.84 - "drum_cymbal_closed.flac", {amp: 0.5}
+time: 220.92 - "drum_cymbal_closed.flac"
+time: 220.96 - "bd_tek.flac"
+time: 221.08 - "drum_cymbal_pedal.flac"
+time: 221.12 - "drum_snare_hard.flac"
+time: 221.24 - "drum_cymbal_pedal.flac"
+time: 221.28 - "drum_snare_hard.flac"
+time: 221.32 - "drum_cymbal_closed.flac", {amp: 0.5}
+time: 221.44 - "bd_tek.flac"
+time: 221.56 - "drum_cymbal_closed.flac"
+time: 221.6 - "bd_sone.flac"
+time: 221.68 - "elec_fuzz_tom.flac"
+time: 221.72 - "drum_cymbal_closed.flac"
+time: 221.76 - "drum_snare_hard.flac"
+time: 221.84 - "drum_tom_hi_soft.flac", {amp: 0.7}
+time: 221.92 - "drum_snare_hard.flac"
+time: 221.96 - "drum_cymbal_soft.flac", {amp: 0.5}
+time: 222.0 - "drum_tom_hi_soft.flac", {amp: 0.7}
+time: 222.08 - "drum_tom_mid_soft.flac", {amp: 0.7}
+time: 222.16 - "sn_zome.flac"
+time: 222.2 - "drum_cymbal_closed.flac"
+time: 222.24 - "bd_tek.flac"
+time: 222.36 - "drum_cymbal_soft.flac"
+time: 222.4 - "drum_snare_hard.flac"
+time: 222.52 - "drum_cymbal_closed.flac"
+time: 222.56 - "drum_snare_hard.flac"
+time: 222.68 - "drum_cymbal_closed.flac"
+time: 222.72 - "bd_tek.flac"
+time: 222.76 - "drum_cymbal_closed.flac", {amp: 0.5}
+time: 222.8 - "drum_tom_mid_soft.flac", {amp: 0.7}
+time: 222.84 - "drum_cymbal_closed.flac"
+time: 222.88 - "bd_sone.flac"
+time: 222.92 - "drum_cymbal_closed.flac", {amp: 0.5}
+time: 223.0 - "drum_cymbal_soft.flac"
+time: 223.04 - "drum_snare_hard.flac"
+time: 223.12 - "elec_fuzz_tom.flac"
+time: 223.16 - "drum_cymbal_soft.flac"
+time: 223.2 - "drum_snare_hard.flac"
+time: 223.28 - "drum_tom_hi_soft.flac", {amp: 0.7}
+time: 223.36 - "elec_tick.flac"
+time: 223.4 - "drum_cymbal_soft.flac", {amp: 0.5}
+time: 223.44 - "drum_snare_hard.flac"
+time: 223.48 - "drum_cymbal_closed.flac"
+time: 223.52 - "bd_tek.flac"
+time: 223.56 - "drum_cymbal_pedal.flac", {amp: 0.5}
+time: 223.64 - "drum_cymbal_closed.flac"
+time: 223.68 - "drum_snare_hard.flac"
+time: 223.76 - "elec_tick.flac"
+time: 223.8 - "drum_cymbal_closed.flac"
+time: 223.84 - "drum_snare_hard.flac"
+time: 223.96 - "drum_cymbal_soft.flac"
+time: 224.0 - "bd_tek.flac"
+time: 224.04 - "drum_cymbal_soft.flac", {amp: 0.5}
+time: 224.08 - "perc_swash.flac"
+time: 224.12 - "drum_cymbal_pedal.flac"
+time: 224.16 - "bd_klub.flac"
+time: 224.2 - "drum_cymbal_soft.flac", {amp: 0.5}
+time: 224.24 - "drum_tom_mid_soft.flac", {amp: 0.7}
+time: 224.28 - "drum_cymbal_pedal.flac"
+time: 224.32 - "drum_snare_hard.flac"
+time: 224.4 - "perc_swash.flac"
+time: 224.52 - "drum_cymbal_soft.flac", {amp: 0.5}
+time: 224.64 - "drum_tom_lo_soft.flac", {amp: 0.7}
+time: 224.76 - "drum_cymbal_pedal.flac"
+time: 224.8 - "bd_tek.flac"
+time: 224.84 - "drum_cymbal_soft.flac", {amp: 0.5}
+time: 224.88 - "drum_tom_lo_soft.flac", {amp: 0.7}
+time: 224.92 - "drum_cymbal_pedal.flac"
+time: 224.96 - "drum_snare_hard.flac"
+time: 225.04 - "perc_swash.flac"
+time: 225.08 - "drum_cymbal_pedal.flac"
+time: 225.12 - "drum_snare_hard.flac"
+time: 225.16 - "drum_cymbal_pedal.flac", {amp: 0.5}
+time: 225.2 - "drum_snare_hard.flac"
+time: 225.24 - "drum_cymbal_open.flac"
+time: 225.28 - "bd_tek.flac"
+time: 225.32 - "drum_cymbal_closed.flac", {amp: 0.5}
+time: 225.36 - "elec_fuzz_tom.flac"
+time: 225.4 - "drum_cymbal_pedal.flac"
+time: 225.44 - "bd_sone.flac"
+time: 225.48 - "drum_cymbal_soft.flac", {amp: 0.5}
+time: 225.52 - "elec_tick.flac"
+time: 225.56 - "drum_cymbal_soft.flac"
+time: 225.6 - "drum_snare_hard.flac"
+time: 225.64 - "drum_cymbal_soft.flac", {amp: 0.5}
+time: 225.68 - "drum_tom_hi_soft.flac", {amp: 0.7}
+time: 225.72 - "drum_cymbal_soft.flac"
+time: 225.76 - "sn_zome.flac"
+time: 225.8 - "drum_cymbal_pedal.flac", {amp: 0.5}
+time: 225.84 - "drum_tom_lo_soft.flac", {amp: 0.7}
+time: 225.92 - "elec_fuzz_tom.flac"
+time: 225.96 - "drum_cymbal_soft.flac", {amp: 0.5}
+time: 226.0 - "drum_snare_hard.flac"
+time: 226.04 - "drum_cymbal_closed.flac"
+time: 226.08 - "bd_tek.flac"
+time: 226.12 - "drum_cymbal_closed.flac", {amp: 0.5}
+time: 226.16 - "perc_swash.flac"
+time: 226.2 - "drum_cymbal_closed.flac"
+time: 226.24 - "drum_snare_hard.flac"
+time: 226.32 - "drum_tom_hi_soft.flac", {amp: 0.7}
+time: 226.36 - "drum_cymbal_pedal.flac"
+time: 226.52 - "drum_cymbal_closed.flac"
+time: 226.56 - "bd_tek.flac"
+time: 226.6 - "drum_cymbal_closed.flac", {amp: 0.5}
+time: 226.68 - "drum_cymbal_pedal.flac"
+time: 226.72 - "bd_fat.flac"
+time: 226.76 - "drum_cymbal_soft.flac", {amp: 0.5}
+time: 226.84 - "drum_cymbal_closed.flac"
+time: 226.88 - "drum_snare_hard.flac"
+time: 226.92 - "drum_cymbal_soft.flac", {amp: 0.5}
+time: 227.0 - "drum_cymbal_closed.flac"
+time: 227.04 - "sn_zome.flac"
+time: 227.08 - "drum_cymbal_soft.flac", {amp: 0.5}
+time: 227.12 - "perc_swash.flac"
+time: 227.2 - "drum_tom_mid_soft.flac", {amp: 0.7}
+time: 227.32 - "drum_cymbal_soft.flac"
+time: 227.36 - "bd_tek.flac"
+time: 227.4 - "drum_cymbal_soft.flac", {amp: 0.5}
+time: 227.44 - "perc_swash.flac"
+time: 227.52 - "drum_snare_hard.flac"
+time: 227.56 - "drum_cymbal_closed.flac", {amp: 0.5}
+time: 227.6 - "perc_swash.flac"
+time: 227.64 - "drum_cymbal_closed.flac"
+time: 227.68 - "drum_snare_hard.flac"
+time: 227.72 - "drum_cymbal_soft.flac", {amp: 0.5}
+time: 227.8 - "drum_cymbal_closed.flac"
+time: 227.84 - "bd_tek.flac"
+time: 227.88 - "drum_cymbal_closed.flac", {amp: 0.5}
+time: 228.04 - "drum_cymbal_soft.flac", {amp: 0.5}
+time: 228.08 - "drum_tom_lo_soft.flac", {amp: 0.7}
+time: 228.12 - "drum_cymbal_closed.flac"
+time: 228.16 - "drum_snare_hard.flac"
+time: 228.28 - "drum_cymbal_pedal.flac"
+time: 228.32 - "sn_zome.flac"
+time: 228.36 - "drum_cymbal_closed.flac", {amp: 0.5}
+time: 228.4 - "drum_tom_lo_soft.flac", {amp: 0.7}
+time: 228.48 - "drum_tom_hi_soft.flac", {amp: 0.7}
+time: 228.56 - "drum_snare_soft.flac"
+time: 228.6 - "drum_cymbal_pedal.flac"
+time: 228.64 - "bd_tek.flac"
+time: 228.68 - "drum_cymbal_soft.flac", {amp: 0.5}
+time: 228.72 - "drum_tom_mid_soft.flac", {amp: 0.7}
+time: 228.8 - "drum_snare_hard.flac"
+time: 228.88 - "drum_tom_mid_soft.flac", {amp: 0.7}
+time: 228.92 - "drum_cymbal_closed.flac"
+time: 229.0 - "drum_cymbal_pedal.flac", {amp: 0.5}
+time: 229.08 - "drum_cymbal_pedal.flac"
+time: 229.12 - "bd_tek.flac"
+time: 229.16 - "drum_cymbal_soft.flac", {amp: 0.5}
+time: 229.2 - "drum_tom_hi_soft.flac", {amp: 0.7}
+time: 229.24 - "drum_cymbal_pedal.flac"
+time: 229.28 - "bd_tek.flac"
+time: 229.32 - "drum_cymbal_pedal.flac", {amp: 0.5}
+time: 229.4 - "drum_cymbal_pedal.flac"
+time: 229.44 - "drum_snare_hard.flac"
+time: 229.48 - "drum_cymbal_soft.flac", {amp: 0.5}
+time: 229.6 - "drum_snare_hard.flac"
+time: 229.64 - "drum_cymbal_closed.flac", {amp: 0.5}
+time: 229.68 - "drum_tom_hi_soft.flac", {amp: 0.7}
+time: 229.8 - "drum_cymbal_pedal.flac", {amp: 0.5}
+time: 229.84 - "drum_snare_soft.flac"
+time: 229.88 - "drum_cymbal_pedal.flac"
+time: 229.92 - "bd_tek.flac"
+time: 230.04 - "drum_cymbal_closed.flac"
+time: 230.08 - "drum_snare_hard.flac"
+time: 230.12 - "drum_cymbal_soft.flac", {amp: 0.5}
+time: 230.16 - "perc_swash.flac"
+time: 230.2 - "drum_cymbal_closed.flac"
+time: 230.24 - "drum_snare_hard.flac"
+time: 230.28 - "drum_cymbal_pedal.flac", {amp: 0.5}
+time: 230.36 - "drum_cymbal_closed.flac"
+time: 230.4 - "Outro"
+time: 230.4 - "ixi_techno Effect"
+time: 230.4 - "bd_tek.flac"
+time: 230.72 - "drum_snare_hard.flac"
+time: 231.2 - "bd_tek.flac"
+time: 231.36 - "drum_snare_hard.flac"
+time: 231.68 - "bd_tek.flac"
+time: 232.0 - "drum_snare_hard.flac"
+time: 232.48 - "bd_tek.flac"
+time: 232.64 - "drum_snare_hard.flac"
+time: 232.96 - "bd_tek.flac"
+time: 233.28 - "drum_snare_hard.flac"
+time: 233.76 - "bd_tek.flac"
+time: 233.92 - "drum_snare_hard.flac"
+time: 234.24 - "bd_tek.flac"
+time: 234.56 - "drum_snare_hard.flac"
+time: 235.04 - "bd_tek.flac"
+time: 235.2 - "drum_snare_hard.flac"
