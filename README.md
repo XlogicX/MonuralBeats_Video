@@ -15,3 +15,6 @@ When played in Sonic-Pi, a log is generated. The log.txt is a cleaned up (with t
 
 # Running
 So long as all the kit .txt files and log.txt files are in the same place as the video.py, this script should run without too many issues; as time, re, and curses are typically standard python3 built-ins.
+
+# End Result
+https://youtu.be/6lv05VfTGK0
